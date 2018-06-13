@@ -36,23 +36,48 @@ app.use(express.static('uploads'));
 app.get('/index/:data?', function (req, res) {
   let data = req.params.data;
   data = decodeURIComponent(data)
-  fse.writeFile("hymnals-data/index.json", data, function(err) {
-    if(err) {
-        return console.log(err);
-    }
-    let cmd = `sh hymnals-data/hymnalupdates.sh update`
-    // console.log(cmd);
-    let child = shell.exec(cmd, {async:true, silent:true});
-    child.stdout.on('data', function(data) {
-        console.log(data)
-      });
-  });
-  res.send('...')
+
+  try{
+    JSON.parse(data)
+    fse.writeFile("hymnals-data/index.json", data, function(err) {
+      if(err) {
+          return console.log(err);
+      }
+      let cmd = `sh hymnals-data/hymnalupdates.sh update`
+      // console.log(cmd);
+      let child = shell.exec(cmd, {async:true, silent:true});
+      child.stdout.on('data', function(data) {
+          console.log(data)
+        });
+    });
+    res.send('...')
+  }catch(err){
+    res.send(err+'.')
+  }
+  
 })
 
-app.get('/allhymns:index?', function (req, res) {
-  console.log("some request...")
-  // let data = encodeURIComponent(index)
+app.get('/allhymns:data?', function (req, res) {
+  let data = req.params.data;
+  data = decodeURIComponent(data)
+
+  try{
+    JSON.parse(data)
+    fse.writeFile("hymnals-data/allhymns.json", data, function(err) {
+      if(err) {
+          return console.log(err);
+      }
+      let cmd = `sh hymnals-data/hymnalupdates.sh 'update allhymns'`
+      // console.log(cmd);
+      let child = shell.exec(cmd, {async:true, silent:true});
+      child.stdout.on('data', function(data) {
+          console.log(data)
+        });
+    });
+    res.send('...')
+  }catch(err){
+    res.send(err+'.')
+  }
   
 })
 
