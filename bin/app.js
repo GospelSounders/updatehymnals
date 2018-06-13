@@ -57,7 +57,7 @@ app.get('/index/:data?', function (req, res) {
   
 })
 
-app.get('/allhymns:data?', function (req, res) {
+app.get('/allhymns/:data?', function (req, res) {
   let data = req.params.data;
   data = decodeURIComponent(data)
 
