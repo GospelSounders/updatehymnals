@@ -35,40 +35,22 @@ app.use(express.static('uploads'));
 
 app.get('/index/:data?', function (req, res) {
   let data = req.params.data;
-  // try{
-  // console.log(data)
-  // data = decodeURIComponent(data)
-  // console.log(data)
-  // data = JSON.parse(data)
-  // console.log(data)
-  // res.send('hello world')
-  // }catch(err){
-  //   console.log(err)
-  //   res.send(err)
-  // }
   data = decodeURIComponent(data)
-  console.log(data)
-  // data = JSON.parse(data)
-  // console.log(data)
-  //write that data into a file
   fse.writeFile("hymnals-data/index.json", data, function(err) {
     if(err) {
         return console.log(err);
     }
-
-    console.log("The file was saved!");
     let cmd = `sh hymnals-data/hymnalupdates.sh update`
-    // let cmd = "pwd"
-    console.log(cmd);
+    // console.log(cmd);
     let child = shell.exec(cmd, {async:true, silent:true});
     child.stdout.on('data', function(data) {
         console.log(data)
       });
   });
-  res.send('hello world')
+  res.send('...')
 })
 
-app.get('/:index?', function (req, res) {
+app.get('/allhymns:index?', function (req, res) {
   console.log("some request...")
   // let data = encodeURIComponent(index)
   
