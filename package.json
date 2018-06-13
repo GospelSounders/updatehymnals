@@ -1,0 +1,31 @@
+{
+  "name": "Vipimo_Forwarder",
+  "version": "1.0.1",
+  "description": "LoRa packet forwarder",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/upandeltd/kcs_forwarder.git"
+  },
+  "author": "Brian Onang'o",
+  "license": "Apache 2",
+  "scripts": {
+    "start": "PORT=3001 node app.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "bitwise": "^0.2.0",
+    "chalk": "^2.4.1",
+    "confidence": "^3.0.2",
+    "cuint": "^0.2.2",
+    "dotenv": "^4.0.0",
+    "express": "^4.16.3",
+    "fs-extra": "^4.0.1",
+    "lora-packet": "^0.6.0",
+    "morgan": "^1.9.0",
+    "node-bitarray": "^0.1.0",
+    "node-html-encoder": "^0.0.2",
+    "request": "^2.81.0",
+    "shelljs": "^0.8.2",
+    "string_decoder": "^1.0.3"
+  }
+}

@@ -1,0 +1,14 @@
+[Unit]
+Description=Update Hymnals
+
+[Service]
+User=root
+Group=root
+WorkingDirectory=/var/www/html/updatehymnals/
+ExecStart=/var/www/html/updatehymnals/start.sh
+SyslogIdentifier=updatehymnals
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
