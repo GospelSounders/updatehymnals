@@ -8,12 +8,12 @@ gitpull() {
 	git reset --hard origin/master
 }
 
-
 while :			#continuously check for internet
 do
    {
    		sleep $checktime
    		gitpull
    		yarn install
+   		systemctl restart updatehymnals
    }
 done
