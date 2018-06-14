@@ -128,7 +128,7 @@ function singleHymnal() {
   
   searchid(idSheet)
   ret = encodeURIComponent(JSON.stringify(ret));
-  var cellFunction = '=importxml("https://gospelsounders.org/hymnals/'+thisHymnal+'/'+ret+'","//@q")';
+  var cellFunction = '=importxml("http://localhost:3002/hymnals/'+thisHymnal+'/'+ret+'","//@q")';
   SpreadsheetApp.getActiveSheet().getRange(numrows+3,1).setValue(cellFunction);
   
   updated = 0;
@@ -173,7 +173,7 @@ function allHymns() {
     }
   }
   allHymns = encodeURIComponent(JSON.stringify(hymns))
-  var cellFunction = '=importxml("https://gospelsounders.org/allhymns/'+allHymns+'","//@q")';
+  var cellFunction = '=importxml("http://localhost:3002/allhymns/'+allHymns+'","//@q")';
   SpreadsheetApp.getActiveSheet().getRange(numrows+4,1).setValue(cellFunction);
   
   updated = 0;
@@ -236,7 +236,7 @@ function getHymnals(titles) {
   var tmp = encodeURIComponent(JSON.stringify(hymnal));
   SpreadsheetApp.getActiveSheet().getRange(2,13).setValue(tmp);
   
-  var cellFunction = '=importxml("https://gospelsounders.org/index/'+tmp+'","//@q")';
+  var cellFunction = '=importxml("http://localhost:3002/index/'+tmp+'","//@q")';
  
   SpreadsheetApp.getActiveSheet().getRange(3,13).setValue(cellFunction);
   updated = 0;
