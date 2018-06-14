@@ -15,10 +15,7 @@ Update hymnals is the service that ensures changes made to the [All Hymnals Shee
 - [Installation](#installation)
   - [Requirements](#requirements)
   - [Installing Prerequisites](#installing-prerequisites)
-  - [Installing KCS Packet Forwarder](#installing-kcs-packet-forwarder)
-  - [Configuration](#configuration)
-  - [Manual Install](#manual-install)
-  - [Manual upgrade](#manual-upgrade)
+  - [Installing UpdateHymnals](#installing-updateHymnals)
 - [Usage](#usage)
 - [Features](#features)
 - [Todo](#todo)
@@ -72,6 +69,9 @@ Then just peek in to see if things work fine
 ```sh
 journalctl -f -u updatehymnals
 ```
+
+## Features
+- [x] Automatic updates
 
 ## Todo
 - [ ] Create forms
