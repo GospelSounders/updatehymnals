@@ -81,6 +81,34 @@ app.get('/allhymns/:data?', function (req, res) {
   
 })
 
+app.get('/hymnals/:hymnal/:data?', function (req, res) {
+  let data = req.params.data;
+  let hymnal = req.params.hymnal;
+  data = decodeURIComponent(data)
+
+  try{
+    JSON.parse(data)
+    if (!fse.existsSync(`hymnals-data/${hymnal}`)){
+      fse.mkdirSync(`hymnals-data/${hymnal}`);
+    }
+    fse.writeFile(`hymnals-data/${hymnal}/index.json`, data, function(err) {
+      if(err) {
+          return console.log(err);
+      }
+      let cmd = `sh hymnals-data/hymnalupdates.sh 'update ${hymnal}'`
+      // console.log(cmd);
+      let child = shell.exec(cmd, {async:true, silent:true});
+      child.stdout.on('data', function(data) {
+          console.log(data)
+        });
+    });
+    res.send('...')
+  }catch(err){
+    res.send(err+'.')
+  }
+  
+})
+
 /**
  * 404
  */
