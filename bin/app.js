@@ -23,7 +23,7 @@ else
 app.set('port', process.env.PORT || 3000);
 app.set('view engine', 'pug');
 app.set('views', path.join(__dirname, '../views'));
-app.use(logger('dev'));
+app.use(logger('production'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public', { maxAge: 31557600000 }));
