@@ -113,7 +113,7 @@ app.get('/hymnalsv1/:hymnal', function (req, res) {
   // let data = req.params.data;
   let hymnal = req.params.hymnal;
 
-  fse.readFile(`./csvuploads/${hymnal}.enc`, 'utf8')
+  fse.readFile(`./bin/csvuploads/${hymnal}.enc`, 'utf8')
   // .then(filecontents => {
   //   return filecontents
   // })
