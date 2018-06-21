@@ -17,7 +17,7 @@ fse.readFile('./csvuploads/SDAH.enc', 'utf8')
     console.log(filecontents)
     let data = decodeURIComponent(filecontents)
     // console.log(data)
-    console.log(JSON.parse(data))
-    
+    console.log(JSON.parse(data).songs)
+
     
 })
