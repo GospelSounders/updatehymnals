@@ -65,6 +65,20 @@ systemctl enable updatehymnals.service
 systemctl start updatehymnals.service
 ```
 
+- Goto `All Hymnals.xlsx` 
+- Open the tab of the hymnal to update
+- Click on Update hymnals menu and wait until a msgbox appears
+- Copy link from message box and paste into bin/resources/csvuploads/{HYMNALNAME}.enc
+- remove the part of the url that is equal to `https://www.gospelsounders.org/updatehymnals/hymnals/SDAH/`
+- sync with server by running (from /path/to/updatehymnals/)
+```sh
+rsync -a bin/csvuploads/ root@gospelsounders.org:/var/www/html/updatehymnals/bin/csvuploads/
+```
+- Open your browser to `https://www.gospelsounders.org/updatehymnals/hymnalsv1/{hymnalname}`
+- Go back to sheets and open AllHymnalsSheet and increment `fixed` for that hymnal and change `updated` to 1
+- Go to github and merge changes to master
+
+
 Then just peek in to see if things work fine
 ```sh
 journalctl -f -u updatehymnals
