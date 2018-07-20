@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript">var _isLogged=false;</script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="0daea4e7bd2cb8358d9ac807-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+5.3%">
+1133/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.61037">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.61120">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="61068" data-para-id="196
+5.61068" data-refcode="KJV — Philemon">
+<span class="egw_content" data-refcode="196
+5.61068" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60791&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi&quot;},{&quot;para_id&quot;:&quot;196
+7.61202&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;11139.61068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;11140.61194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;1114
+2.61068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;1114
+3.61196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;1114
+4.61068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;1114
+5.61068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon&quot;},{&quot;para_id&quot;:&quot;196
+8.61118&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n&quot;},{&quot;para_id&quot;:&quot;202
+1.61068&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon&quot;},{&quot;para_id&quot;:&quot;196
+6.61068&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone&quot;},{&quot;para_id&quot;:&quot;1970.61060&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona&quot;},{&quot;para_id&quot;:&quot;197
+1.61072&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom&quot;},{&quot;para_id&quot;:&quot;1116
+5.61068&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon&quot;},{&quot;para_id&quot;:&quot;197
+3.61068&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon&quot;},{&quot;para_id&quot;:&quot;197
+2.61571&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443&quot;},{&quot;para_id&quot;:&quot;1231
+8.61195&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456&quot;},{&quot;para_id&quot;:&quot;1969.61064&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8&quot;}]" data-refcode-old="KJV — Philemon">Philemon</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="61069" data-para-id="196
+5.61069" data-refcode="KJV — Philemon 1">
+<span class="egw_content" data-refcode="196
+5.61069" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60792&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1&quot;},{&quot;para_id&quot;:&quot;196
+7.61203&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;11139.61069&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;11140.61195&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.61069&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.61197&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.61069&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.61069&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1&quot;},{&quot;para_id&quot;:&quot;196
+8.61119&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1&quot;},{&quot;para_id&quot;:&quot;202
+1.61069&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1&quot;},{&quot;para_id&quot;:&quot;196
+6.61069&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1&quot;},{&quot;para_id&quot;:&quot;1970.61061&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1&quot;},{&quot;para_id&quot;:&quot;197
+1.61073&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.61069&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1&quot;},{&quot;para_id&quot;:&quot;197
+3.61069&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1&quot;},{&quot;para_id&quot;:&quot;197
+2.61572&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.61196&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1&quot;},{&quot;para_id&quot;:&quot;1969.61065&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1&quot;}]" data-refcode-old="KJV — Philemon 1">Philemon 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61071" data-para-id="196
+5.61071" data-refcode="KJV — Philemon 1:1">
+<span class="egw_content" data-refcode="196
+5.61071" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60794&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.61205&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;11139.61071&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;11140.61197&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.61071&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.61199&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.61071&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.61071&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.61121&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.61071&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.61071&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:1&quot;},{&quot;para_id&quot;:&quot;1970.61063&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.61075&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.61071&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.61071&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.61574&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.61198&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:1&quot;},{&quot;para_id&quot;:&quot;1969.61067&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:1&quot;}]" data-refcode-old="KJV — Philemon 1:1"><strong>1</strong> Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61073" data-para-id="196
+5.61073" data-refcode="KJV — Philemon 1:2">
+<span class="egw_content" data-refcode="196
+5.61073" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60796&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.61207&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;11139.61073&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;11140.61199&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.61073&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.61201&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.61073&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.61073&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.61123&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.61073&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.61073&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:2&quot;},{&quot;para_id&quot;:&quot;1970.61065&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.61077&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.61073&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.61073&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.61576&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.61200&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:2&quot;},{&quot;para_id&quot;:&quot;1969.61069&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:2&quot;}]" data-refcode-old="KJV — Philemon 1:2"><strong>2</strong> And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61075" data-para-id="196
+5.61075" data-refcode="KJV — Philemon 1:3">
+<span class="egw_content" data-refcode="196
+5.61075" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60798&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.61209&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;11139.61075&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;11140.61201&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.61075&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.61203&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.61075&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.61075&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.61125&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.61075&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.61075&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:3&quot;},{&quot;para_id&quot;:&quot;1970.61067&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.61079&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.61075&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.61075&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.61578&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.61202&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:3&quot;},{&quot;para_id&quot;:&quot;1969.61071&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:3&quot;}]" data-refcode-old="KJV — Philemon 1:3"><strong>3</strong> Grace to you, and peace, from God our Father and the Lord Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61077" data-para-id="196
+5.61077" data-refcode="KJV — Philemon 1:4">
+<span class="egw_content" data-refcode="196
+5.61077" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60800&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.61211&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;11139.61077&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;11140.61203&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.61077&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.61205&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.61077&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.61077&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.61127&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.61077&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.61077&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:4&quot;},{&quot;para_id&quot;:&quot;1970.61069&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.61081&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.61077&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.61077&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.61580&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.61204&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:4&quot;},{&quot;para_id&quot;:&quot;1969.61073&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:4&quot;}]" data-refcode-old="KJV — Philemon 1:4"><strong>4</strong> I thank my God, making mention of thee always in my prayers,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61079" data-para-id="196
+5.61079" data-refcode="KJV — Philemon 1:5">
+<span class="egw_content" data-refcode="196
+5.61079" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60802&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.61213&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;11139.61079&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;11140.61205&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.61079&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.61207&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.61079&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.61079&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.61129&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.61079&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.61079&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:5&quot;},{&quot;para_id&quot;:&quot;1970.61071&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.61083&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.61079&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.61079&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.61582&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.61206&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:5&quot;},{&quot;para_id&quot;:&quot;1969.61075&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:5&quot;}]" data-refcode-old="KJV — Philemon 1:5"><strong>5</strong> Hearing of thy love and faith, which thou hast toward the Lord Jesus, and toward all saints;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61081" data-para-id="196
+5.61081" data-refcode="KJV — Philemon 1:6">
+<span class="egw_content" data-refcode="196
+5.61081" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60804&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.61215&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;11139.61081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;11140.61207&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.61081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.61209&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.61081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.61081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.61131&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.61081&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.61081&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:6&quot;},{&quot;para_id&quot;:&quot;1970.61073&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.61085&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.61081&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.61081&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.61584&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.61208&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:6&quot;},{&quot;para_id&quot;:&quot;1969.61077&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:6&quot;}]" data-refcode-old="KJV — Philemon 1:6"><strong>6</strong> That the communication of thy faith may become effectual by the acknowledging of every good thing which is in you in Christ Jesus.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61083" data-para-id="196
+5.61083" data-refcode="KJV — Philemon 1:7">
+<span class="egw_content" data-refcode="196
+5.61083" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60806&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.61217&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;11139.61083&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;11140.61209&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.61083&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.61211&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.61083&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.61083&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.61133&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.61083&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.61083&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:7&quot;},{&quot;para_id&quot;:&quot;1970.61075&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.61087&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.61083&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.61083&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.61586&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.61210&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:7&quot;},{&quot;para_id&quot;:&quot;1969.61079&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:7&quot;}]" data-refcode-old="KJV — Philemon 1:7"><strong>7</strong> For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.</span>
+ </p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61085" data-para-id="196
+5.61085" data-refcode="KJV — Philemon 1:8">
+<span class="egw_content" data-refcode="196
+5.61085" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60808&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.61219&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;11139.61085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;11140.61211&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.61085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.61213&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.61085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.61085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.61135&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.61085&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.61085&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:8&quot;},{&quot;para_id&quot;:&quot;1970.61077&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.61089&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.61085&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.61085&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.61588&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.61212&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:8&quot;},{&quot;para_id&quot;:&quot;1969.61081&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:8&quot;}]" data-refcode-old="KJV — Philemon 1:8"><strong>8</strong> Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61087" data-para-id="196
+5.61087" data-refcode="KJV — Philemon 1:9">
+<span class="egw_content" data-refcode="196
+5.61087" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60810&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.61221&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;11139.61087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;11140.61213&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.61087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.61215&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.61087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.61087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.61137&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.61087&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.61087&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:9&quot;},{&quot;para_id&quot;:&quot;1970.61079&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.61091&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.61087&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.61087&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.61590&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.61214&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:9&quot;},{&quot;para_id&quot;:&quot;1969.61083&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:9&quot;}]" data-refcode-old="KJV — Philemon 1:9"><strong>9</strong> Yet for love's sake I rather beseech thee, being such an one as Paul the aged, and now also a prisoner of Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61089" data-para-id="196
+5.61089" data-refcode="KJV — Philemon 1:10">
+<span class="egw_content" data-refcode="196
+5.61089" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60812&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.61223&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;11139.61089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;11140.61215&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.61089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.61217&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.61089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.61089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.61139&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.61089&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.61089&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:10&quot;},{&quot;para_id&quot;:&quot;1970.61081&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.61093&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.61089&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.61089&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.61592&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.61216&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:10&quot;},{&quot;para_id&quot;:&quot;1969.61085&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:10&quot;}]" data-refcode-old="KJV — Philemon 1:10"><strong>10</strong> I beseech thee for my son Onesimus, whom I have begotten in my bonds:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61091" data-para-id="196
+5.61091" data-refcode="KJV — Philemon 1:11">
+<span class="egw_content" data-refcode="196
+5.61091" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60814&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.61225&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;11139.61091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;11140.61217&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.61091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.61219&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.61091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.61091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.61141&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.61091&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.61091&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:11&quot;},{&quot;para_id&quot;:&quot;1970.61083&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.61095&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.61091&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.61091&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.61594&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.61218&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:11&quot;},{&quot;para_id&quot;:&quot;1969.61087&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:11&quot;}]" data-refcode-old="KJV — Philemon 1:11"><strong>11</strong> Which in time past was to thee unprofitable, but now profitable to thee and to me:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61093" data-para-id="196
+5.61093" data-refcode="KJV — Philemon 1:12">
+<span class="egw_content" data-refcode="196
+5.61093" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60816&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.61227&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;11139.61093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;11140.61219&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.61093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.61221&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.61093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.61093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.61143&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.61093&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.61093&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:12&quot;},{&quot;para_id&quot;:&quot;1970.61085&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.61097&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.61093&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.61093&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.61596&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.61220&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:12&quot;},{&quot;para_id&quot;:&quot;1969.61089&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:12&quot;}]" data-refcode-old="KJV — Philemon 1:12"><strong>12</strong> Whom I have sent again: thou therefore receive him, that is, mine own bowels:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61095" data-para-id="196
+5.61095" data-refcode="KJV — Philemon 1:13">
+<span class="egw_content" data-refcode="196
+5.61095" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60818&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.61229&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;11139.61095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;11140.61221&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.61095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.61223&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.61095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.61095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.61145&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.61095&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.61095&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:13&quot;},{&quot;para_id&quot;:&quot;1970.61087&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.61099&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.61095&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.61095&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.61598&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.61222&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:13&quot;},{&quot;para_id&quot;:&quot;1969.61091&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:13&quot;}]" data-refcode-old="KJV — Philemon 1:13"><strong>13</strong> Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the gospel:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61097" data-para-id="196
+5.61097" data-refcode="KJV — Philemon 1:14">
+<span class="egw_content" data-refcode="196
+5.61097" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60820&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.61231&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;11139.61097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;11140.61223&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.61097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.61225&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.61097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.61097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.61147&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.61097&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.61097&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:14&quot;},{&quot;para_id&quot;:&quot;1970.61089&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.61101&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.61097&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.61097&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.61600&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.61224&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:14&quot;},{&quot;para_id&quot;:&quot;1969.61093&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:14&quot;}]" data-refcode-old="KJV — Philemon 1:14"><strong>14</strong> But without thy mind would I do nothing; that thy benefit should not be as it were of necessity, but willingly.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61099" data-para-id="196
+5.61099" data-refcode="KJV — Philemon 1:15">
+<span class="egw_content" data-refcode="196
+5.61099" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60822&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.61233&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;11139.61099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;11140.61225&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.61099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.61227&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.61099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.61099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.61149&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.61099&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.61099&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:15&quot;},{&quot;para_id&quot;:&quot;1970.61091&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.61103&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.61099&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.61099&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.61602&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.61226&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:15&quot;},{&quot;para_id&quot;:&quot;1969.61095&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:15&quot;}]" data-refcode-old="KJV — Philemon 1:15"><strong>15</strong> For perhaps he therefore departed for a season, that thou shouldest receive him for ever;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61101" data-para-id="196
+5.61101" data-refcode="KJV — Philemon 1:16">
+<span class="egw_content" data-refcode="196
+5.61101" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60824&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.61235&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;11139.61101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;11140.61227&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.61101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.61229&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.61101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.61101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.61151&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.61101&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.61101&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:16&quot;},{&quot;para_id&quot;:&quot;1970.61093&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.61105&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.61101&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.61101&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.61604&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.61228&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:16&quot;},{&quot;para_id&quot;:&quot;1969.61097&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:16&quot;}]" data-refcode-old="KJV — Philemon 1:16"><strong>16</strong> Not now as a servant, but above a servant, a brother beloved, specially to me, but how much more unto thee, both in the flesh, and in the Lord?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61103" data-para-id="196
+5.61103" data-refcode="KJV — Philemon 1:17">
+<span class="egw_content" data-refcode="196
+5.61103" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60826&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.61237&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;11139.61103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;11140.61229&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.61103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.61231&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.61103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.61103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.61153&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.61103&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.61103&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:17&quot;},{&quot;para_id&quot;:&quot;1970.61095&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.61107&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.61103&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.61103&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.61606&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.61230&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:17&quot;},{&quot;para_id&quot;:&quot;1969.61099&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:17&quot;}]" data-refcode-old="KJV — Philemon 1:17"><strong>17</strong> If thou count me therefore a partner, receive him as myself.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61105" data-para-id="196
+5.61105" data-refcode="KJV — Philemon 1:18">
+<span class="egw_content" data-refcode="196
+5.61105" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60828&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.61239&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;11139.61105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;11140.61231&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.61105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.61233&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.61105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.61105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.61155&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.61105&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.61105&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:18&quot;},{&quot;para_id&quot;:&quot;1970.61097&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.61109&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.61105&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.61105&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.61608&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.61232&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:18&quot;},{&quot;para_id&quot;:&quot;1969.61101&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:18&quot;}]" data-refcode-old="KJV — Philemon 1:18"><strong>18</strong> If he hath wronged thee, or oweth thee ought, put that on mine account;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61107" data-para-id="196
+5.61107" data-refcode="KJV — Philemon 1:19">
+<span class="egw_content" data-refcode="196
+5.61107" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60830&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.61241&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;11139.61107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;11140.61233&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.61107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.61235&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.61107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.61107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.61157&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.61107&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.61107&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:19&quot;},{&quot;para_id&quot;:&quot;1970.61099&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.61111&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.61107&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.61107&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.61610&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.61234&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:19&quot;},{&quot;para_id&quot;:&quot;1969.61103&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:19&quot;}]" data-refcode-old="KJV — Philemon 1:19"><strong>19</strong> I Paul have written it with mine own hand, I will repay it: albeit I do not say to thee how thou owest unto me even thine own self besides.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61109" data-para-id="196
+5.61109" data-refcode="KJV — Philemon 1:20">
+<span class="egw_content" data-refcode="196
+5.61109" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60832&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.61243&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;11139.61109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;11140.61235&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.61109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.61237&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.61109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.61109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.61159&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.61109&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.61109&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:20&quot;},{&quot;para_id&quot;:&quot;1970.61101&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.61113&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.61109&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.61109&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.61612&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.61236&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:20&quot;},{&quot;para_id&quot;:&quot;1969.61105&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:20&quot;}]" data-refcode-old="KJV — Philemon 1:20"><strong>20</strong> Yea, brother, let me have joy of thee in the Lord: refresh my bowels in the Lord.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61111" data-para-id="196
+5.61111" data-refcode="KJV — Philemon 1:21">
+<span class="egw_content" data-refcode="196
+5.61111" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60834&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.61245&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;11139.61111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;11140.61237&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.61111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.61239&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.61111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.61111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.61161&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.61111&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.61111&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:21&quot;},{&quot;para_id&quot;:&quot;1970.61103&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.61115&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.61111&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.61111&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.61614&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.61238&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:21&quot;},{&quot;para_id&quot;:&quot;1969.61107&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:21&quot;}]" data-refcode-old="KJV — Philemon 1:21"><strong>21</strong> Having confidence in thy obedience I wrote unto thee, knowing that thou wilt also do more than I say.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61113" data-para-id="196
+5.61113" data-refcode="KJV — Philemon 1:22">
+<span class="egw_content" data-refcode="196
+5.61113" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60836&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.61247&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;11139.61113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;11140.61239&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.61113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.61241&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.61113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.61113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.61163&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.61113&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.61113&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:22&quot;},{&quot;para_id&quot;:&quot;1970.61105&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.61117&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.61113&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.61113&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.61616&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.61240&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:22&quot;},{&quot;para_id&quot;:&quot;1969.61109&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:22&quot;}]" data-refcode-old="KJV — Philemon 1:22"><strong>22</strong> But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61115" data-para-id="196
+5.61115" data-refcode="KJV — Philemon 1:23">
+<span class="egw_content" data-refcode="196
+5.61115" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60838&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.61249&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;11139.61115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;11140.61241&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.61115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.61243&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.61115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.61115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.61165&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.61115&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.61115&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:23&quot;},{&quot;para_id&quot;:&quot;1970.61107&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.61119&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.61115&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.61115&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.61618&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.61242&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:23&quot;},{&quot;para_id&quot;:&quot;1969.61111&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:23&quot;}]" data-refcode-old="KJV — Philemon 1:23"><strong>23</strong> There salute thee Epaphras, my fellowprisoner in Christ Jesus;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61117" data-para-id="196
+5.61117" data-refcode="KJV — Philemon 1:24">
+<span class="egw_content" data-refcode="196
+5.61117" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60840&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.61251&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;11139.61117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;11140.61243&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.61117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.61245&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.61117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.61117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.61167&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.61117&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.61117&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:24&quot;},{&quot;para_id&quot;:&quot;1970.61109&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.61121&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.61117&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.61117&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.61620&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.61244&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:24&quot;},{&quot;para_id&quot;:&quot;1969.61113&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:24&quot;}]" data-refcode-old="KJV — Philemon 1:24"><strong>24</strong> Marcus, Aristarchus, Demas, Lucas, my fellowlabourers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61119" data-para-id="196
+5.61119" data-refcode="KJV — Philemon 1:25">
+<span class="egw_content" data-refcode="196
+5.61119" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60842&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Filemonovi 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.61253&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;11139.61119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;11140.61245&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.61119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.61247&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.61119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.61119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Philemon 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.61169&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Filem\u00f3n 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.61119&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Phil\u00e9mon 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.61119&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Filemone 1:25&quot;},{&quot;para_id&quot;:&quot;1970.61111&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Filemona 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.61123&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Filemom 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.61119&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Filimon 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.61119&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Filimon 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.61622&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u0443 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.61246&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0424\u0438\u043b\u0438\u043c\u043e\u043d\u043e\u0432\u0456 1:25&quot;},{&quot;para_id&quot;:&quot;1969.61115&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8153\u5229\u9580\u66f8 1:25&quot;}]" data-refcode-old="KJV — Philemon 1:25"><strong>25</strong> The grace of our Lord Jesus Christ be with your spirit. Amen. </span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.61037">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.61120">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0daea4e7bd2cb8358d9ac807-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="0daea4e7bd2cb8358d9ac807-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+ <div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="0daea4e7bd2cb8358d9ac807-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0daea4e7bd2cb8358d9ac807-" defer=""></script></body>
+</html>

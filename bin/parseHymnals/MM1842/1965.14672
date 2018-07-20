@@ -1,0 +1,908 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="1521224f737f65fa81ac47cb-text/javascript">var _isLogged=false;</script>
+<script type="1521224f737f65fa81ac47cb-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="1521224f737f65fa81ac47cb-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:19.9%">
+237/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.14627">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.14730">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="14672" data-para-id="196
+5.14672" data-refcode="KJV — 1Samuel">
+<span class="egw_content" data-refcode="196
+5.14672" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14606&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova&quot;},{&quot;para_id&quot;:&quot;196
+7.14672&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;11139.14672&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;11140.14674&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;1114
+2.14672&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;1114
+3.14672&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;1114
+4.14672&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;1114
+5.14672&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;196
+8.14684&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;202
+1.14672&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;196
+6.14672&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele&quot;},{&quot;para_id&quot;:&quot;1970.14672&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela&quot;},{&quot;para_id&quot;:&quot;197
+1.14674&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;1116
+5.14672&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;197
+3.14672&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel&quot;},{&quot;para_id&quot;:&quot;197
+2.14678&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432&quot;},{&quot;para_id&quot;:&quot;1231
+8.14672&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430&quot;},{&quot;para_id&quot;:&quot;1969.14672&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a&quot;}]" data-refcode-old="KJV — 1Samuel">1 Samuel</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="14673" data-para-id="196
+5.14673" data-refcode="KJV — 1Samuel 1">
+<span class="egw_content" data-refcode="196
+5.14673" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14607&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1&quot;},{&quot;para_id&quot;:&quot;196
+7.14673&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;11139.14673&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;11140.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.14673&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.14673&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.14673&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.14673&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;196
+8.14685&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;202
+1.14673&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;196
+6.14673&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1&quot;},{&quot;para_id&quot;:&quot;1970.14673&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1&quot;},{&quot;para_id&quot;:&quot;197
+1.14675&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.14673&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;197
+3.14673&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1&quot;},{&quot;para_id&quot;:&quot;197
+2.14679&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.14673&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.14673&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1&quot;}]" data-refcode-old="KJV — 1Samuel 1">1Samuel 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14675" data-para-id="196
+5.14675" data-refcode="KJV — 1Samuel 1:1">
+<span class="egw_content" data-refcode="196
+5.14675" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14609&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.14675&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;11139.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;11140.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.14675&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.14733&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.14675&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.14675&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:1&quot;},{&quot;para_id&quot;:&quot;1970.14675&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.14677&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.14675&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.14675&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.14681&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.14675&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.14675&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:1&quot;}]" data-refcode-old="KJV — 1Samuel 1:1"><strong>1</strong> Now there was a certain man of Ramathaimzophim, of mount Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephrathite:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14677" data-para-id="196
+5.14677" data-refcode="KJV — 1Samuel 1:2">
+<span class="egw_content" data-refcode="196
+5.14677" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14611&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.14677&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;11139.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;11140.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.14677&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.14735&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.14677&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.14677&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:2&quot;},{&quot;para_id&quot;:&quot;1970.14677&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.14679&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.14677&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.14677&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.14683&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.14677&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.14677&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:2&quot;}]" data-refcode-old="KJV — 1Samuel 1:2"><strong>2</strong> And he had two wives; the name of the one was Hannah, and the name of the other Peninnah: and Peninnah had children, but Hannah had no children.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14679" data-para-id="196
+5.14679" data-refcode="KJV — 1Samuel 1:3">
+<span class="egw_content" data-refcode="196
+5.14679" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14613&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.14679&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;11139.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;11140.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.14679&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.14737&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.14679&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.14679&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:3&quot;},{&quot;para_id&quot;:&quot;1970.14679&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.14681&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.14679&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.14679&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.14685&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.14679&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.14679&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:3&quot;}]" data-refcode-old="KJV — 1Samuel 1:3"><strong>3</strong> And this man went up out of his city yearly to worship and to sacrifice unto the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, the priests of the LORD, were there.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14681" data-para-id="196
+5.14681" data-refcode="KJV — 1Samuel 1:4">
+<span class="egw_content" data-refcode="196
+5.14681" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14615&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.14681&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;11139.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;11140.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.14681&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.14739&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.14681&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.14681&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:4&quot;},{&quot;para_id&quot;:&quot;1970.14681&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.14683&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.14681&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.14681&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.14687&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.14681&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.14681&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:4&quot;}]" data-refcode-old="KJV — 1Samuel 1:4"><strong>4</strong> And when the time was that Elkanah offered, he gave to Peninnah his wife, and to all her sons and her daughters, portions:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14683" data-para-id="196
+5.14683" data-refcode="KJV — 1Samuel 1:5">
+<span class="egw_content" data-refcode="196
+5.14683" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14617&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.14683&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;11139.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;11140.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.14683&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.14741&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.14683&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.14683&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:5&quot;},{&quot;para_id&quot;:&quot;1970.14683&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.14685&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.14683&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.14683&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.14689&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.14683&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.14683&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:5&quot;}]" data-refcode-old="KJV — 1Samuel 1:5"><strong>5</strong> But unto Hannah he gave a worthy portion; for he loved Hannah: but the LORD had shut up her womb.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14685" data-para-id="196
+5.14685" data-refcode="KJV — 1Samuel 1:6">
+<span class="egw_content" data-refcode="196
+5.14685" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14619&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.14685&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;11139.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;11140.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.14685&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.14687&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.14685&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.14685&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:6&quot;},{&quot;para_id&quot;:&quot;1970.14685&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.14687&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.14685&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.14685&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.14691&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.14685&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.14685&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:6&quot;}]" data-refcode-old="KJV — 1Samuel 1:6"><strong>6</strong> And her adversary also provoked her sore, for to make her fret, because the LORD had shut up her womb.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14687" data-para-id="196
+5.14687" data-refcode="KJV — 1Samuel 1:7">
+<span class="egw_content" data-refcode="196
+5.14687" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14621&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.14687&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;11139.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;11140.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.14687&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.14689&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.14687&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.14687&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:7&quot;},{&quot;para_id&quot;:&quot;1970.14687&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.14689&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.14687&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.14687&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.14693&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.14687&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.14687&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:7&quot;}]" data-refcode-old="KJV — 1Samuel 1:7"><strong>7</strong> And as he did so year by year, when she went up to the house of the LORD, so she provoked her; therefore she wept, and did not eat.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14689" data-para-id="196
+5.14689" data-refcode="KJV — 1Samuel 1:8">
+<span class="egw_content" data-refcode="196
+5.14689" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14623&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.14689&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;11139.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;11140.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.14689&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.14691&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.14689&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.14689&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:8&quot;},{&quot;para_id&quot;:&quot;1970.14689&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.14691&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.14689&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.14689&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.14695&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.14689&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.14689&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:8&quot;}]" data-refcode-old="KJV — 1Samuel 1:8"><strong>8</strong> Then said Elkanah her husband to her, Hannah, why weepest thou? and why eatest thou not? and why is thy heart grieved? am not I better to thee than ten sons?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14691" data-para-id="196
+5.14691" data-refcode="KJV — 1Samuel 1:9">
+<span class="egw_content" data-refcode="196
+5.14691" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14625&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.14691&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;11139.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;11140.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.14691&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.14693&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.14691&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.14691&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:9&quot;},{&quot;para_id&quot;:&quot;1970.14691&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.14693&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.14691&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.14691&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.14697&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.14691&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.14691&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:9&quot;}]" data-refcode-old="KJV — 1Samuel 1:9"><strong>9</strong> So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14693" data-para-id="196
+5.14693" data-refcode="KJV — 1Samuel 1:10">
+<span class="egw_content" data-refcode="196
+5.14693" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14627&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.14693&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;11139.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;11140.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.14693&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.14695&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.14693&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.14693&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:10&quot;},{&quot;para_id&quot;:&quot;1970.14693&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.14695&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.14693&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.14693&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.14699&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.14693&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.14693&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:10&quot;}]" data-refcode-old="KJV — 1Samuel 1:10"><strong>10</strong> And she was in bitterness of soul, and prayed unto the LORD, and wept sore.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14695" data-para-id="196
+5.14695" data-refcode="KJV — 1Samuel 1:11">
+<span class="egw_content" data-refcode="196
+5.14695" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14629&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.14695&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;11139.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;11140.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.14695&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.14697&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.14695&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.14695&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:11&quot;},{&quot;para_id&quot;:&quot;1970.14695&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.14697&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.14695&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.14695&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.14701&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.14695&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.14695&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:11&quot;}]" data-refcode-old="KJV — 1Samuel 1:11"><strong>11</strong> And she vowed a vow, and said, O LORD of hosts, if thou wilt indeed look on the affliction of thine handmaid, and remember me, and not forget thine handmaid, but wilt give unto thine handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14697" data-para-id="196
+5.14697" data-refcode="KJV — 1Samuel 1:12">
+<span class="egw_content" data-refcode="196
+5.14697" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14631&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.14697&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;11139.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;11140.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.14697&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.14699&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.14697&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.14697&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:12&quot;},{&quot;para_id&quot;:&quot;1970.14697&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.14699&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.14697&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.14697&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.14703&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.14697&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.14697&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:12&quot;}]" data-refcode-old="KJV — 1Samuel 1:12"><strong>12</strong> And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14699" data-para-id="196
+5.14699" data-refcode="KJV — 1Samuel 1:13">
+<span class="egw_content" data-refcode="196
+5.14699" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14633&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.14699&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;11139.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;11140.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.14699&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.14701&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.14699&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.14699&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:13&quot;},{&quot;para_id&quot;:&quot;1970.14699&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.14701&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.14699&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.14699&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.14705&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.14699&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.14699&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:13&quot;}]" data-refcode-old="KJV — 1Samuel 1:13"><strong>13</strong> Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14701" data-para-id="196
+5.14701" data-refcode="KJV — 1Samuel 1:14">
+<span class="egw_content" data-refcode="196
+5.14701" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14635&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.14701&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;11139.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;11140.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.14701&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.14703&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.14701&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.14701&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:14&quot;},{&quot;para_id&quot;:&quot;1970.14701&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.14703&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.14701&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.14701&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.14707&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.14701&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.14701&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:14&quot;}]" data-refcode-old="KJV — 1Samuel 1:14"><strong>14</strong> And Eli said unto her, How long wilt thou be drunken? put away thy wine from thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14703" data-para-id="196
+5.14703" data-refcode="KJV — 1Samuel 1:15">
+<span class="egw_content" data-refcode="196
+5.14703" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14637&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.14703&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;11139.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;11140.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.14703&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.14705&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.14703&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.14703&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:15&quot;},{&quot;para_id&quot;:&quot;1970.14703&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.14705&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.14703&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.14703&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.14709&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.14703&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1969.14703&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:15&quot;}]" data-refcode-old="KJV — 1Samuel 1:15"><strong>15</strong> And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.</span>
+</p>
+ <p class="egw_content_wrapper standard-noindent" book_id="1965" id="14705" data-para-id="196
+5.14705" data-refcode="KJV — 1Samuel 1:16">
+<span class="egw_content" data-refcode="196
+5.14705" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14639&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.14705&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;11139.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;11140.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.14705&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.14707&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.14705&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.14705&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:16&quot;},{&quot;para_id&quot;:&quot;1970.14705&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.14707&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.14705&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.14705&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.14711&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.14705&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1969.14705&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:16&quot;}]" data-refcode-old="KJV — 1Samuel 1:16"><strong>16</strong> Count not thine handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14707" data-para-id="196
+5.14707" data-refcode="KJV — 1Samuel 1:17">
+<span class="egw_content" data-refcode="196
+5.14707" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14641&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.14707&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;11139.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;11140.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.14707&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.14709&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.14707&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.14707&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:17&quot;},{&quot;para_id&quot;:&quot;1970.14707&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.14709&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.14707&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.14707&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.14713&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.14707&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1969.14707&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:17&quot;}]" data-refcode-old="KJV — 1Samuel 1:17"><strong>17</strong> Then Eli answered and said, Go in peace: and the God of Israel grant thee thy petition that thou hast asked of him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14709" data-para-id="196
+5.14709" data-refcode="KJV — 1Samuel 1:18">
+<span class="egw_content" data-refcode="196
+5.14709" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14643&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.14709&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;11139.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;11140.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.14709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.14711&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.14709&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.14709&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:18&quot;},{&quot;para_id&quot;:&quot;1970.14709&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.14711&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.14709&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.14709&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.14715&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.14709&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1969.14709&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:18&quot;}]" data-refcode-old="KJV — 1Samuel 1:18"><strong>18</strong> And she said, Let thine handmaid find grace in thy sight. So the woman went her way, and did eat, and her countenance was no more sad.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14711" data-para-id="196
+5.14711" data-refcode="KJV — 1Samuel 1:19">
+<span class="egw_content" data-refcode="196
+5.14711" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14645&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.14711&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;11139.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;11140.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.14711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.14713&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.14711&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.14711&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:19&quot;},{&quot;para_id&quot;:&quot;1970.14711&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.14713&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.14711&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.14711&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.14717&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.14711&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1969.14711&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:19&quot;}]" data-refcode-old="KJV — 1Samuel 1:19"><strong>19</strong> And they rose up in the morning early, and worshipped before the LORD, and returned, and came to their house to Ramah: and Elkanah knew Hannah his wife; and the LORD remembered her.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14713" data-para-id="196
+5.14713" data-refcode="KJV — 1Samuel 1:20">
+<span class="egw_content" data-refcode="196
+5.14713" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14647&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.14713&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;11139.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;11140.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.14713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.14715&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.14713&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.14713&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:20&quot;},{&quot;para_id&quot;:&quot;1970.14713&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.14715&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.14713&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.14713&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.14719&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.14713&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1969.14713&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:20&quot;}]" data-refcode-old="KJV — 1Samuel 1:20"><strong>20</strong> Wherefore it came to pass, when the time was come about after Hannah had conceived, that she bare a son, and called his name Samuel, saying, Because I have asked him of the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14715" data-para-id="196
+5.14715" data-refcode="KJV — 1Samuel 1:21">
+<span class="egw_content" data-refcode="196
+5.14715" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14649&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.14715&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;11139.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;11140.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.14715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.14717&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.14715&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.14715&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:21&quot;},{&quot;para_id&quot;:&quot;1970.14715&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.14717&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.14715&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.14715&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.14721&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.14715&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:21&quot;},{&quot;para_id&quot;:&quot;1969.14715&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:21&quot;}]" data-refcode-old="KJV — 1Samuel 1:21"><strong>21</strong> And the man Elkanah, and all his house, went up to offer unto the LORD the yearly sacrifice, and his vow.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14717" data-para-id="196
+5.14717" data-refcode="KJV — 1Samuel 1:22">
+<span class="egw_content" data-refcode="196
+5.14717" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14651&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.14717&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;11139.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;11140.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.14717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.14719&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.14717&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.14717&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:22&quot;},{&quot;para_id&quot;:&quot;1970.14717&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.14719&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.14717&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.14717&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.14723&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.14717&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:22&quot;},{&quot;para_id&quot;:&quot;1969.14717&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:22&quot;}]" data-refcode-old="KJV — 1Samuel 1:22"><strong>22</strong> But Hannah went not up; for she said unto her husband, I will not go up until the child be weaned, and then I will bring him, that he may appear before the LORD, and there abide for ever.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14719" data-para-id="196
+5.14719" data-refcode="KJV — 1Samuel 1:23">
+<span class="egw_content" data-refcode="196
+5.14719" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14653&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.14719&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;11139.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;11140.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.14719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.14721&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.14719&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.14719&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:23&quot;},{&quot;para_id&quot;:&quot;1970.14719&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.14721&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.14719&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.14719&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.14725&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.14719&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:23&quot;},{&quot;para_id&quot;:&quot;1969.14719&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:23&quot;}]" data-refcode-old="KJV — 1Samuel 1:23"><strong>23</strong> And Elkanah her husband said unto her, Do what seemeth thee good; tarry until thou have weaned him; only the LORD establish his word. So the woman abode, and gave her son suck until she weaned him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14721" data-para-id="196
+5.14721" data-refcode="KJV — 1Samuel 1:24">
+<span class="egw_content" data-refcode="196
+5.14721" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14655&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.14721&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;11139.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;11140.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.14721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.14723&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.14721&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.14721&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:24&quot;},{&quot;para_id&quot;:&quot;1970.14721&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.14723&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.14721&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.14721&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.14727&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.14721&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:24&quot;},{&quot;para_id&quot;:&quot;1969.14721&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:24&quot;}]" data-refcode-old="KJV — 1Samuel 1:24"><strong>24</strong> And when she had weaned him, she took him up with her, with three bullocks, and one ephah of flour, and a bottle of wine, and brought him unto the house of the LORD in Shiloh: and the child was young.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14723" data-para-id="196
+5.14723" data-refcode="KJV — 1Samuel 1:25">
+<span class="egw_content" data-refcode="196
+5.14723" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14657&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.14723&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;11139.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;11140.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.14723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.14725&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.14723&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.14723&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:25&quot;},{&quot;para_id&quot;:&quot;1970.14723&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.14725&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.14723&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.14723&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.14729&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.14723&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:25&quot;},{&quot;para_id&quot;:&quot;1969.14723&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:25&quot;}]" data-refcode-old="KJV — 1Samuel 1:25"><strong>25</strong> And they slew a bullock, and brought the child to Eli.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14725" data-para-id="196
+5.14725" data-refcode="KJV — 1Samuel 1:26">
+<span class="egw_content" data-refcode="196
+5.14725" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14659&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.14725&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;11139.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;11140.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.14725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.14727&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.14725&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.14725&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:26&quot;},{&quot;para_id&quot;:&quot;1970.14725&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.14727&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.14725&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.14725&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.14731&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.14725&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:26&quot;},{&quot;para_id&quot;:&quot;1969.14725&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:26&quot;}]" data-refcode-old="KJV — 1Samuel 1:26"><strong>26</strong> And she said, Oh my lord, as thy soul liveth, my lord, I am the woman that stood by thee here, praying unto the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14727" data-para-id="196
+5.14727" data-refcode="KJV — 1Samuel 1:27">
+<span class="egw_content" data-refcode="196
+5.14727" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14661&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.14727&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;11139.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;11140.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.14727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.14729&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.14727&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.14727&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:27&quot;},{&quot;para_id&quot;:&quot;1970.14727&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.14729&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.14727&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.14727&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.14733&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.14727&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:27&quot;},{&quot;para_id&quot;:&quot;1969.14727&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:27&quot;}]" data-refcode-old="KJV — 1Samuel 1:27"><strong>27</strong> For this child I prayed; and the LORD hath given me my petition which I asked of him:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14729" data-para-id="196
+5.14729" data-refcode="KJV — 1Samuel 1:28">
+<span class="egw_content" data-refcode="196
+5.14729" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14663&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Samuelova 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.14729&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;11139.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;11140.14731&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.14729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.14731&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.14729&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.14729&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Samuele 1:28&quot;},{&quot;para_id&quot;:&quot;1970.14729&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Samuela 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.14731&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.14729&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.14729&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Samuel 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.14735&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0426\u0430\u0440\u0441\u0442\u0432 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.14729&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u0430\u043c\u0443\u0457\u043b\u043e\u0432\u0430 1:28&quot;},{&quot;para_id&quot;:&quot;1969.14729&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u6bcd\u8033\u8a18\u4e0a 1:28&quot;}]" data-refcode-old="KJV — 1Samuel 1:28"><strong>28</strong> Therefore also I have lent him to the LORD; as long as he liveth he shall be lent to the LORD. And he worshipped the LORD there.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.14627">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.14730">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="1521224f737f65fa81ac47cb-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="1521224f737f65fa81ac47cb-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="1521224f737f65fa81ac47cb-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="1521224f737f65fa81ac47cb-" defer=""></script></body>
+</html>

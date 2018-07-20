@@ -1,0 +1,794 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="4575f017f47760b2f29af635-text/javascript">var _isLogged=false;</script>
+<script type="4575f017f47760b2f29af635-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="4575f017f47760b2f29af635-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:19.6%">
+233/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.14446">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.14543">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="14497" data-para-id="196
+5.14497" data-refcode="KJV — Ruth">
+<span class="egw_content" data-refcode="196
+5.14497" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14431&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat&quot;},{&quot;para_id&quot;:&quot;196
+7.14497&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;11139.14497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;11140.14499&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;1114
+2.14497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;1114
+3.14497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;1114
+4.14497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;1114
+5.14497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;196
+8.14509&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;202
+1.14497&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth&quot;},{&quot;para_id&quot;:&quot;196
+6.14497&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;1970.14497&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;197
+1.14499&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute&quot;},{&quot;para_id&quot;:&quot;1116
+5.14497&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;197
+3.14497&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut&quot;},{&quot;para_id&quot;:&quot;197
+2.14503&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c&quot;},{&quot;para_id&quot;:&quot;1231
+8.14497&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442&quot;},{&quot;para_id&quot;:&quot;1969.14497&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18&quot;}]" data-refcode-old="KJV — Ruth">Ruth</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="14498" data-para-id="196
+5.14498" data-refcode="KJV — Ruth 1">
+<span class="egw_content" data-refcode="196
+5.14498" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14432&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1&quot;},{&quot;para_id&quot;:&quot;196
+7.14498&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;11139.14498&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;11140.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.14498&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.14498&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.14498&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.14498&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;196
+8.14510&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;202
+1.14498&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1&quot;},{&quot;para_id&quot;:&quot;196
+6.14498&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;1970.14498&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;197
+1.14500&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.14498&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;197
+3.14498&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1&quot;},{&quot;para_id&quot;:&quot;197
+2.14504&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.14498&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1&quot;},{&quot;para_id&quot;:&quot;1969.14498&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1&quot;}]" data-refcode-old="KJV — Ruth 1">Ruth 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14500" data-para-id="196
+5.14500" data-refcode="KJV — Ruth 1:1">
+<span class="egw_content" data-refcode="196
+5.14500" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14434&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.14500&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;11139.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;11140.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.14500&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.14512&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.14500&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.14500&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;1970.14500&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.14502&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.14500&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.14500&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.14506&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.14500&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:1&quot;},{&quot;para_id&quot;:&quot;1969.14500&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:1&quot;}]" data-refcode-old="KJV — Ruth 1:1"><strong>1</strong> Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Bethlehemjudah went to sojourn in the country of Moab, he, and his wife, and his two sons.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14502" data-para-id="196
+5.14502" data-refcode="KJV — Ruth 1:2">
+<span class="egw_content" data-refcode="196
+5.14502" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14436&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.14502&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;11139.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;11140.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.14502&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.14514&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.14502&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.14502&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;1970.14502&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.14504&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.14502&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.14502&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.14508&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.14502&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:2&quot;},{&quot;para_id&quot;:&quot;1969.14502&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:2&quot;}]" data-refcode-old="KJV — Ruth 1:2"><strong>2</strong> And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Bethlehemjudah. And they came into the country of Moab, and continued there.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14504" data-para-id="196
+5.14504" data-refcode="KJV — Ruth 1:3">
+<span class="egw_content" data-refcode="196
+5.14504" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14438&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.14504&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;11139.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;11140.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.14504&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.14516&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.14504&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.14504&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;1970.14504&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.14506&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.14504&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.14504&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.14510&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.14504&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:3&quot;},{&quot;para_id&quot;:&quot;1969.14504&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:3&quot;}]" data-refcode-old="KJV — Ruth 1:3"><strong>3</strong> And Elimelech Naomi's husband died; and she was left, and her two sons.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14506" data-para-id="196
+5.14506" data-refcode="KJV — Ruth 1:4">
+<span class="egw_content" data-refcode="196
+5.14506" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14440&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.14506&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;11139.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;11140.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.14506&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.14518&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.14506&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.14506&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;1970.14506&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.14508&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.14506&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.14506&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.14512&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.14506&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:4&quot;},{&quot;para_id&quot;:&quot;1969.14506&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:4&quot;}]" data-refcode-old="KJV — Ruth 1:4"><strong>4</strong> And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14508" data-para-id="196
+5.14508" data-refcode="KJV — Ruth 1:5">
+<span class="egw_content" data-refcode="196
+5.14508" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14442&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.14508&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;11139.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;11140.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.14508&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.14520&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.14508&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.14508&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;1970.14508&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.14510&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.14508&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.14508&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.14514&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.14508&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:5&quot;},{&quot;para_id&quot;:&quot;1969.14508&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:5&quot;}]" data-refcode-old="KJV — Ruth 1:5"><strong>5</strong> And Mahlon and Chilion died also both of them; and the woman was left of her two sons and her husband.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14510" data-para-id="196
+5.14510" data-refcode="KJV — Ruth 1:6">
+<span class="egw_content" data-refcode="196
+5.14510" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14444&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.14510&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;11139.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;11140.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.14510&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.14522&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.14510&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.14510&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;1970.14510&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.14512&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.14510&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.14510&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.14516&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.14510&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:6&quot;},{&quot;para_id&quot;:&quot;1969.14510&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:6&quot;}]" data-refcode-old="KJV — Ruth 1:6"><strong>6</strong> Then she arose with her daughters in law, that she might return from the country of Moab: for she had heard in the country of Moab how that the LORD had visited his people in giving them bread.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14512" data-para-id="196
+5.14512" data-refcode="KJV — Ruth 1:7">
+<span class="egw_content" data-refcode="196
+5.14512" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14446&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.14512&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;11139.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;11140.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.14512&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.14524&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.14512&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.14512&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;1970.14512&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.14514&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.14512&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.14512&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.14518&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.14512&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:7&quot;},{&quot;para_id&quot;:&quot;1969.14512&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:7&quot;}]" data-refcode-old="KJV — Ruth 1:7"><strong>7</strong> Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14514" data-para-id="196
+5.14514" data-refcode="KJV — Ruth 1:8">
+<span class="egw_content" data-refcode="196
+5.14514" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14448&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.14514&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;11139.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;11140.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.14514&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.14526&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.14514&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.14514&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;1970.14514&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.14516&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.14514&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.14514&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.14520&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.14514&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:8&quot;},{&quot;para_id&quot;:&quot;1969.14514&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:8&quot;}]" data-refcode-old="KJV — Ruth 1:8"><strong>8</strong> And Naomi said unto her two daughters in law, Go, return each to her mother's house: the LORD deal kindly with you, as ye have dealt with the dead, and with me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14516" data-para-id="196
+5.14516" data-refcode="KJV — Ruth 1:9">
+<span class="egw_content" data-refcode="196
+5.14516" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14450&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.14516&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;11139.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;11140.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.14516&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.14528&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.14516&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.14516&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;1970.14516&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.14518&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.14516&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.14516&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.14522&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.14516&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:9&quot;},{&quot;para_id&quot;:&quot;1969.14516&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:9&quot;}]" data-refcode-old="KJV — Ruth 1:9"><strong>9</strong> The LORD grant you that ye may find rest, each of you in the house of her husband. Then she kissed them; and they lifted up their voice, and wept.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14518" data-para-id="196
+5.14518" data-refcode="KJV — Ruth 1:10">
+<span class="egw_content" data-refcode="196
+5.14518" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14452&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.14518&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;11139.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;11140.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.14518&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.14530&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.14518&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.14518&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;1970.14518&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.14520&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.14518&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.14518&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.14524&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.14518&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:10&quot;},{&quot;para_id&quot;:&quot;1969.14518&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:10&quot;}]" data-refcode-old="KJV — Ruth 1:10"><strong>10</strong> And they said unto her, Surely we will return with thee unto thy people.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14520" data-para-id="196
+5.14520" data-refcode="KJV — Ruth 1:11">
+<span class="egw_content" data-refcode="196
+5.14520" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14454&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.14520&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;11139.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;11140.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.14520&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.14532&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.14520&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.14520&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;1970.14520&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.14522&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.14520&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.14520&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.14526&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.14520&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:11&quot;},{&quot;para_id&quot;:&quot;1969.14520&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:11&quot;}]" data-refcode-old="KJV — Ruth 1:11"><strong>11</strong> And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14522" data-para-id="196
+5.14522" data-refcode="KJV — Ruth 1:12">
+<span class="egw_content" data-refcode="196
+5.14522" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14456&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.14522&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;11139.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;11140.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.14522&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.14534&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.14522&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.14522&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;1970.14522&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.14524&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.14522&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.14522&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.14528&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.14522&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:12&quot;},{&quot;para_id&quot;:&quot;1969.14522&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:12&quot;}]" data-refcode-old="KJV — Ruth 1:12"><strong>12</strong> Turn again, my daughters, go your way; for I am too old to have an husband. If I should say, I have hope, if I should have an husband also to night, and should also bear sons;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14524" data-para-id="196
+5.14524" data-refcode="KJV — Ruth 1:13">
+<span class="egw_content" data-refcode="196
+5.14524" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14458&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.14524&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;11139.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;11140.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.14524&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.14536&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.14524&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.14524&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;1970.14524&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.14526&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.14524&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.14524&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.14530&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.14524&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:13&quot;},{&quot;para_id&quot;:&quot;1969.14524&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:13&quot;}]" data-refcode-old="KJV — Ruth 1:13"><strong>13</strong> Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the LORD is gone out against me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14526" data-para-id="196
+5.14526" data-refcode="KJV — Ruth 1:14">
+<span class="egw_content" data-refcode="196
+5.14526" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14460&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.14526&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;11139.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;11140.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.14526&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.14538&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.14526&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.14526&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;1970.14526&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.14528&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.14526&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.14526&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.14532&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.14526&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:14&quot;},{&quot;para_id&quot;:&quot;1969.14526&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:14&quot;}]" data-refcode-old="KJV — Ruth 1:14"><strong>14</strong> And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14528" data-para-id="196
+5.14528" data-refcode="KJV — Ruth 1:15">
+<span class="egw_content" data-refcode="196
+5.14528" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14462&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.14528&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;11139.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;11140.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.14528&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.14540&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.14528&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.14528&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;1970.14528&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.14530&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.14528&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.14528&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.14534&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.14528&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:15&quot;},{&quot;para_id&quot;:&quot;1969.14528&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:15&quot;}]" data-refcode-old="KJV — Ruth 1:15"><strong>15</strong> And she said, Behold, thy sister in law is gone back unto her people, and unto her gods: return thou after thy sister in law.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14530" data-para-id="196
+5.14530" data-refcode="KJV — Ruth 1:16">
+<span class="egw_content" data-refcode="196
+5.14530" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14464&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.14530&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;11139.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;11140.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.14530&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.14542&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.14530&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.14530&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;1970.14530&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.14532&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.14530&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.14530&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.14536&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.14530&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:16&quot;},{&quot;para_id&quot;:&quot;1969.14530&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:16&quot;}]" data-refcode-old="KJV — Ruth 1:16"><strong>16</strong> And Ruth said, Intreat me not to leave thee, or to return from following after thee: for whither thou goest, I will go; and where thou lodgest, I will lodge: thy people shall be my people, and thy God my God:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14532" data-para-id="196
+5.14532" data-refcode="KJV — Ruth 1:17">
+<span class="egw_content" data-refcode="196
+5.14532" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14466&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.14532&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;11139.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;11140.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.14532&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.14544&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.14532&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.14532&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;1970.14532&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.14534&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.14532&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.14532&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.14538&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.14532&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:17&quot;},{&quot;para_id&quot;:&quot;1969.14532&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:17&quot;}]" data-refcode-old="KJV — Ruth 1:17"><strong>17</strong> Where thou diest, will I die, and there will I be buried: the LORD do so to me, and more also, if ought but death part thee and me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14534" data-para-id="196
+5.14534" data-refcode="KJV — Ruth 1:18">
+<span class="egw_content" data-refcode="196
+5.14534" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14468&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.14534&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;11139.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;11140.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.14534&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.14546&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.14534&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.14534&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;1970.14534&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.14536&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.14534&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.14534&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.14540&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.14534&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:18&quot;},{&quot;para_id&quot;:&quot;1969.14534&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:18&quot;}]" data-refcode-old="KJV — Ruth 1:18"><strong>18</strong> When she saw that she was stedfastly minded to go with her, then she left speaking unto her.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14536" data-para-id="196
+5.14536" data-refcode="KJV — Ruth 1:19">
+<span class="egw_content" data-refcode="196
+5.14536" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14470&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.14536&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;11139.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;11140.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.14536&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.14548&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.14536&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.14536&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;1970.14536&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.14538&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.14536&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.14536&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.14542&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.14536&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:19&quot;},{&quot;para_id&quot;:&quot;1969.14536&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:19&quot;}]" data-refcode-old="KJV — Ruth 1:19"><strong>19</strong> So they two went until they came to Bethlehem. And it came to pass, when they were come to Bethlehem, that all the city was moved about them, and they said, Is this Naomi?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14538" data-para-id="196
+5.14538" data-refcode="KJV — Ruth 1:20">
+<span class="egw_content" data-refcode="196
+5.14538" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14472&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.14538&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;11139.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;11140.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.14538&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.14550&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.14538&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.14538&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;1970.14538&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.14540&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.14538&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.14538&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.14544&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.14538&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:20&quot;},{&quot;para_id&quot;:&quot;1969.14538&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:20&quot;}]" data-refcode-old="KJV — Ruth 1:20"><strong>20</strong> And she said unto them, Call me not Naomi, call me Mara: for the Almighty hath dealt very bitterly with me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14540" data-para-id="196
+5.14540" data-refcode="KJV — Ruth 1:21">
+<span class="egw_content" data-refcode="196
+5.14540" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14474&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.14540&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;11139.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;11140.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.14540&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.14552&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.14540&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.14540&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;1970.14540&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.14542&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.14540&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.14540&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.14546&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.14540&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:21&quot;},{&quot;para_id&quot;:&quot;1969.14540&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:21&quot;}]" data-refcode-old="KJV — Ruth 1:21"><strong>21</strong> I went out full, and the LORD hath brought me home again empty: why then call ye me Naomi, seeing the LORD hath testified against me, and the Almighty hath afflicted me?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="14542" data-para-id="196
+5.14542" data-refcode="KJV — Ruth 1:22">
+<span class="egw_content" data-refcode="196
+5.14542" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.14476&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 R\u00fat 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.14542&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;11139.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;11140.14544&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.14542&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.14554&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.14542&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ruth 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.14542&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;1970.14542&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.14544&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Rute 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.14542&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.14542&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Rut 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.14548&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0443\u0444\u044c 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.14542&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0443\u0442 1:22&quot;},{&quot;para_id&quot;:&quot;1969.14542&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u8def\u5f97\u8a18 1:22&quot;}]" data-refcode-old="KJV — Ruth 1:22"><strong>22</strong> So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Bethlehem in the beginning of barley harvest.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.14446">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.14543">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="4575f017f47760b2f29af635-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="4575f017f47760b2f29af635-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="4575f017f47760b2f29af635-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="4575f017f47760b2f29af635-" defer=""></script></body>
+</html>

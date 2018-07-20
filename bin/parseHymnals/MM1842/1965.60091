@@ -1,0 +1,928 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="39a42d67fce3c4acbf419242-text/javascript">var _isLogged=false;</script>
+<script type="39a42d67fce3c4acbf419242-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="39a42d67fce3c4acbf419242-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+3.2%">
+1108/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.60044">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.60151">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="60091" data-para-id="196
+5.60091" data-refcode="KJV — Colossians">
+<span class="egw_content" data-refcode="196
+5.60091" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59814&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm&quot;},{&quot;para_id&quot;:&quot;196
+7.60225&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser&quot;},{&quot;para_id&quot;:&quot;11139.60091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;11140.60217&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;1114
+2.60091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;1114
+3.60219&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;1114
+4.60091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;1114
+5.60091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians&quot;},{&quot;para_id&quot;:&quot;196
+8.60141&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses&quot;},{&quot;para_id&quot;:&quot;202
+1.60091&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens&quot;},{&quot;para_id&quot;:&quot;196
+6.60091&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi&quot;},{&quot;para_id&quot;:&quot;1970.60083&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan&quot;},{&quot;para_id&quot;:&quot;197
+1.60095&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences&quot;},{&quot;para_id&quot;:&quot;1116
+5.60091&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni&quot;},{&quot;para_id&quot;:&quot;197
+3.60091&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni&quot;},{&quot;para_id&quot;:&quot;197
+2.60594&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1231
+8.60218&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1969.60087&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8&quot;}]" data-refcode-old="KJV — Colossians">Colossians</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="60092" data-para-id="196
+5.60092" data-refcode="KJV — Colossians 1">
+<span class="egw_content" data-refcode="196
+5.60092" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59815&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1&quot;},{&quot;para_id&quot;:&quot;196
+7.60226&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1&quot;},{&quot;para_id&quot;:&quot;11139.60092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;11140.60218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.60092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.60220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.60092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.60092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1&quot;},{&quot;para_id&quot;:&quot;196
+8.60142&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1&quot;},{&quot;para_id&quot;:&quot;202
+1.60092&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1&quot;},{&quot;para_id&quot;:&quot;196
+6.60092&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1&quot;},{&quot;para_id&quot;:&quot;1970.60084&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1&quot;},{&quot;para_id&quot;:&quot;197
+1.60096&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.60092&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1&quot;},{&quot;para_id&quot;:&quot;197
+3.60092&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1&quot;},{&quot;para_id&quot;:&quot;197
+2.60595&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.60219&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1969.60088&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1&quot;}]" data-refcode-old="KJV — Colossians 1">Colossians 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60094" data-para-id="196
+5.60094" data-refcode="KJV — Colossians 1:1">
+<span class="egw_content" data-refcode="196
+5.60094" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59817&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.60228&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:1&quot;},{&quot;para_id&quot;:&quot;11139.60094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;11140.60220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.60094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.60222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.60094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.60094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.60144&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.60094&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.60094&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:1&quot;},{&quot;para_id&quot;:&quot;1970.60086&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.60098&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.60094&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.60094&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.60597&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.60221&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1969.60090&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:1&quot;}]" data-refcode-old="KJV — Colossians 1:1"><strong>1</strong> Paul, an apostle of Jesus Christ by the will of God, and Timotheus our brother,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60096" data-para-id="196
+5.60096" data-refcode="KJV — Colossians 1:2">
+<span class="egw_content" data-refcode="196
+5.60096" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59819&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.60230&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:2&quot;},{&quot;para_id&quot;:&quot;11139.60096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;11140.60222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.60096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.60224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.60096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.60096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.60146&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.60096&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.60096&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:2&quot;},{&quot;para_id&quot;:&quot;1970.60088&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.60100&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.60096&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.60096&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.60599&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.60223&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1969.60092&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:2&quot;}]" data-refcode-old="KJV — Colossians 1:2"><strong>2</strong> To the saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60098" data-para-id="196
+5.60098" data-refcode="KJV — Colossians 1:3">
+<span class="egw_content" data-refcode="196
+5.60098" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59821&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.60232&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:3&quot;},{&quot;para_id&quot;:&quot;11139.60098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;11140.60224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.60098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.60226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.60098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.60098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.60148&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.60098&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.60098&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:3&quot;},{&quot;para_id&quot;:&quot;1970.60090&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.60102&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.60098&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.60098&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.60601&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.60225&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1969.60094&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:3&quot;}]" data-refcode-old="KJV — Colossians 1:3"><strong>3</strong> We give thanks to God and the Father of our Lord Jesus Christ, praying always for you,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60100" data-para-id="196
+5.60100" data-refcode="KJV — Colossians 1:4">
+<span class="egw_content" data-refcode="196
+5.60100" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59823&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.60234&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:4&quot;},{&quot;para_id&quot;:&quot;11139.60100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;11140.60226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.60100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.60228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.60100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.60100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.60150&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.60100&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.60100&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:4&quot;},{&quot;para_id&quot;:&quot;1970.60092&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.60104&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.60100&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.60100&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.60603&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.60227&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1969.60096&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:4&quot;}]" data-refcode-old="KJV — Colossians 1:4"><strong>4</strong> Since we heard of your faith in Christ Jesus, and of the love which ye have to all the saints,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60102" data-para-id="196
+5.60102" data-refcode="KJV — Colossians 1:5">
+<span class="egw_content" data-refcode="196
+5.60102" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59825&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.60236&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:5&quot;},{&quot;para_id&quot;:&quot;11139.60102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;11140.60228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.60102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.60230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.60102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.60102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.60152&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.60102&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.60102&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:5&quot;},{&quot;para_id&quot;:&quot;1970.60094&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.60106&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.60102&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.60102&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.60605&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.60229&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1969.60098&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:5&quot;}]" data-refcode-old="KJV — Colossians 1:5"><strong>5</strong> For the hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60104" data-para-id="196
+5.60104" data-refcode="KJV — Colossians 1:6">
+<span class="egw_content" data-refcode="196
+5.60104" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59827&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.60238&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:6&quot;},{&quot;para_id&quot;:&quot;11139.60104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;11140.60230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.60104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.60232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.60104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.60104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.60154&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.60104&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.60104&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:6&quot;},{&quot;para_id&quot;:&quot;1970.60096&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.60108&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.60104&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.60104&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.60607&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.60231&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1969.60100&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:6&quot;}]" data-refcode-old="KJV — Colossians 1:6"><strong>6</strong> Which is come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60106" data-para-id="196
+5.60106" data-refcode="KJV — Colossians 1:7">
+<span class="egw_content" data-refcode="196
+5.60106" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59829&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.60240&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:7&quot;},{&quot;para_id&quot;:&quot;11139.60106&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;11140.60232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.60106&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.60234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.60106&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.60106&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.60156&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.60106&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.60106&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:7&quot;},{&quot;para_id&quot;:&quot;1970.60098&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.60110&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.60106&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.60106&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.60609&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.60233&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1969.60102&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:7&quot;}]" data-refcode-old="KJV — Colossians 1:7"><strong>7</strong> As ye also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60108" data-para-id="196
+5.60108" data-refcode="KJV — Colossians 1:8">
+<span class="egw_content" data-refcode="196
+5.60108" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59831&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.60242&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:8&quot;},{&quot;para_id&quot;:&quot;11139.60108&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;11140.60234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.60108&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.60236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.60108&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.60108&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.60158&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.60108&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.60108&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:8&quot;},{&quot;para_id&quot;:&quot;1970.60100&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.60112&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.60108&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.60108&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.60611&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.60235&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1969.60104&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:8&quot;}]" data-refcode-old="KJV — Colossians 1:8"><strong>8</strong> Who also declared unto us your love in the Spirit.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60110" data-para-id="196
+5.60110" data-refcode="KJV — Colossians 1:9">
+<span class="egw_content" data-refcode="196
+5.60110" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59833&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.60244&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:9&quot;},{&quot;para_id&quot;:&quot;11139.60110&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;11140.60236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.60110&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.60238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.60110&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.60110&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.60160&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.60110&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.60110&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:9&quot;},{&quot;para_id&quot;:&quot;1970.60102&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.60114&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.60110&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.60110&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.60613&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.60237&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1969.60106&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:9&quot;}]" data-refcode-old="KJV — Colossians 1:9"><strong>9</strong> For this cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60112" data-para-id="196
+5.60112" data-refcode="KJV — Colossians 1:10">
+<span class="egw_content" data-refcode="196
+5.60112" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59835&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.60246&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:10&quot;},{&quot;para_id&quot;:&quot;11139.60112&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;11140.60238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.60112&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.60240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.60112&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.60112&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.60162&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.60112&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.60112&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:10&quot;},{&quot;para_id&quot;:&quot;1970.60104&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.60116&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.60112&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.60112&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.60615&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.60239&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1969.60108&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:10&quot;}]" data-refcode-old="KJV — Colossians 1:10"><strong>10</strong> That ye might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60114" data-para-id="196
+5.60114" data-refcode="KJV — Colossians 1:11">
+<span class="egw_content" data-refcode="196
+5.60114" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59837&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.60248&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:11&quot;},{&quot;para_id&quot;:&quot;11139.60114&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;11140.60240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.60114&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.60242&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.60114&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.60114&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.60164&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.60114&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.60114&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:11&quot;},{&quot;para_id&quot;:&quot;1970.60106&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.60118&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.60114&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.60114&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.60617&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.60241&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1969.60110&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:11&quot;}]" data-refcode-old="KJV — Colossians 1:11"><strong>11</strong> Strengthened with all might, according to his glorious power, unto all patience and longsuffering with joyfulness;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60116" data-para-id="196
+5.60116" data-refcode="KJV — Colossians 1:12">
+<span class="egw_content" data-refcode="196
+5.60116" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59839&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.60250&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:12&quot;},{&quot;para_id&quot;:&quot;11139.60116&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;11140.60242&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.60116&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.60244&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.60116&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.60116&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.60166&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.60116&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.60116&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:12&quot;},{&quot;para_id&quot;:&quot;1970.60108&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.60120&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.60116&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.60116&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.60619&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.60243&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1969.60112&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:12&quot;}]" data-refcode-old="KJV — Colossians 1:12"><strong>12</strong> Giving thanks unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60118" data-para-id="196
+5.60118" data-refcode="KJV — Colossians 1:13">
+<span class="egw_content" data-refcode="196
+5.60118" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59841&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.60252&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:13&quot;},{&quot;para_id&quot;:&quot;11139.60118&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;11140.60244&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.60118&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.60246&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.60118&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.60118&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.60168&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.60118&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.60118&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:13&quot;},{&quot;para_id&quot;:&quot;1970.60110&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.60122&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.60118&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.60118&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.60621&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.60245&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1969.60114&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:13&quot;}]" data-refcode-old="KJV — Colossians 1:13"><strong>13</strong> Who hath delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60120" data-para-id="196
+5.60120" data-refcode="KJV — Colossians 1:14">
+<span class="egw_content" data-refcode="196
+5.60120" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59843&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.60254&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:14&quot;},{&quot;para_id&quot;:&quot;11139.60120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;11140.60246&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.60120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.60248&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.60120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.60120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.60170&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.60120&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.60120&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:14&quot;},{&quot;para_id&quot;:&quot;1970.60112&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.60124&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.60120&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.60120&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.60623&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.60247&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1969.60116&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:14&quot;}]" data-refcode-old="KJV — Colossians 1:14"><strong>14</strong> In whom we have redemption through his blood, even the forgiveness of sins:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60122" data-para-id="196
+5.60122" data-refcode="KJV — Colossians 1:15">
+<span class="egw_content" data-refcode="196
+5.60122" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59845&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.60256&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:15&quot;},{&quot;para_id&quot;:&quot;11139.60122&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;11140.60248&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.60122&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.60250&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.60122&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.60122&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.60172&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.60122&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.60122&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:15&quot;},{&quot;para_id&quot;:&quot;1970.60114&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.60126&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.60122&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.60122&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.60625&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.60249&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1969.60118&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:15&quot;}]" data-refcode-old="KJV — Colossians 1:15"><strong>15</strong> Who is the image of the invisible God, the firstborn of every creature:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60124" data-para-id="196
+5.60124" data-refcode="KJV — Colossians 1:16">
+<span class="egw_content" data-refcode="196
+5.60124" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59847&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.60258&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:16&quot;},{&quot;para_id&quot;:&quot;11139.60124&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;11140.60250&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.60124&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.60252&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.60124&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.60124&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.60174&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.60124&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.60124&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:16&quot;},{&quot;para_id&quot;:&quot;1970.60116&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.60128&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.60124&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.60124&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.60627&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.60251&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1969.60120&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:16&quot;}]" data-refcode-old="KJV — Colossians 1:16"><strong>16</strong> For by him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60126" data-para-id="196
+5.60126" data-refcode="KJV — Colossians 1:17">
+<span class="egw_content" data-refcode="196
+5.60126" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59849&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.60260&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:17&quot;},{&quot;para_id&quot;:&quot;11139.60126&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;11140.60252&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.60126&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.60254&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.60126&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.60126&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.60176&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.60126&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.60126&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:17&quot;},{&quot;para_id&quot;:&quot;1970.60118&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.60130&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.60126&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.60126&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.60629&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.60253&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1969.60122&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:17&quot;}]" data-refcode-old="KJV — Colossians 1:17"><strong>17</strong> And he is before all things, and by him all things consist.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60128" data-para-id="196
+5.60128" data-refcode="KJV — Colossians 1:18">
+<span class="egw_content" data-refcode="196
+5.60128" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59851&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.60262&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:18&quot;},{&quot;para_id&quot;:&quot;11139.60128&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;11140.60254&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.60128&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.60256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.60128&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.60128&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.60178&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.60128&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.60128&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:18&quot;},{&quot;para_id&quot;:&quot;1970.60120&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.60132&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.60128&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.60128&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.60631&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.60255&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1969.60124&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:18&quot;}]" data-refcode-old="KJV — Colossians 1:18"><strong>18</strong> And he is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60130" data-para-id="196
+5.60130" data-refcode="KJV — Colossians 1:19">
+<span class="egw_content" data-refcode="196
+5.60130" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59853&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.60264&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:19&quot;},{&quot;para_id&quot;:&quot;11139.60130&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;11140.60256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.60130&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.60258&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.60130&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.60130&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.60180&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.60130&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.60130&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:19&quot;},{&quot;para_id&quot;:&quot;1970.60122&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.60134&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.60130&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.60130&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.60633&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.60257&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1969.60126&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:19&quot;}]" data-refcode-old="KJV — Colossians 1:19"><strong>19</strong> For it pleased the Father that in him should all fulness dwell;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60132" data-para-id="196
+5.60132" data-refcode="KJV — Colossians 1:20">
+<span class="egw_content" data-refcode="196
+5.60132" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59855&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.60266&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:20&quot;},{&quot;para_id&quot;:&quot;11139.60132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;11140.60258&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.60132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.60260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.60132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.60132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.60182&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.60132&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.60132&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:20&quot;},{&quot;para_id&quot;:&quot;1970.60124&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.60136&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.60132&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.60132&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.60635&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.60259&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1969.60128&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:20&quot;}]" data-refcode-old="KJV — Colossians 1:20"><strong>20</strong> And, having made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60134" data-para-id="196
+5.60134" data-refcode="KJV — Colossians 1:21">
+<span class="egw_content" data-refcode="196
+5.60134" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59857&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.60268&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:21&quot;},{&quot;para_id&quot;:&quot;11139.60134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;11140.60260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.60134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.60262&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.60134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.60134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.60184&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.60134&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.60134&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:21&quot;},{&quot;para_id&quot;:&quot;1970.60126&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.60138&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.60134&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.60134&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.60637&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.60261&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1969.60130&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:21&quot;}]" data-refcode-old="KJV — Colossians 1:21"><strong>21</strong> And you, that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60136" data-para-id="196
+5.60136" data-refcode="KJV — Colossians 1:22">
+<span class="egw_content" data-refcode="196
+5.60136" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59859&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.60270&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:22&quot;},{&quot;para_id&quot;:&quot;11139.60136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;11140.60262&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.60136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.60264&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.60136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.60136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.60186&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.60136&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.60136&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:22&quot;},{&quot;para_id&quot;:&quot;1970.60128&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.60140&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.60136&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.60136&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.60639&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.60263&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1969.60132&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:22&quot;}]" data-refcode-old="KJV — Colossians 1:22"><strong>22</strong> In the body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60138" data-para-id="196
+5.60138" data-refcode="KJV — Colossians 1:23">
+<span class="egw_content" data-refcode="196
+5.60138" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59861&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.60272&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:23&quot;},{&quot;para_id&quot;:&quot;11139.60138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;11140.60264&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.60138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.60266&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.60138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.60138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.60188&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.60138&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.60138&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:23&quot;},{&quot;para_id&quot;:&quot;1970.60130&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.60142&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.60138&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.60138&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.60641&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.60265&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1969.60134&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:23&quot;}]" data-refcode-old="KJV — Colossians 1:23"><strong>23</strong> If ye continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60140" data-para-id="196
+5.60140" data-refcode="KJV — Colossians 1:24">
+<span class="egw_content" data-refcode="196
+5.60140" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59863&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.60274&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:24&quot;},{&quot;para_id&quot;:&quot;11139.60140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;11140.60266&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.60140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.60268&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.60140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.60140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.60190&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.60140&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.60140&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:24&quot;},{&quot;para_id&quot;:&quot;1970.60132&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.60144&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.60140&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.60140&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.60643&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.60267&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1969.60136&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:24&quot;}]" data-refcode-old="KJV — Colossians 1:24"><strong>24</strong> Who now rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body's sake, which is the church:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60142" data-para-id="196
+5.60142" data-refcode="KJV — Colossians 1:25">
+<span class="egw_content" data-refcode="196
+5.60142" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59865&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.60276&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:25&quot;},{&quot;para_id&quot;:&quot;11139.60142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;11140.60268&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.60142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.60270&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.60142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.60142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.60192&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.60142&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.60142&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:25&quot;},{&quot;para_id&quot;:&quot;1970.60134&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.60146&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.60142&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.60142&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.60645&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.60269&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:25&quot;},{&quot;para_id&quot;:&quot;1969.60138&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:25&quot;}]" data-refcode-old="KJV — Colossians 1:25"><strong>25</strong> Whereof I am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60144" data-para-id="196
+5.60144" data-refcode="KJV — Colossians 1:26">
+<span class="egw_content" data-refcode="196
+5.60144" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59867&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.60278&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:26&quot;},{&quot;para_id&quot;:&quot;11139.60144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;11140.60270&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.60144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.60272&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.60144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.60144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.60194&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.60144&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.60144&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:26&quot;},{&quot;para_id&quot;:&quot;1970.60136&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.60148&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.60144&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.60144&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.60647&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.60271&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:26&quot;},{&quot;para_id&quot;:&quot;1969.60140&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:26&quot;}]" data-refcode-old="KJV — Colossians 1:26"><strong>26</strong> Even the mystery which hath been hid from ages and from generations, but now is made manifest to his saints:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60146" data-para-id="196
+5.60146" data-refcode="KJV — Colossians 1:27">
+<span class="egw_content" data-refcode="196
+5.60146" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59869&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.60280&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:27&quot;},{&quot;para_id&quot;:&quot;11139.60146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;11140.60272&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.60146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.60274&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.60146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.60146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.60196&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.60146&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.60146&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:27&quot;},{&quot;para_id&quot;:&quot;1970.60138&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.60150&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.60146&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.60146&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.60649&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.60273&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:27&quot;},{&quot;para_id&quot;:&quot;1969.60142&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:27&quot;}]" data-refcode-old="KJV — Colossians 1:27"><strong>27</strong> To whom God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60148" data-para-id="196
+5.60148" data-refcode="KJV — Colossians 1:28">
+<span class="egw_content" data-refcode="196
+5.60148" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59871&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.60282&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:28&quot;},{&quot;para_id&quot;:&quot;11139.60148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;11140.60274&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.60148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.60276&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.60148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.60148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.60198&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.60148&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.60148&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:28&quot;},{&quot;para_id&quot;:&quot;1970.60140&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.60152&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.60148&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.60148&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.60651&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.60275&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:28&quot;},{&quot;para_id&quot;:&quot;1969.60144&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:28&quot;}]" data-refcode-old="KJV — Colossians 1:28"><strong>28</strong> Whom we preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60150" data-para-id="196
+5.60150" data-refcode="KJV — Colossians 1:29">
+<span class="egw_content" data-refcode="196
+5.60150" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59873&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Kolosk\u00fdm 1:29&quot;},{&quot;para_id&quot;:&quot;196
+7.60284&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Kolosser 1:29&quot;},{&quot;para_id&quot;:&quot;11139.60150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;11140.60276&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+2.60150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+3.60278&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+4.60150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+5.60150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Colossians 1:29&quot;},{&quot;para_id&quot;:&quot;196
+8.60200&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Colosenses 1:29&quot;},{&quot;para_id&quot;:&quot;202
+1.60150&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Colossiens 1:29&quot;},{&quot;para_id&quot;:&quot;196
+6.60150&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Colossesi 1:29&quot;},{&quot;para_id&quot;:&quot;1970.60142&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Kolosan 1:29&quot;},{&quot;para_id&quot;:&quot;197
+1.60154&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Colossences 1:29&quot;},{&quot;para_id&quot;:&quot;1116
+5.60150&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Coloseni 1:29&quot;},{&quot;para_id&quot;:&quot;197
+3.60150&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Coloseni 1:29&quot;},{&quot;para_id&quot;:&quot;197
+2.60653&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041a\u043e\u043b\u043e\u0441\u0441\u044f\u043d\u0430\u043c 1:29&quot;},{&quot;para_id&quot;:&quot;1231
+8.60277&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041a\u043e\u043b\u043e\u0441\u044f\u043d\u0430\u043c 1:29&quot;},{&quot;para_id&quot;:&quot;1969.60146&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b4c\u7f85\u897f\u66f8 1:29&quot;}]" data-refcode-old="KJV — Colossians 1:29"><strong>29</strong> Whereunto I also labour, striving according to his working, which worketh in me mightily.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.60044">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.60151">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="39a42d67fce3c4acbf419242-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="39a42d67fce3c4acbf419242-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="39a42d67fce3c4acbf419242-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="39a42d67fce3c4acbf419242-" defer=""></script></body>
+</html>

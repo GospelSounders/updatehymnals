@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="3e25ee5b9c0520624a90c972-text/javascript">var _isLogged=false;</script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="3e25ee5b9c0520624a90c972-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:6
+7.5%">
+803/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.41714">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.41817">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="41759" data-para-id="196
+5.41759" data-refcode="KJV — Ezekiel">
+<span class="egw_content" data-refcode="196
+5.41759" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41581&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel&quot;},{&quot;para_id&quot;:&quot;196
+7.41897&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel&quot;},{&quot;para_id&quot;:&quot;11139.41759&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;11140.41885&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;1114
+2.41759&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;1114
+3.41893&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;1114
+4.41759&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;1114
+5.41759&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel&quot;},{&quot;para_id&quot;:&quot;196
+8.41799&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel&quot;},{&quot;para_id&quot;:&quot;202
+1.41759&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel&quot;},{&quot;para_id&quot;:&quot;196
+6.41759&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele&quot;},{&quot;para_id&quot;:&quot;1970.41761&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela&quot;},{&quot;para_id&quot;:&quot;197
+1.41763&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel&quot;},{&quot;para_id&quot;:&quot;1116
+5.41759&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel&quot;},{&quot;para_id&quot;:&quot;197
+3.41759&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel&quot;},{&quot;para_id&quot;:&quot;197
+2.41917&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f&quot;},{&quot;para_id&quot;:&quot;1231
+8.41891&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f&quot;},{&quot;para_id&quot;:&quot;1969.41757&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8&quot;}]" data-refcode-old="KJV — Ezekiel">Ezekiel</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="41760" data-para-id="196
+5.41760" data-refcode="KJV — Ezekiel 1">
+<span class="egw_content" data-refcode="196
+5.41760" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41582&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1&quot;},{&quot;para_id&quot;:&quot;196
+7.41898&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1&quot;},{&quot;para_id&quot;:&quot;11139.41760&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;11140.41886&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.41760&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.41894&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.41760&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.41760&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1&quot;},{&quot;para_id&quot;:&quot;196
+8.42320&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1&quot;},{&quot;para_id&quot;:&quot;202
+1.41760&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1&quot;},{&quot;para_id&quot;:&quot;196
+6.41760&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1&quot;},{&quot;para_id&quot;:&quot;1970.41762&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1&quot;},{&quot;para_id&quot;:&quot;197
+1.41764&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.41760&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1&quot;},{&quot;para_id&quot;:&quot;197
+3.41760&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1&quot;},{&quot;para_id&quot;:&quot;197
+2.41918&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.41892&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1&quot;},{&quot;para_id&quot;:&quot;1969.41758&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1&quot;}]" data-refcode-old="KJV — Ezekiel 1">Ezekiel 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41762" data-para-id="196
+5.41762" data-refcode="KJV — Ezekiel 1:1">
+<span class="egw_content" data-refcode="196
+5.41762" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41584&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.41900&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:1&quot;},{&quot;para_id&quot;:&quot;11139.41762&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;11140.41888&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.41762&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.41896&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.41762&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.41762&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.42322&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.41762&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.41762&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:1&quot;},{&quot;para_id&quot;:&quot;1970.41764&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.41766&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.41762&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.41762&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.41920&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.41894&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1969.41760&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:1&quot;}]" data-refcode-old="KJV — Ezekiel 1:1"><strong>1</strong> Now it came to pass in the thirtieth year, in the fourth month, in the fifth day of the month, as I was among the captives by the river of Chebar, that the heavens were opened, and I saw visions of God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41764" data-para-id="196
+5.41764" data-refcode="KJV — Ezekiel 1:2">
+<span class="egw_content" data-refcode="196
+5.41764" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41586&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.41902&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:2&quot;},{&quot;para_id&quot;:&quot;11139.41764&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;11140.41890&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.41764&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.41898&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.41764&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.41764&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.42324&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.41764&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.41764&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:2&quot;},{&quot;para_id&quot;:&quot;1970.41766&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.41768&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.41764&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.41764&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.41922&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.41896&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1969.41762&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:2&quot;}]" data-refcode-old="KJV — Ezekiel 1:2"><strong>2</strong> In the fifth day of the month, which was the fifth year of king Jehoiachin's captivity,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41766" data-para-id="196
+5.41766" data-refcode="KJV — Ezekiel 1:3">
+<span class="egw_content" data-refcode="196
+5.41766" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41588&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.41904&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:3&quot;},{&quot;para_id&quot;:&quot;11139.41766&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;11140.41892&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.41766&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.41900&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.41766&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.41766&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.42326&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.41766&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.41766&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:3&quot;},{&quot;para_id&quot;:&quot;1970.41768&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.41770&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.41766&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.41766&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.41924&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.41898&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1969.41764&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:3&quot;}]" data-refcode-old="KJV — Ezekiel 1:3"><strong>3</strong> The word of the LORD came expressly unto Ezekiel the priest, the son of Buzi, in the land of the Chaldeans by the river Chebar; and the hand of the LORD was there upon him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41768" data-para-id="196
+5.41768" data-refcode="KJV — Ezekiel 1:4">
+<span class="egw_content" data-refcode="196
+5.41768" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41590&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.41906&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:4&quot;},{&quot;para_id&quot;:&quot;11139.41768&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;11140.41894&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.41768&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.41902&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.41768&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.41768&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.42328&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.41768&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.41768&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:4&quot;},{&quot;para_id&quot;:&quot;1970.41770&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.41772&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.41768&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.41768&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.41926&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.41900&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1969.41766&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:4&quot;}]" data-refcode-old="KJV — Ezekiel 1:4"><strong>4</strong> And I looked, and, behold, a whirlwind came out of the north, a great cloud, and a fire infolding itself, and a brightness was about it, and out of the midst thereof as the colour of amber, out of the midst of the fire.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41770" data-para-id="196
+5.41770" data-refcode="KJV — Ezekiel 1:5">
+<span class="egw_content" data-refcode="196
+5.41770" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41592&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.41908&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:5&quot;},{&quot;para_id&quot;:&quot;11139.41770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;11140.41896&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.41770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.41904&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.41770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.41770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.42330&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.41770&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.41770&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:5&quot;},{&quot;para_id&quot;:&quot;1970.41772&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.41774&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.41770&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.41770&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.41928&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.41902&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1969.41768&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:5&quot;}]" data-refcode-old="KJV — Ezekiel 1:5"><strong>5</strong> Also out of the midst thereof came the likeness of four living creatures. And this was their appearance; they had the likeness of a man.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41772" data-para-id="196
+5.41772" data-refcode="KJV — Ezekiel 1:6">
+<span class="egw_content" data-refcode="196
+5.41772" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41594&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.41910&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:6&quot;},{&quot;para_id&quot;:&quot;11139.41772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;11140.41898&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.41772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.41906&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.41772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.41772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.42332&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.41772&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.41772&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:6&quot;},{&quot;para_id&quot;:&quot;1970.41774&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.41776&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.41772&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.41772&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.41930&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.41904&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1969.41770&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:6&quot;}]" data-refcode-old="KJV — Ezekiel 1:6"><strong>6</strong> And every one had four faces, and every one had four wings.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41774" data-para-id="196
+5.41774" data-refcode="KJV — Ezekiel 1:7">
+<span class="egw_content" data-refcode="196
+5.41774" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41596&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.41912&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:7&quot;},{&quot;para_id&quot;:&quot;11139.41774&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;11140.41900&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.41774&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.41908&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.41774&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.41774&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.42334&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.41774&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.41774&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:7&quot;},{&quot;para_id&quot;:&quot;1970.41776&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.41778&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.41774&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.41774&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.41932&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.41906&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1969.41772&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:7&quot;}]" data-refcode-old="KJV — Ezekiel 1:7"><strong>7</strong> And their feet were straight feet; and the sole of their feet was like the sole of a calf's foot: and they sparkled like the colour of burnished brass.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41776" data-para-id="196
+5.41776" data-refcode="KJV — Ezekiel 1:8">
+<span class="egw_content" data-refcode="196
+5.41776" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41598&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.41914&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:8&quot;},{&quot;para_id&quot;:&quot;11139.41776&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;11140.41902&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.41776&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.41910&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.41776&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.41776&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.42336&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.41776&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.41776&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:8&quot;},{&quot;para_id&quot;:&quot;1970.41778&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.41780&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.41776&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.41776&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.41934&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.41908&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1969.41774&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:8&quot;}]" data-refcode-old="KJV — Ezekiel 1:8"><strong>8</strong> And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41778" data-para-id="196
+5.41778" data-refcode="KJV — Ezekiel 1:9">
+<span class="egw_content" data-refcode="196
+5.41778" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41600&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.41916&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:9&quot;},{&quot;para_id&quot;:&quot;11139.41778&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;11140.41904&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.41778&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.41912&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.41778&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.41778&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.42338&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.41778&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.41778&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:9&quot;},{&quot;para_id&quot;:&quot;1970.41780&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.41782&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.41778&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.41778&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.41936&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.41910&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1969.41776&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:9&quot;}]" data-refcode-old="KJV — Ezekiel 1:9"><strong>9</strong> Their wings were joined one to another; they turned not when they went; they went every one straight forward.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41780" data-para-id="196
+5.41780" data-refcode="KJV — Ezekiel 1:10">
+<span class="egw_content" data-refcode="196
+5.41780" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41602&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.41918&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:10&quot;},{&quot;para_id&quot;:&quot;11139.41780&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;11140.41906&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.41780&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.41914&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.41780&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.41780&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.42340&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.41780&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.41780&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:10&quot;},{&quot;para_id&quot;:&quot;1970.41782&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.41784&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.41780&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.41780&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.41938&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.41912&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1969.41778&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:10&quot;}]" data-refcode-old="KJV — Ezekiel 1:10"><strong>10</strong> As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41782" data-para-id="196
+5.41782" data-refcode="KJV — Ezekiel 1:11">
+<span class="egw_content" data-refcode="196
+5.41782" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41604&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.41920&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:11&quot;},{&quot;para_id&quot;:&quot;11139.41782&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;11140.41908&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.41782&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.41916&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.41782&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.41782&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.42342&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.41782&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.41782&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:11&quot;},{&quot;para_id&quot;:&quot;1970.41784&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.41786&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.41782&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.41782&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.41940&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.41914&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1969.41780&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:11&quot;}]" data-refcode-old="KJV — Ezekiel 1:11"><strong>11</strong> Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41784" data-para-id="196
+5.41784" data-refcode="KJV — Ezekiel 1:12">
+<span class="egw_content" data-refcode="196
+5.41784" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41606&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.41922&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:12&quot;},{&quot;para_id&quot;:&quot;11139.41784&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;11140.41910&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.41784&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.41918&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.41784&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.41784&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.42344&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.41784&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.41784&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:12&quot;},{&quot;para_id&quot;:&quot;1970.41786&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.41788&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.41784&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.41784&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.41942&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.41916&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1969.41782&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:12&quot;}]" data-refcode-old="KJV — Ezekiel 1:12"><strong>12</strong> And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41786" data-para-id="196
+5.41786" data-refcode="KJV — Ezekiel 1:13">
+<span class="egw_content" data-refcode="196
+5.41786" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41608&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.41924&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:13&quot;},{&quot;para_id&quot;:&quot;11139.41786&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;11140.41912&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.41786&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.41920&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.41786&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.41786&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.42346&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.41786&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.41786&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:13&quot;},{&quot;para_id&quot;:&quot;1970.41788&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.41790&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.41786&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.41786&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.41944&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.41918&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1969.41784&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:13&quot;}]" data-refcode-old="KJV — Ezekiel 1:13"><strong>13</strong> As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41788" data-para-id="196
+5.41788" data-refcode="KJV — Ezekiel 1:14">
+<span class="egw_content" data-refcode="196
+5.41788" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41610&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.41926&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:14&quot;},{&quot;para_id&quot;:&quot;11139.41788&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;11140.41914&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.41788&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.41922&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.41788&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.41788&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.42348&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.41788&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.41788&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:14&quot;},{&quot;para_id&quot;:&quot;1970.41790&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.41792&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.41788&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.41788&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.41946&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.41920&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1969.41786&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:14&quot;}]" data-refcode-old="KJV — Ezekiel 1:14"><strong>14</strong> And the living creatures ran and returned as the appearance of a flash of lightning.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41790" data-para-id="196
+5.41790" data-refcode="KJV — Ezekiel 1:15">
+<span class="egw_content" data-refcode="196
+5.41790" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41612&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.41928&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:15&quot;},{&quot;para_id&quot;:&quot;11139.41790&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;11140.41916&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.41790&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.41924&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.41790&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.41790&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.42350&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.41790&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.41790&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:15&quot;},{&quot;para_id&quot;:&quot;1970.41792&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.41794&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.41790&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.41790&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.41948&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.41922&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1969.41788&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:15&quot;}]" data-refcode-old="KJV — Ezekiel 1:15"><strong>15</strong> Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41792" data-para-id="196
+5.41792" data-refcode="KJV — Ezekiel 1:16">
+<span class="egw_content" data-refcode="196
+5.41792" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41614&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.41930&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:16&quot;},{&quot;para_id&quot;:&quot;11139.41792&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;11140.41918&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.41792&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.41926&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.41792&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.41792&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.42352&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.41792&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.41792&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:16&quot;},{&quot;para_id&quot;:&quot;1970.41794&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.41796&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.41792&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.41792&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.41950&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.41924&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1969.41790&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:16&quot;}]" data-refcode-old="KJV — Ezekiel 1:16"><strong>16</strong> The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41794" data-para-id="196
+5.41794" data-refcode="KJV — Ezekiel 1:17">
+<span class="egw_content" data-refcode="196
+5.41794" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41616&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.41932&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:17&quot;},{&quot;para_id&quot;:&quot;11139.41794&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;11140.41920&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.41794&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.41928&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.41794&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.41794&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.42354&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.41794&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.41794&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:17&quot;},{&quot;para_id&quot;:&quot;1970.41796&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.41798&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.41794&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.41794&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.41952&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.41926&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1969.41792&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:17&quot;}]" data-refcode-old="KJV — Ezekiel 1:17"><strong>17</strong> When they went, they went upon their four sides: and they turned not when they went.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41796" data-para-id="196
+5.41796" data-refcode="KJV — Ezekiel 1:18">
+<span class="egw_content" data-refcode="196
+5.41796" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41618&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.41934&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:18&quot;},{&quot;para_id&quot;:&quot;11139.41796&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;11140.41922&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.41796&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.41930&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.41796&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.41796&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.42356&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.41796&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.41796&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:18&quot;},{&quot;para_id&quot;:&quot;1970.41798&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.41800&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.41796&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.41796&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.41954&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.41928&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1969.41794&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:18&quot;}]" data-refcode-old="KJV — Ezekiel 1:18"><strong>18</strong> As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41798" data-para-id="196
+5.41798" data-refcode="KJV — Ezekiel 1:19">
+<span class="egw_content" data-refcode="196
+5.41798" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41620&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.41936&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:19&quot;},{&quot;para_id&quot;:&quot;11139.41798&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;11140.41924&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.41798&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.41932&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.41798&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.41798&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.42358&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.41798&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.41798&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:19&quot;},{&quot;para_id&quot;:&quot;1970.41800&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.41802&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.41798&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.41798&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.41956&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.41930&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1969.41796&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:19&quot;}]" data-refcode-old="KJV — Ezekiel 1:19"><strong>19</strong> And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41800" data-para-id="196
+5.41800" data-refcode="KJV — Ezekiel 1:20">
+<span class="egw_content" data-refcode="196
+5.41800" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41622&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.41938&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:20&quot;},{&quot;para_id&quot;:&quot;11139.41800&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;11140.41926&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.41800&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.41934&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.41800&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.41800&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.42360&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.41800&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.41800&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:20&quot;},{&quot;para_id&quot;:&quot;1970.41802&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.41804&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.41800&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.41800&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.41958&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.41932&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1969.41798&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:20&quot;}]" data-refcode-old="KJV — Ezekiel 1:20"><strong>20</strong> Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41802" data-para-id="196
+5.41802" data-refcode="KJV — Ezekiel 1:21">
+<span class="egw_content" data-refcode="196
+5.41802" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41624&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.41940&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:21&quot;},{&quot;para_id&quot;:&quot;11139.41802&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;11140.41928&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.41802&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.41936&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.41802&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.41802&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.42362&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.41802&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.41802&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:21&quot;},{&quot;para_id&quot;:&quot;1970.41804&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.41806&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.41802&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.41802&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.41960&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.41934&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:21&quot;},{&quot;para_id&quot;:&quot;1969.41800&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:21&quot;}]" data-refcode-old="KJV — Ezekiel 1:21"><strong>21</strong> When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41804" data-para-id="196
+5.41804" data-refcode="KJV — Ezekiel 1:22">
+<span class="egw_content" data-refcode="196
+5.41804" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41626&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.41942&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:22&quot;},{&quot;para_id&quot;:&quot;11139.41804&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;11140.41930&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.41804&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.41938&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.41804&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.41804&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.42364&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.41804&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.41804&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:22&quot;},{&quot;para_id&quot;:&quot;1970.41806&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.41808&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.41804&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.41804&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.41962&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.41936&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:22&quot;},{&quot;para_id&quot;:&quot;1969.41802&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:22&quot;}]" data-refcode-old="KJV — Ezekiel 1:22"><strong>22</strong> And the likeness of the firmament upon the heads of the living creature was as the colour of the terrible crystal, stretched forth over their heads above.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41806" data-para-id="196
+5.41806" data-refcode="KJV — Ezekiel 1:23">
+<span class="egw_content" data-refcode="196
+5.41806" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41628&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.41944&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:23&quot;},{&quot;para_id&quot;:&quot;11139.41806&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;11140.41932&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.41806&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.41940&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.41806&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.41806&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.42366&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.41806&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.41806&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:23&quot;},{&quot;para_id&quot;:&quot;1970.41808&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.41810&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.41806&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.41806&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.41964&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.41938&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:23&quot;},{&quot;para_id&quot;:&quot;1969.41804&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:23&quot;}]" data-refcode-old="KJV — Ezekiel 1:23"><strong>23</strong> And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41808" data-para-id="196
+5.41808" data-refcode="KJV — Ezekiel 1:24">
+<span class="egw_content" data-refcode="196
+5.41808" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41630&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.41946&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:24&quot;},{&quot;para_id&quot;:&quot;11139.41808&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;11140.41934&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.41808&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.41942&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.41808&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.41808&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.42368&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.41808&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.41808&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:24&quot;},{&quot;para_id&quot;:&quot;1970.41810&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.41812&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.41808&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.41808&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.41966&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.41940&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:24&quot;},{&quot;para_id&quot;:&quot;1969.41806&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:24&quot;}]" data-refcode-old="KJV — Ezekiel 1:24"><strong>24</strong> And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41810" data-para-id="196
+5.41810" data-refcode="KJV — Ezekiel 1:25">
+<span class="egw_content" data-refcode="196
+5.41810" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41632&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.41948&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:25&quot;},{&quot;para_id&quot;:&quot;11139.41810&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;11140.41936&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.41810&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.41944&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.41810&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.41810&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.42370&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.41810&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.41810&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:25&quot;},{&quot;para_id&quot;:&quot;1970.41812&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.41814&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.41810&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.41810&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.41968&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.41942&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:25&quot;},{&quot;para_id&quot;:&quot;1969.41808&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:25&quot;}]" data-refcode-old="KJV — Ezekiel 1:25"><strong>25</strong> And there was a voice from the firmament that was over their heads, when they stood, and had let down their wings.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41812" data-para-id="196
+5.41812" data-refcode="KJV — Ezekiel 1:26">
+<span class="egw_content" data-refcode="196
+5.41812" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41634&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.41950&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:26&quot;},{&quot;para_id&quot;:&quot;11139.41812&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;11140.41938&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.41812&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.41946&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.41812&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.41812&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.42372&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.41812&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.41812&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:26&quot;},{&quot;para_id&quot;:&quot;1970.41814&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.41816&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.41812&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.41812&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.41970&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.41944&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:26&quot;},{&quot;para_id&quot;:&quot;1969.41810&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:26&quot;}]" data-refcode-old="KJV — Ezekiel 1:26"><strong>26</strong> And above the firmament that was over their heads was the likeness of a throne, as the appearance of a sapphire stone: and upon the likeness of the throne was the likeness as the appearance of a man above upon it.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41814" data-para-id="196
+5.41814" data-refcode="KJV — Ezekiel 1:27">
+<span class="egw_content" data-refcode="196
+5.41814" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41636&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.41952&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:27&quot;},{&quot;para_id&quot;:&quot;11139.41814&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;11140.41940&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.41814&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.41948&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.41814&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.41814&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.42374&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.41814&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.41814&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:27&quot;},{&quot;para_id&quot;:&quot;1970.41816&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.41818&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.41814&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.41814&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.41972&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.41946&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:27&quot;},{&quot;para_id&quot;:&quot;1969.41812&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:27&quot;}]" data-refcode-old="KJV — Ezekiel 1:27"><strong>27</strong> And I saw as the colour of amber, as the appearance of fire round about within it, from the appearance of his loins even upward, and from the appearance of his loins even downward, I saw as it were the appearance of fire, and it had brightness round about.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="41816" data-para-id="196
+5.41816" data-refcode="KJV — Ezekiel 1:28">
+<span class="egw_content" data-refcode="196
+5.41816" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.41638&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Ezechiel 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.41954&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hesekiel 1:28&quot;},{&quot;para_id&quot;:&quot;11139.41816&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;11140.41942&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.41816&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.41950&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.41816&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.41816&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Ezekiel 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.42376&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Ezequiel 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.41816&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Ez\u00e9chiel 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.41816&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ezechiele 1:28&quot;},{&quot;para_id&quot;:&quot;1970.41818&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ezechiela 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.41820&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Ezequiel 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.41816&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ezechiel 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.41816&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ezechiel 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.41974&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0435\u0437\u0435\u043a\u0438\u0438\u043b\u044f 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.41948&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0437\u0435\u043a\u0456\u0457\u043b\u044f 1:28&quot;},{&quot;para_id&quot;:&quot;1969.41814&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u897f\u7d50\u66f8 1:28&quot;}]" data-refcode-old="KJV — Ezekiel 1:28"><strong>28</strong> As the appearance of the bow that is in the cloud in the day of rain, so was the appearance of the brightness round about. This was the appearance of the likeness of the glory of the LORD. And when I saw it, I fell upon my face, and I heard a voice of one that spake.</span>
+</p>
+</div>
+<div class="pager bottom">
+
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.41714">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.41817">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="3e25ee5b9c0520624a90c972-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="3e25ee5b9c0520624a90c972-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="3e25ee5b9c0520624a90c972-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="3e25ee5b9c0520624a90c972-" defer=""></script></body>
+</html>

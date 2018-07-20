@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript">var _isLogged=false;</script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="dc194a0b6ec8325da625a8e2-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:5
+6.5%">
+672/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.35741">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.35806">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="35770" data-para-id="196
+5.35770" data-refcode="KJV — SongofSolomon">
+<span class="egw_content" data-refcode="196
+5.35770" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35600&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed&quot;},{&quot;para_id&quot;:&quot;196
+7.35910&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied&quot;},{&quot;para_id&quot;:&quot;11139.35770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;11140.35896&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;1114
+2.35770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;1114
+3.35906&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;1114
+4.35770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;1114
+5.35770&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon&quot;},{&quot;para_id&quot;:&quot;196
+8.35810&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares&quot;},{&quot;para_id&quot;:&quot;202
+1.35770&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques&quot;},{&quot;para_id&quot;:&quot;196
+6.35770&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici&quot;},{&quot;para_id&quot;:&quot;1970.35774&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami&quot;},{&quot;para_id&quot;:&quot;197
+1.35774&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos&quot;},{&quot;para_id&quot;:&quot;1116
+5.35770&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor&quot;},{&quot;para_id&quot;:&quot;197
+3.35770&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor&quot;},{&quot;para_id&quot;:&quot;197
+2.35928&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439&quot;},{&quot;para_id&quot;:&quot;1231
+8.35902&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438&quot;},{&quot;para_id&quot;:&quot;1969.35768&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c&quot;}]" data-refcode-old="KJV — SongofSolomon">Song of Solomon</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="35771" data-para-id="196
+5.35771" data-refcode="KJV — SongofSolomon 1">
+<span class="egw_content" data-refcode="196
+5.35771" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35601&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1&quot;},{&quot;para_id&quot;:&quot;196
+7.35911&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1&quot;},{&quot;para_id&quot;:&quot;11139.35771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;11140.35897&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.35771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.35907&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.35771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.35771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1&quot;},{&quot;para_id&quot;:&quot;196
+8.35811&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1&quot;},{&quot;para_id&quot;:&quot;202
+1.35771&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1&quot;},{&quot;para_id&quot;:&quot;196
+6.35771&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1&quot;},{&quot;para_id&quot;:&quot;1970.35775&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1&quot;},{&quot;para_id&quot;:&quot;197
+1.35775&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.35771&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1&quot;},{&quot;para_id&quot;:&quot;197
+3.35771&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1&quot;},{&quot;para_id&quot;:&quot;197
+2.35929&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.35903&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1&quot;},{&quot;para_id&quot;:&quot;1969.35769&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1&quot;}]" data-refcode-old="KJV — SongofSolomon 1">SongofSolomon 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35773" data-para-id="196
+5.35773" data-refcode="KJV — SongofSolomon 1:1">
+<span class="egw_content" data-refcode="196
+5.35773" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35603&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.35913&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:1&quot;},{&quot;para_id&quot;:&quot;11139.35773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;11140.35899&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.35773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.35909&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.35773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.35773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.35813&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.35773&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.35773&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:1&quot;},{&quot;para_id&quot;:&quot;1970.35777&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.35777&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.35773&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.35773&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.35931&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.35905&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:1&quot;},{&quot;para_id&quot;:&quot;1969.35771&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:1&quot;}]" data-refcode-old="KJV — SongofSolomon 1:1"><strong>1</strong> The song of songs, which is Solomon's.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35775" data-para-id="196
+5.35775" data-refcode="KJV — SongofSolomon 1:2">
+<span class="egw_content" data-refcode="196
+5.35775" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35605&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.35915&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:2&quot;},{&quot;para_id&quot;:&quot;11139.35775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;11140.35901&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.35775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.35911&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.35775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.35775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.35815&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.35775&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.35775&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:2&quot;},{&quot;para_id&quot;:&quot;1970.35779&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.35779&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.35775&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.35775&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.35933&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.35907&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:2&quot;},{&quot;para_id&quot;:&quot;1969.35773&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:2&quot;}]" data-refcode-old="KJV — SongofSolomon 1:2"><strong>2</strong> Let him kiss me with the kisses of his mouth: for thy love is better than wine.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35777" data-para-id="196
+5.35777" data-refcode="KJV — SongofSolomon 1:3">
+<span class="egw_content" data-refcode="196
+5.35777" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35607&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.35917&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:3&quot;},{&quot;para_id&quot;:&quot;11139.35777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;11140.35903&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.35777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.35913&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.35777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.35777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.35817&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.35777&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.35777&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:3&quot;},{&quot;para_id&quot;:&quot;1970.35781&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.35781&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.35777&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.35777&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.35935&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.35909&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:3&quot;},{&quot;para_id&quot;:&quot;1969.35775&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:3&quot;}]" data-refcode-old="KJV — SongofSolomon 1:3"><strong>3</strong> Because of the savour of thy good ointments thy name is as ointment poured forth, therefore do the virgins love thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35779" data-para-id="196
+5.35779" data-refcode="KJV — SongofSolomon 1:4">
+<span class="egw_content" data-refcode="196
+5.35779" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35609&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.35919&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:4&quot;},{&quot;para_id&quot;:&quot;11139.35779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;11140.35905&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.35779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.35915&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.35779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.35779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.35819&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.35779&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.35779&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:4&quot;},{&quot;para_id&quot;:&quot;1970.35783&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.35783&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.35779&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.35779&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.35937&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.35911&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:4&quot;},{&quot;para_id&quot;:&quot;1969.35777&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:4&quot;}]" data-refcode-old="KJV — SongofSolomon 1:4"><strong>4</strong> Draw me, we will run after thee: the king hath brought me into his chambers: we will be glad and rejoice in thee, we will remember thy love more than wine: the upright love thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35781" data-para-id="196
+5.35781" data-refcode="KJV — SongofSolomon 1:5">
+<span class="egw_content" data-refcode="196
+5.35781" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35611&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.35921&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:5&quot;},{&quot;para_id&quot;:&quot;11139.35781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;11140.35907&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.35781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.35917&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.35781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.35781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.35821&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.35781&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.35781&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:5&quot;},{&quot;para_id&quot;:&quot;1970.35785&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.35785&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.35781&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.35781&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.35939&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.35913&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:5&quot;},{&quot;para_id&quot;:&quot;1969.35779&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:5&quot;}]" data-refcode-old="KJV — SongofSolomon 1:5"><strong>5</strong> I am black, but comely, O ye daughters of Jerusalem, as the tents of Kedar, as the curtains of Solomon.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35783" data-para-id="196
+5.35783" data-refcode="KJV — SongofSolomon 1:6">
+<span class="egw_content" data-refcode="196
+5.35783" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35613&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.35923&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:6&quot;},{&quot;para_id&quot;:&quot;11139.35783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;11140.35909&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.35783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.35919&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.35783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.35783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.35823&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.35783&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.35783&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:6&quot;},{&quot;para_id&quot;:&quot;1970.35787&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.35787&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.35783&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.35783&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.35941&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.35915&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:6&quot;},{&quot;para_id&quot;:&quot;1969.35781&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:6&quot;}]" data-refcode-old="KJV — SongofSolomon 1:6"><strong>6</strong> Look not upon me, because I am black, because the sun hath looked upon me: my mother's children were angry with me; they made me the keeper of the vineyards; but mine own vineyard have I not kept.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35785" data-para-id="196
+5.35785" data-refcode="KJV — SongofSolomon 1:7">
+<span class="egw_content" data-refcode="196
+5.35785" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35615&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.35925&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:7&quot;},{&quot;para_id&quot;:&quot;11139.35785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;11140.35911&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.35785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.35921&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.35785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.35785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.35825&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.35785&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.35785&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:7&quot;},{&quot;para_id&quot;:&quot;1970.35789&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.35789&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.35785&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.35785&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.35943&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.35917&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:7&quot;},{&quot;para_id&quot;:&quot;1969.35783&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:7&quot;}]" data-refcode-old="KJV — SongofSolomon 1:7"><strong>7</strong> Tell me, O thou whom my soul loveth, where thou feedest, where thou makest thy flock to rest at noon: for why should I be as one that turneth aside by the flocks of thy companions?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35787" data-para-id="196
+5.35787" data-refcode="KJV — SongofSolomon 1:8">
+<span class="egw_content" data-refcode="196
+5.35787" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35617&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.35927&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:8&quot;},{&quot;para_id&quot;:&quot;11139.35787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;11140.35913&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.35787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.35923&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.35787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.35787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.35827&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.35787&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.35787&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:8&quot;},{&quot;para_id&quot;:&quot;1970.35791&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.35791&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.35787&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.35787&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.35945&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.35919&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:8&quot;},{&quot;para_id&quot;:&quot;1969.35785&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:8&quot;}]" data-refcode-old="KJV — SongofSolomon 1:8"><strong>8</strong> If thou know not, O thou fairest among women, go thy way forth by the footsteps of the flock, and feed thy kids beside the shepherds' tents.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35789" data-para-id="196
+5.35789" data-refcode="KJV — SongofSolomon 1:9">
+<span class="egw_content" data-refcode="196
+5.35789" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35619&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.35929&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:9&quot;},{&quot;para_id&quot;:&quot;11139.35789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;11140.35915&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.35789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.35925&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.35789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.35789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.35829&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.35789&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.35789&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:9&quot;},{&quot;para_id&quot;:&quot;1970.35793&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.35793&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.35789&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.35789&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.35947&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.35921&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:9&quot;},{&quot;para_id&quot;:&quot;1969.35787&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:9&quot;}]" data-refcode-old="KJV — SongofSolomon 1:9"><strong>9</strong> I have compared thee, O my love, to a company of horses in Pharaoh's chariots.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35791" data-para-id="196
+5.35791" data-refcode="KJV — SongofSolomon 1:10">
+<span class="egw_content" data-refcode="196
+5.35791" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35621&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.35931&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:10&quot;},{&quot;para_id&quot;:&quot;11139.35791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;11140.35917&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.35791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.35927&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.35791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.35791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.35831&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.35791&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.35791&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:10&quot;},{&quot;para_id&quot;:&quot;1970.35795&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.35795&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.35791&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.35791&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.35949&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.35923&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:10&quot;},{&quot;para_id&quot;:&quot;1969.35789&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:10&quot;}]" data-refcode-old="KJV — SongofSolomon 1:10"><strong>10</strong> Thy cheeks are comely with rows of jewels, thy neck with chains of gold.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35793" data-para-id="196
+5.35793" data-refcode="KJV — SongofSolomon 1:11">
+<span class="egw_content" data-refcode="196
+5.35793" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35623&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.35933&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:11&quot;},{&quot;para_id&quot;:&quot;11139.35793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;11140.35919&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.35793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.35929&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.35793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.35793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.35833&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.35793&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.35793&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:11&quot;},{&quot;para_id&quot;:&quot;1970.35797&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.35797&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.35793&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.35793&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.35951&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.35925&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:11&quot;},{&quot;para_id&quot;:&quot;1969.35791&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:11&quot;}]" data-refcode-old="KJV — SongofSolomon 1:11"><strong>11</strong> We will make thee borders of gold with studs of silver.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35795" data-para-id="196
+5.35795" data-refcode="KJV — SongofSolomon 1:12">
+<span class="egw_content" data-refcode="196
+5.35795" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35625&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.35935&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:12&quot;},{&quot;para_id&quot;:&quot;11139.35795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;11140.35921&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.35795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.35931&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.35795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.35795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.35835&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.35795&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.35795&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:12&quot;},{&quot;para_id&quot;:&quot;1970.35799&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.35799&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.35795&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.35795&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.35953&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.35927&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:12&quot;},{&quot;para_id&quot;:&quot;1969.35793&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:12&quot;}]" data-refcode-old="KJV — SongofSolomon 1:12"><strong>12</strong> While the king sitteth at his table, my spikenard sendeth forth the smell thereof.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35797" data-para-id="196
+5.35797" data-refcode="KJV — SongofSolomon 1:13">
+<span class="egw_content" data-refcode="196
+5.35797" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35627&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.35937&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:13&quot;},{&quot;para_id&quot;:&quot;11139.35797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;11140.35923&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.35797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.35933&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.35797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.35797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.35837&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.35797&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.35797&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:13&quot;},{&quot;para_id&quot;:&quot;1970.35801&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.35801&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.35797&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.35797&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.35955&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.35929&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:13&quot;},{&quot;para_id&quot;:&quot;1969.35795&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:13&quot;}]" data-refcode-old="KJV — SongofSolomon 1:13"><strong>13</strong> A bundle of myrrh is my wellbeloved unto me; he shall lie all night betwixt my breasts.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35799" data-para-id="196
+5.35799" data-refcode="KJV — SongofSolomon 1:14">
+<span class="egw_content" data-refcode="196
+5.35799" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35629&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.35939&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:14&quot;},{&quot;para_id&quot;:&quot;11139.35799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;11140.35925&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.35799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.35935&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.35799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.35799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.35839&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.35799&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.35799&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:14&quot;},{&quot;para_id&quot;:&quot;1970.35803&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.35803&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.35799&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.35799&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.35957&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.35931&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:14&quot;},{&quot;para_id&quot;:&quot;1969.35797&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:14&quot;}]" data-refcode-old="KJV — SongofSolomon 1:14"><strong>14</strong> My beloved is unto me as a cluster of camphire in the vineyards of Engedi.</span>
+</p>
+ <p class="egw_content_wrapper standard-noindent" book_id="1965" id="35801" data-para-id="196
+5.35801" data-refcode="KJV — SongofSolomon 1:15">
+<span class="egw_content" data-refcode="196
+5.35801" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35631&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.35941&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:15&quot;},{&quot;para_id&quot;:&quot;11139.35801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;11140.35927&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.35801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.35937&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.35801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.35801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.35841&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.35801&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.35801&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:15&quot;},{&quot;para_id&quot;:&quot;1970.35805&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.35805&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.35801&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.35801&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.35959&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.35933&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:15&quot;},{&quot;para_id&quot;:&quot;1969.35799&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:15&quot;}]" data-refcode-old="KJV — SongofSolomon 1:15"><strong>15</strong> Behold, thou art fair, my love; behold, thou art fair; thou hast doves' eyes.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35803" data-para-id="196
+5.35803" data-refcode="KJV — SongofSolomon 1:16">
+<span class="egw_content" data-refcode="196
+5.35803" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35633&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.35943&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:16&quot;},{&quot;para_id&quot;:&quot;11139.35803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;11140.35929&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.35803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.35939&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.35803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.35803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.35843&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.35803&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.35803&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:16&quot;},{&quot;para_id&quot;:&quot;1970.35807&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.35807&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.35803&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.35803&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.35961&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.35935&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:16&quot;},{&quot;para_id&quot;:&quot;1969.35801&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:16&quot;}]" data-refcode-old="KJV — SongofSolomon 1:16"><strong>16</strong> Behold, thou art fair, my beloved, yea, pleasant: also our bed is green.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="35805" data-para-id="196
+5.35805" data-refcode="KJV — SongofSolomon 1:17">
+<span class="egw_content" data-refcode="196
+5.35805" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35635&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 P\u00edse\u0148p\u00edsn\u00ed 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.35945&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hohelied 1:17&quot;},{&quot;para_id&quot;:&quot;11139.35805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;11140.35931&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.35805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.35941&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.35805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.35805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 SongofSolomon 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.35845&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Cantares 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.35805&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 CantiquedesCantiques 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.35805&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 CanticodeiCantici 1:17&quot;},{&quot;para_id&quot;:&quot;1970.35809&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Pie\u015b\u0144nadPie\u015bniami 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.35809&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 C\u00e2nticos 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.35805&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 C\u00e2ntareac\u00e2nt\u0103rilor 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.35805&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 C\u00e2ntareaC\u00e2nt\u0103rilor 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.35963&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041f\u0435\u0441\u043d\u044c\u041f\u0435\u0441\u043d\u0435\u0439 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.35937&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041f\u0456\u0441\u043d\u044f\u043d\u0430\u0434\u043f\u0456\u0441\u043d\u044f\u043c\u0438 1:17&quot;},{&quot;para_id&quot;:&quot;1969.35803&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u96c5\u6b4c 1:17&quot;}]" data-refcode-old="KJV — SongofSolomon 1:17"><strong>17</strong> The beams of our house are cedar, and our rafters of fir.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.35741">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.35806">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="dc194a0b6ec8325da625a8e2-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="dc194a0b6ec8325da625a8e2-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+ </div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="dc194a0b6ec8325da625a8e2-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="dc194a0b6ec8325da625a8e2-" defer=""></script></body>
+</html>

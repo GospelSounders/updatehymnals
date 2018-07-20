@@ -1,0 +1,567 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="0abfa5fe993801b898200f26-text/javascript">var _isLogged=false;</script>
+<script type="0abfa5fe993801b898200f26-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="0abfa5fe993801b898200f26-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+3.5%">
+1112/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.60249">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.60308">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="60286" data-para-id="196
+5.60286" data-refcode="KJV — 1Thessalonians">
+<span class="egw_content" data-refcode="196
+5.60286" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60009&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm&quot;},{&quot;para_id&quot;:&quot;196
+7.60420&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher&quot;},{&quot;para_id&quot;:&quot;11139.60286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;11140.60412&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;1114
+2.60286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;1114
+3.60414&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;1114
+4.60286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;1114
+5.60286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians&quot;},{&quot;para_id&quot;:&quot;196
+8.60336&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses&quot;},{&quot;para_id&quot;:&quot;202
+1.60286&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens&quot;},{&quot;para_id&quot;:&quot;196
+6.60286&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi&quot;},{&quot;para_id&quot;:&quot;1970.60278&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan&quot;},{&quot;para_id&quot;:&quot;197
+1.60290&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses&quot;},{&quot;para_id&quot;:&quot;1116
+5.60286&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni&quot;},{&quot;para_id&quot;:&quot;197
+3.60286&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni&quot;},{&quot;para_id&quot;:&quot;197
+2.60789&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1231
+8.60413&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1969.60282&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8&quot;}]" data-refcode-old="KJV — 1Thessalonians">1 Thessalonians</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="60287" data-para-id="196
+5.60287" data-refcode="KJV — 1Thessalonians 1">
+<span class="egw_content" data-refcode="196
+5.60287" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60010&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1&quot;},{&quot;para_id&quot;:&quot;196
+7.60421&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1&quot;},{&quot;para_id&quot;:&quot;11139.60287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;11140.60413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.60287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.60415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.60287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.60287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1&quot;},{&quot;para_id&quot;:&quot;196
+8.60337&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1&quot;},{&quot;para_id&quot;:&quot;202
+1.60287&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1&quot;},{&quot;para_id&quot;:&quot;196
+6.60287&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1&quot;},{&quot;para_id&quot;:&quot;1970.60279&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1&quot;},{&quot;para_id&quot;:&quot;197
+1.60291&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.60287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1&quot;},{&quot;para_id&quot;:&quot;197
+3.60287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1&quot;},{&quot;para_id&quot;:&quot;197
+2.60790&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.60414&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1969.60283&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1&quot;}]" data-refcode-old="KJV — 1Thessalonians 1">1Thessalonians 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60289" data-para-id="196
+5.60289" data-refcode="KJV — 1Thessalonians 1:1">
+<span class="egw_content" data-refcode="196
+5.60289" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60012&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.60423&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:1&quot;},{&quot;para_id&quot;:&quot;11139.60289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;11140.60415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.60289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.60417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.60289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.60289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.60339&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.60289&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.60289&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:1&quot;},{&quot;para_id&quot;:&quot;1970.60281&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.60293&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.60289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.60289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.60792&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.60416&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1969.60285&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:1&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:1"><strong>1</strong> Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60291" data-para-id="196
+5.60291" data-refcode="KJV — 1Thessalonians 1:2">
+<span class="egw_content" data-refcode="196
+5.60291" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60014&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.60425&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:2&quot;},{&quot;para_id&quot;:&quot;11139.60291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;11140.60417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.60291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.60419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.60291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.60291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.60341&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.60291&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.60291&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:2&quot;},{&quot;para_id&quot;:&quot;1970.60283&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.60295&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.60291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.60291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.60794&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.60418&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1969.60287&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:2&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:2"><strong>2</strong> We give thanks to God always for you all, making mention of you in our prayers;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60293" data-para-id="196
+5.60293" data-refcode="KJV — 1Thessalonians 1:3">
+<span class="egw_content" data-refcode="196
+5.60293" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60016&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.60427&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:3&quot;},{&quot;para_id&quot;:&quot;11139.60293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;11140.60419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.60293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.60421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.60293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.60293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.60343&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.60293&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.60293&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:3&quot;},{&quot;para_id&quot;:&quot;1970.60285&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.60297&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.60293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.60293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.60796&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.60420&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1969.60289&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:3&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:3"><strong>3</strong> Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60295" data-para-id="196
+5.60295" data-refcode="KJV — 1Thessalonians 1:4">
+<span class="egw_content" data-refcode="196
+5.60295" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60018&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.60429&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:4&quot;},{&quot;para_id&quot;:&quot;11139.60295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;11140.60421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.60295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.60423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.60295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.60295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.60345&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.60295&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.60295&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:4&quot;},{&quot;para_id&quot;:&quot;1970.60287&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.60299&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.60295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.60295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.60798&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.60422&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1969.60291&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:4&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:4"><strong>4</strong> Knowing, brethren beloved, your election of God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60297" data-para-id="196
+5.60297" data-refcode="KJV — 1Thessalonians 1:5">
+<span class="egw_content" data-refcode="196
+5.60297" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60020&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.60431&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:5&quot;},{&quot;para_id&quot;:&quot;11139.60297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;11140.60423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.60297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.60425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.60297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.60297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.60347&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.60297&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.60297&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:5&quot;},{&quot;para_id&quot;:&quot;1970.60289&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.60301&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.60297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.60297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.60800&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.60424&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1969.60293&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:5&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:5"><strong>5</strong> For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60299" data-para-id="196
+5.60299" data-refcode="KJV — 1Thessalonians 1:6">
+<span class="egw_content" data-refcode="196
+5.60299" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60022&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.60433&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:6&quot;},{&quot;para_id&quot;:&quot;11139.60299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;11140.60425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.60299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.60427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.60299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.60299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.60349&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.60299&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.60299&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:6&quot;},{&quot;para_id&quot;:&quot;1970.60291&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.60303&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.60299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.60299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.60802&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.60426&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1969.60295&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:6&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:6"><strong>6</strong> And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60301" data-para-id="196
+5.60301" data-refcode="KJV — 1Thessalonians 1:7">
+<span class="egw_content" data-refcode="196
+5.60301" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60024&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.60435&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:7&quot;},{&quot;para_id&quot;:&quot;11139.60301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;11140.60427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.60301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.60429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.60301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.60301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.60351&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.60301&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.60301&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:7&quot;},{&quot;para_id&quot;:&quot;1970.60293&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.60305&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.60301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.60301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.60804&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.60428&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1969.60297&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:7&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:7"><strong>7</strong> So that ye were ensamples to all that believe in Macedonia and Achaia.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60303" data-para-id="196
+5.60303" data-refcode="KJV — 1Thessalonians 1:8">
+<span class="egw_content" data-refcode="196
+5.60303" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60026&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.60437&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:8&quot;},{&quot;para_id&quot;:&quot;11139.60303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;11140.60429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.60303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.60431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.60303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.60303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.60353&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.60303&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.60303&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:8&quot;},{&quot;para_id&quot;:&quot;1970.60295&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.60307&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.60303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.60303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.60806&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.60430&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1969.60299&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:8&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:8"><strong>8</strong> For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60305" data-para-id="196
+5.60305" data-refcode="KJV — 1Thessalonians 1:9">
+<span class="egw_content" data-refcode="196
+5.60305" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60028&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.60439&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:9&quot;},{&quot;para_id&quot;:&quot;11139.60305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;11140.60431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.60305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.60433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.60305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.60305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.60355&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.60305&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.60305&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:9&quot;},{&quot;para_id&quot;:&quot;1970.60297&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.60309&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.60305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.60305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.60808&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.60432&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1969.60301&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:9&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:9"><strong>9</strong> For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="60307" data-para-id="196
+5.60307" data-refcode="KJV — 1Thessalonians 1:10">
+<span class="egw_content" data-refcode="196
+5.60307" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60030&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 1Tesalonick\u00fdm 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.60441&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 1Thessalonicher 1:10&quot;},{&quot;para_id&quot;:&quot;11139.60307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;11140.60433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.60307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.60435&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.60307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.60307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 1Thessalonians 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.60357&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 1Tesalonicenses 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.60307&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 1Thessaloniciens 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.60307&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 1Tessalonicesi 1:10&quot;},{&quot;para_id&quot;:&quot;1970.60299&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 1Tesaloniczan 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.60311&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 1Tessalonicenses 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.60307&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 1Tesaloniceni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.60307&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 1Tesaloniceni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.60810&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 1\u0424\u0435\u0441\u0441\u0430\u043b\u043e\u043d\u0438\u043a\u0438\u0439\u0446\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.60434&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 1\u0421\u043e\u043b\u0443\u043d\u044f\u043d\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1969.60303&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e16\u6492\u7f85\u5c3c\u8fe6\u524d\u66f8 1:10&quot;}]" data-refcode-old="KJV — 1Thessalonians 1:10"><strong>10</strong> And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.60249">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.60308">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0abfa5fe993801b898200f26-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="0abfa5fe993801b898200f26-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="0abfa5fe993801b898200f26-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="0abfa5fe993801b898200f26-" defer=""></script></body>
+</html>

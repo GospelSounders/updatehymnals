@@ -1,0 +1,719 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript">var _isLogged=false;</script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="5ca6bd3acd7611ed4c9f6751-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:2
+6.4%">
+314/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.19287">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.19432">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="19394" data-para-id="196
+5.19394" data-refcode="KJV — 2Kings">
+<span class="egw_content" data-refcode="196
+5.19394" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19296&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1&quot;},{&quot;para_id&quot;:&quot;196
+7.19398&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige&quot;},{&quot;para_id&quot;:&quot;11139.19394&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;11140.19398&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;1114
+2.19394&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;1114
+3.19398&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;1114
+4.19394&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;1114
+5.19394&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings&quot;},{&quot;para_id&quot;:&quot;196
+8.19416&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes&quot;},{&quot;para_id&quot;:&quot;202
+1.19394&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois&quot;},{&quot;para_id&quot;:&quot;196
+6.19394&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re&quot;},{&quot;para_id&quot;:&quot;1970.19398&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska&quot;},{&quot;para_id&quot;:&quot;197
+1.19398&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis&quot;},{&quot;para_id&quot;:&quot;1116
+5.19394&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i&quot;},{&quot;para_id&quot;:&quot;197
+3.19394&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i&quot;},{&quot;para_id&quot;:&quot;197
+2.19404&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432&quot;},{&quot;para_id&quot;:&quot;1231
+8.19394&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432&quot;},{&quot;para_id&quot;:&quot;1969.19394&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b&quot;}]" data-refcode-old="KJV — 2Kings">2 Kings</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="19395" data-para-id="196
+5.19395" data-refcode="KJV — 2Kings 1">
+<span class="egw_content" data-refcode="196
+5.19395" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19297&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1&quot;},{&quot;para_id&quot;:&quot;196
+7.19399&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1&quot;},{&quot;para_id&quot;:&quot;11139.19395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;11140.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.19395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.19395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.19395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1&quot;},{&quot;para_id&quot;:&quot;196
+8.19417&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1&quot;},{&quot;para_id&quot;:&quot;202
+1.19395&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1&quot;},{&quot;para_id&quot;:&quot;196
+6.19395&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1&quot;},{&quot;para_id&quot;:&quot;1970.19399&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1&quot;},{&quot;para_id&quot;:&quot;197
+1.19399&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.19395&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1&quot;},{&quot;para_id&quot;:&quot;197
+3.19395&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1&quot;},{&quot;para_id&quot;:&quot;197
+2.19405&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.19395&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1&quot;},{&quot;para_id&quot;:&quot;1969.19395&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1&quot;}]" data-refcode-old="KJV — 2Kings 1">2Kings 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19397" data-para-id="196
+5.19397" data-refcode="KJV — 2Kings 1:1">
+<span class="egw_content" data-refcode="196
+5.19397" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19299&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.19401&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:1&quot;},{&quot;para_id&quot;:&quot;11139.19397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;11140.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.19397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.19397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.19397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.19419&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.19397&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.19397&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:1&quot;},{&quot;para_id&quot;:&quot;1970.19401&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.19401&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.19397&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.19397&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.19407&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.19397&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:1&quot;},{&quot;para_id&quot;:&quot;1969.19397&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:1&quot;}]" data-refcode-old="KJV — 2Kings 1:1"><strong>1</strong> Then Moab rebelled against Israel after the death of Ahab.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19399" data-para-id="196
+5.19399" data-refcode="KJV — 2Kings 1:2">
+<span class="egw_content" data-refcode="196
+5.19399" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19301&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.19403&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:2&quot;},{&quot;para_id&quot;:&quot;11139.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;11140.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.19399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.19421&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.19399&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.19399&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:2&quot;},{&quot;para_id&quot;:&quot;1970.19403&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.19403&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.19399&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.19399&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.19409&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.19399&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:2&quot;},{&quot;para_id&quot;:&quot;1969.19399&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:2&quot;}]" data-refcode-old="KJV — 2Kings 1:2"><strong>2</strong> And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19401" data-para-id="196
+5.19401" data-refcode="KJV — 2Kings 1:3">
+<span class="egw_content" data-refcode="196
+5.19401" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19303&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.19405&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:3&quot;},{&quot;para_id&quot;:&quot;11139.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;11140.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.19401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.19423&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.19401&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.19401&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:3&quot;},{&quot;para_id&quot;:&quot;1970.19405&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.19405&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.19401&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.19401&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.19411&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.19401&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:3&quot;},{&quot;para_id&quot;:&quot;1969.19401&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:3&quot;}]" data-refcode-old="KJV — 2Kings 1:3"><strong>3</strong> But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19403" data-para-id="196
+5.19403" data-refcode="KJV — 2Kings 1:4">
+<span class="egw_content" data-refcode="196
+5.19403" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19305&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.19407&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:4&quot;},{&quot;para_id&quot;:&quot;11139.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;11140.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.19403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.19425&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.19403&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.19403&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:4&quot;},{&quot;para_id&quot;:&quot;1970.19407&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.19407&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.19403&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.19403&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.19413&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.19403&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:4&quot;},{&quot;para_id&quot;:&quot;1969.19403&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:4&quot;}]" data-refcode-old="KJV — 2Kings 1:4"><strong>4</strong> Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19405" data-para-id="196
+5.19405" data-refcode="KJV — 2Kings 1:5">
+<span class="egw_content" data-refcode="196
+5.19405" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19307&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.19409&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:5&quot;},{&quot;para_id&quot;:&quot;11139.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;11140.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.19405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.19427&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.19405&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.19405&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:5&quot;},{&quot;para_id&quot;:&quot;1970.19409&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.19409&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.19405&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.19405&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.19415&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.19405&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:5&quot;},{&quot;para_id&quot;:&quot;1969.19405&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:5&quot;}]" data-refcode-old="KJV — 2Kings 1:5"><strong>5</strong> And when the messengers turned back unto him, he said unto them, Why are ye now turned back?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19407" data-para-id="196
+5.19407" data-refcode="KJV — 2Kings 1:6">
+<span class="egw_content" data-refcode="196
+5.19407" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19309&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.19411&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:6&quot;},{&quot;para_id&quot;:&quot;11139.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;11140.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.19407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.19429&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.19407&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.19407&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:6&quot;},{&quot;para_id&quot;:&quot;1970.19411&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.19411&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.19407&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.19407&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.19417&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.19407&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:6&quot;},{&quot;para_id&quot;:&quot;1969.19407&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:6&quot;}]" data-refcode-old="KJV — 2Kings 1:6"><strong>6</strong> And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to enquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19409" data-para-id="196
+5.19409" data-refcode="KJV — 2Kings 1:7">
+<span class="egw_content" data-refcode="196
+5.19409" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19311&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.19413&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:7&quot;},{&quot;para_id&quot;:&quot;11139.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;11140.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.19409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.19431&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.19409&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.19409&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:7&quot;},{&quot;para_id&quot;:&quot;1970.19413&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.19413&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.19409&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.19409&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.19419&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.19409&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:7&quot;},{&quot;para_id&quot;:&quot;1969.19409&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:7&quot;}]" data-refcode-old="KJV — 2Kings 1:7"><strong>7</strong> And he said unto them, What manner of man was he which came up to meet you, and told you these words?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19411" data-para-id="196
+5.19411" data-refcode="KJV — 2Kings 1:8">
+<span class="egw_content" data-refcode="196
+5.19411" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19313&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.19415&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:8&quot;},{&quot;para_id&quot;:&quot;11139.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;11140.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.19411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.19433&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.19411&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.19411&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:8&quot;},{&quot;para_id&quot;:&quot;1970.19415&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.19415&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.19411&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.19411&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.19421&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.19411&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:8&quot;},{&quot;para_id&quot;:&quot;1969.19411&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:8&quot;}]" data-refcode-old="KJV — 2Kings 1:8"><strong>8</strong> And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19413" data-para-id="196
+5.19413" data-refcode="KJV — 2Kings 1:9">
+<span class="egw_content" data-refcode="196
+5.19413" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19315&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.19417&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:9&quot;},{&quot;para_id&quot;:&quot;11139.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;11140.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.19413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.19435&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.19413&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.19413&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:9&quot;},{&quot;para_id&quot;:&quot;1970.19417&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.19417&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.19413&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.19413&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.19423&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.19413&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:9&quot;},{&quot;para_id&quot;:&quot;1969.19413&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:9&quot;}]" data-refcode-old="KJV — 2Kings 1:9"><strong>9</strong> Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19415" data-para-id="196
+5.19415" data-refcode="KJV — 2Kings 1:10">
+<span class="egw_content" data-refcode="196
+5.19415" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19317&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.19419&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:10&quot;},{&quot;para_id&quot;:&quot;11139.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;11140.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.19415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.19437&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.19415&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.19415&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:10&quot;},{&quot;para_id&quot;:&quot;1970.19419&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.19419&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.19415&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.19415&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.19425&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.19415&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:10&quot;},{&quot;para_id&quot;:&quot;1969.19415&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:10&quot;}]" data-refcode-old="KJV — 2Kings 1:10"><strong>10</strong> And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19417" data-para-id="196
+5.19417" data-refcode="KJV — 2Kings 1:11">
+<span class="egw_content" data-refcode="196
+5.19417" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19319&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.19421&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:11&quot;},{&quot;para_id&quot;:&quot;11139.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;11140.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.19417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.19439&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.19417&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.19417&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:11&quot;},{&quot;para_id&quot;:&quot;1970.19421&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.19421&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.19417&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.19417&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.19427&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.19417&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:11&quot;},{&quot;para_id&quot;:&quot;1969.19417&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:11&quot;}]" data-refcode-old="KJV — 2Kings 1:11"><strong>11</strong> Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19419" data-para-id="196
+5.19419" data-refcode="KJV — 2Kings 1:12">
+<span class="egw_content" data-refcode="196
+5.19419" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19321&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.19423&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:12&quot;},{&quot;para_id&quot;:&quot;11139.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;11140.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.19419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.19441&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.19419&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.19419&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:12&quot;},{&quot;para_id&quot;:&quot;1970.19423&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.19423&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.19419&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.19419&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.19429&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.19419&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:12&quot;},{&quot;para_id&quot;:&quot;1969.19419&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:12&quot;}]" data-refcode-old="KJV — 2Kings 1:12"><strong>12</strong> And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19421" data-para-id="196
+5.19421" data-refcode="KJV — 2Kings 1:13">
+<span class="egw_content" data-refcode="196
+5.19421" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19323&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.19425&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:13&quot;},{&quot;para_id&quot;:&quot;11139.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;11140.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.19421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.19443&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.19421&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.19421&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:13&quot;},{&quot;para_id&quot;:&quot;1970.19425&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.19425&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.19421&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.19421&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.19431&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.19421&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:13&quot;},{&quot;para_id&quot;:&quot;1969.19421&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:13&quot;}]" data-refcode-old="KJV — 2Kings 1:13"><strong>13</strong> And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19423" data-para-id="196
+5.19423" data-refcode="KJV — 2Kings 1:14">
+<span class="egw_content" data-refcode="196
+5.19423" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19325&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.19427&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:14&quot;},{&quot;para_id&quot;:&quot;11139.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;11140.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.19423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.19445&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.19423&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.19423&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:14&quot;},{&quot;para_id&quot;:&quot;1970.19427&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.19427&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.19423&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.19423&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.19433&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.19423&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:14&quot;},{&quot;para_id&quot;:&quot;1969.19423&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:14&quot;}]" data-refcode-old="KJV — 2Kings 1:14"><strong>14</strong> Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19425" data-para-id="196
+5.19425" data-refcode="KJV — 2Kings 1:15">
+<span class="egw_content" data-refcode="196
+5.19425" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19327&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.19429&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:15&quot;},{&quot;para_id&quot;:&quot;11139.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;11140.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.19425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.19447&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.19425&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.19425&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:15&quot;},{&quot;para_id&quot;:&quot;1970.19429&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.19429&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.19425&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.19425&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.19435&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.19425&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:15&quot;},{&quot;para_id&quot;:&quot;1969.19425&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:15&quot;}]" data-refcode-old="KJV — 2Kings 1:15"><strong>15</strong> And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19427" data-para-id="196
+5.19427" data-refcode="KJV — 2Kings 1:16">
+<span class="egw_content" data-refcode="196
+5.19427" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19329&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.19431&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:16&quot;},{&quot;para_id&quot;:&quot;11139.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;11140.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.19427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.19449&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.19427&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.19427&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:16&quot;},{&quot;para_id&quot;:&quot;1970.19431&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.19431&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.19427&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.19427&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.19437&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.19427&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:16&quot;},{&quot;para_id&quot;:&quot;1969.19427&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:16&quot;}]" data-refcode-old="KJV — 2Kings 1:16"><strong>16</strong> And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19429" data-para-id="196
+5.19429" data-refcode="KJV — 2Kings 1:17">
+<span class="egw_content" data-refcode="196
+5.19429" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19331&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.19433&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:17&quot;},{&quot;para_id&quot;:&quot;11139.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;11140.19433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.19433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.19429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.19451&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.19429&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.19429&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:17&quot;},{&quot;para_id&quot;:&quot;1970.19433&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.19433&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.19429&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.19429&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.19439&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.19429&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:17&quot;},{&quot;para_id&quot;:&quot;1969.19429&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:17&quot;}]" data-refcode-old="KJV — 2Kings 1:17"><strong>17</strong> So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="19431" data-para-id="196
+5.19431" data-refcode="KJV — 2Kings 1:18">
+<span class="egw_content" data-refcode="196
+5.19431" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.19333&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Kr\u00e1lovsk\u00e1 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.19435&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2K\u00f6nige 1:18&quot;},{&quot;para_id&quot;:&quot;11139.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;11140.19435&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.19435&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.19431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Kings 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.19453&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Reyes 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.19431&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Rois 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.19431&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Re 1:18&quot;},{&quot;para_id&quot;:&quot;1970.19435&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kr\u00f3lewska 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.19435&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Reis 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.19431&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2\u00cemp\u0103ra\u0163i 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.19431&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2\u00cemp\u0103ra\u0163i 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.19441&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 4\u0426\u0430\u0440\u0441\u0442\u0432 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.19431&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0426\u0430\u0440\u0456\u0432 1:18&quot;},{&quot;para_id&quot;:&quot;1969.19431&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5217\u738b\u7d00\u4e0b 1:18&quot;}]" data-refcode-old="KJV — 2Kings 1:18"><strong>18</strong> Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.19287">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.19432">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="5ca6bd3acd7611ed4c9f6751-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="5ca6bd3acd7611ed4c9f6751-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+ <div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="5ca6bd3acd7611ed4c9f6751-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="5ca6bd3acd7611ed4c9f6751-" defer=""></script></body>
+</html>

@@ -1,0 +1,833 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="711c7ca7afae779676b1a8d7-text/javascript">var _isLogged=false;</script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="711c7ca7afae779676b1a8d7-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+1.8%">
+1092/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.59227">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.59306">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="59256" data-para-id="196
+5.59256" data-refcode="KJV — Galatians">
+<span class="egw_content" data-refcode="196
+5.59256" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58979&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm&quot;},{&quot;para_id&quot;:&quot;196
+7.59390&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater&quot;},{&quot;para_id&quot;:&quot;11139.59256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;11140.59382&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;1114
+2.59256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;1114
+3.59384&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;1114
+4.59256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;1114
+5.59256&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians&quot;},{&quot;para_id&quot;:&quot;196
+8.59306&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas&quot;},{&quot;para_id&quot;:&quot;202
+1.59256&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates&quot;},{&quot;para_id&quot;:&quot;196
+6.59256&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati&quot;},{&quot;para_id&quot;:&quot;1970.59250&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan&quot;},{&quot;para_id&quot;:&quot;197
+1.59260&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas&quot;},{&quot;para_id&quot;:&quot;1116
+5.59256&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni&quot;},{&quot;para_id&quot;:&quot;197
+3.59256&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni&quot;},{&quot;para_id&quot;:&quot;197
+2.59759&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1231
+8.59383&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1969.59252&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8&quot;}]" data-refcode-old="KJV — Galatians">Galatians</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="59257" data-para-id="196
+5.59257" data-refcode="KJV — Galatians 1">
+<span class="egw_content" data-refcode="196
+5.59257" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58980&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1&quot;},{&quot;para_id&quot;:&quot;196
+7.59391&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1&quot;},{&quot;para_id&quot;:&quot;11139.59257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;11140.59383&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.59257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.59385&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.59257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.59257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1&quot;},{&quot;para_id&quot;:&quot;196
+8.59307&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1&quot;},{&quot;para_id&quot;:&quot;202
+1.59257&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1&quot;},{&quot;para_id&quot;:&quot;196
+6.59257&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1&quot;},{&quot;para_id&quot;:&quot;1970.59251&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1&quot;},{&quot;para_id&quot;:&quot;197
+1.59261&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.59257&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1&quot;},{&quot;para_id&quot;:&quot;197
+3.59257&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1&quot;},{&quot;para_id&quot;:&quot;197
+2.59760&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.59384&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1969.59253&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1&quot;}]" data-refcode-old="KJV — Galatians 1">Galatians 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59259" data-para-id="196
+5.59259" data-refcode="KJV — Galatians 1:1">
+<span class="egw_content" data-refcode="196
+5.59259" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58982&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.59393&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:1&quot;},{&quot;para_id&quot;:&quot;11139.59259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;11140.59385&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.59259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.59387&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.59259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.59259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.59309&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.59259&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.59259&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:1&quot;},{&quot;para_id&quot;:&quot;1970.59253&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.59263&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.59259&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.59259&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.59762&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.59386&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1969.59255&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:1&quot;}]" data-refcode-old="KJV — Galatians 1:1"><strong>1</strong> Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59261" data-para-id="196
+5.59261" data-refcode="KJV — Galatians 1:2">
+<span class="egw_content" data-refcode="196
+5.59261" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58984&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.59395&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:2&quot;},{&quot;para_id&quot;:&quot;11139.59261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;11140.59387&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.59261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.59389&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.59261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.59261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.59311&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.59261&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.59261&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:2&quot;},{&quot;para_id&quot;:&quot;1970.59255&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.59265&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.59261&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.59261&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.59764&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.59388&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1969.59257&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:2&quot;}]" data-refcode-old="KJV — Galatians 1:2"><strong>2</strong> And all the brethren which are with me, unto the churches of Galatia:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59263" data-para-id="196
+5.59263" data-refcode="KJV — Galatians 1:3">
+<span class="egw_content" data-refcode="196
+5.59263" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58986&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.59397&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:3&quot;},{&quot;para_id&quot;:&quot;11139.59263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;11140.59389&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.59263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.59391&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.59263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.59263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.59313&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.59263&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.59263&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:3&quot;},{&quot;para_id&quot;:&quot;1970.59257&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.59267&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.59263&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.59263&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.59766&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.59390&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1969.59259&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:3&quot;}]" data-refcode-old="KJV — Galatians 1:3"><strong>3</strong> Grace be to you and peace from God the Father, and from our Lord Jesus Christ,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59265" data-para-id="196
+5.59265" data-refcode="KJV — Galatians 1:4">
+<span class="egw_content" data-refcode="196
+5.59265" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58988&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.59399&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:4&quot;},{&quot;para_id&quot;:&quot;11139.59265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;11140.59391&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.59265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.59393&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.59265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.59265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.59315&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.59265&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.59265&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:4&quot;},{&quot;para_id&quot;:&quot;1970.59259&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.59269&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.59265&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.59265&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.59768&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.59392&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1969.59261&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:4&quot;}]" data-refcode-old="KJV — Galatians 1:4"><strong>4</strong> Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59267" data-para-id="196
+5.59267" data-refcode="KJV — Galatians 1:5">
+<span class="egw_content" data-refcode="196
+5.59267" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58990&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.59401&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:5&quot;},{&quot;para_id&quot;:&quot;11139.59267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;11140.59393&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.59267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.59395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.59267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.59267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.59317&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.59267&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.59267&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:5&quot;},{&quot;para_id&quot;:&quot;1970.59261&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.59271&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.59267&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.59267&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.59770&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.59394&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1969.59263&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:5&quot;}]" data-refcode-old="KJV — Galatians 1:5"><strong>5</strong> To whom be glory for ever and ever. Amen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59269" data-para-id="196
+5.59269" data-refcode="KJV — Galatians 1:6">
+<span class="egw_content" data-refcode="196
+5.59269" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58992&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.59403&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:6&quot;},{&quot;para_id&quot;:&quot;11139.59269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;11140.59395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.59269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.59397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.59269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.59269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.59319&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.59269&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.59269&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:6&quot;},{&quot;para_id&quot;:&quot;1970.59263&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.59273&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.59269&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.59269&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.59772&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.59396&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1969.59265&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:6&quot;}]" data-refcode-old="KJV — Galatians 1:6"><strong>6</strong> I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59271" data-para-id="196
+5.59271" data-refcode="KJV — Galatians 1:7">
+<span class="egw_content" data-refcode="196
+5.59271" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58994&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.59405&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:7&quot;},{&quot;para_id&quot;:&quot;11139.59271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;11140.59397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.59271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.59399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.59271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.59271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.59321&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.59271&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.59271&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:7&quot;},{&quot;para_id&quot;:&quot;1970.59265&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.59275&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.59271&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.59271&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.59774&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.59398&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1969.59267&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:7&quot;}]" data-refcode-old="KJV — Galatians 1:7"><strong>7</strong> Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59273" data-para-id="196
+5.59273" data-refcode="KJV — Galatians 1:8">
+<span class="egw_content" data-refcode="196
+5.59273" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58996&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.59407&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:8&quot;},{&quot;para_id&quot;:&quot;11139.59273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;11140.59399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.59273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.59401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.59273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.59273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.59323&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.59273&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.59273&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:8&quot;},{&quot;para_id&quot;:&quot;1970.59267&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.59277&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.59273&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.59273&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.59776&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.59400&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1969.59269&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:8&quot;}]" data-refcode-old="KJV — Galatians 1:8"><strong>8</strong> But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59275" data-para-id="196
+5.59275" data-refcode="KJV — Galatians 1:9">
+<span class="egw_content" data-refcode="196
+5.59275" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.58998&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.59409&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:9&quot;},{&quot;para_id&quot;:&quot;11139.59275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;11140.59401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.59275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.59403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.59275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.59275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.59325&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.59275&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.59275&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:9&quot;},{&quot;para_id&quot;:&quot;1970.59269&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.59279&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.59275&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.59275&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.59778&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.59402&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1969.59271&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:9&quot;}]" data-refcode-old="KJV — Galatians 1:9"><strong>9</strong> As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59277" data-para-id="196
+5.59277" data-refcode="KJV — Galatians 1:10">
+<span class="egw_content" data-refcode="196
+5.59277" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59000&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.59411&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:10&quot;},{&quot;para_id&quot;:&quot;11139.59277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;11140.59403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.59277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.59405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.59277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.59277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.59327&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.59277&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.59277&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:10&quot;},{&quot;para_id&quot;:&quot;1970.59271&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.59281&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.59277&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.59277&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.59780&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.59404&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1969.59273&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:10&quot;}]" data-refcode-old="KJV — Galatians 1:10"><strong>10</strong> For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59279" data-para-id="196
+5.59279" data-refcode="KJV — Galatians 1:11">
+<span class="egw_content" data-refcode="196
+5.59279" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59002&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.59413&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:11&quot;},{&quot;para_id&quot;:&quot;11139.59279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;11140.59405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.59279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.59407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.59279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.59279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.59329&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.59279&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.59279&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:11&quot;},{&quot;para_id&quot;:&quot;1970.59273&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.59283&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.59279&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.59279&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.59782&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.59406&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1969.59275&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:11&quot;}]" data-refcode-old="KJV — Galatians 1:11"><strong>11</strong> But I certify you, brethren, that the gospel which was preached of me is not after man.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59281" data-para-id="196
+5.59281" data-refcode="KJV — Galatians 1:12">
+<span class="egw_content" data-refcode="196
+5.59281" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59004&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.59415&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:12&quot;},{&quot;para_id&quot;:&quot;11139.59281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;11140.59407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.59281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.59409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.59281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.59281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.59331&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.59281&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.59281&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:12&quot;},{&quot;para_id&quot;:&quot;1970.59275&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.59285&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.59281&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.59281&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.59784&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.59408&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1969.59277&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:12&quot;}]" data-refcode-old="KJV — Galatians 1:12"><strong>12</strong> For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59283" data-para-id="196
+5.59283" data-refcode="KJV — Galatians 1:13">
+<span class="egw_content" data-refcode="196
+5.59283" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59006&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.59417&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:13&quot;},{&quot;para_id&quot;:&quot;11139.59283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;11140.59409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.59283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.59411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.59283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.59283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.59333&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.59283&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.59283&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:13&quot;},{&quot;para_id&quot;:&quot;1970.59277&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.59287&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.59283&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.59283&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.59786&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.59410&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1969.59279&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:13&quot;}]" data-refcode-old="KJV — Galatians 1:13"><strong>13</strong> For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59285" data-para-id="196
+5.59285" data-refcode="KJV — Galatians 1:14">
+<span class="egw_content" data-refcode="196
+5.59285" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59008&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.59419&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:14&quot;},{&quot;para_id&quot;:&quot;11139.59285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;11140.59411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.59285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.59413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.59285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.59285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.59335&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.59285&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.59285&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:14&quot;},{&quot;para_id&quot;:&quot;1970.59279&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.59289&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.59285&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.59285&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.59788&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.59412&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1969.59281&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:14&quot;}]" data-refcode-old="KJV — Galatians 1:14"><strong>14</strong> And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59287" data-para-id="196
+5.59287" data-refcode="KJV — Galatians 1:15">
+<span class="egw_content" data-refcode="196
+5.59287" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59010&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.59421&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:15&quot;},{&quot;para_id&quot;:&quot;11139.59287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;11140.59413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.59287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.59415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.59287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.59287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.59337&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.59287&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.59287&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:15&quot;},{&quot;para_id&quot;:&quot;1970.59281&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.59291&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.59287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.59287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.59790&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.59414&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1969.59283&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:15&quot;}]" data-refcode-old="KJV — Galatians 1:15"><strong>15</strong> But when it pleased God, who separated me from my mother's womb, and called me by his grace,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59289" data-para-id="196
+5.59289" data-refcode="KJV — Galatians 1:16">
+<span class="egw_content" data-refcode="196
+5.59289" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59012&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.59423&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:16&quot;},{&quot;para_id&quot;:&quot;11139.59289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;11140.59415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.59289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.59417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.59289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.59289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.59339&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.59289&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.59289&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:16&quot;},{&quot;para_id&quot;:&quot;1970.59283&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.59293&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.59289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.59289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.59792&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.59416&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1969.59285&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:16&quot;}]" data-refcode-old="KJV — Galatians 1:16"><strong>16</strong> To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59291" data-para-id="196
+5.59291" data-refcode="KJV — Galatians 1:17">
+<span class="egw_content" data-refcode="196
+5.59291" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59014&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.59425&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:17&quot;},{&quot;para_id&quot;:&quot;11139.59291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;11140.59417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.59291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.59419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.59291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.59291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.59341&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.59291&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.59291&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:17&quot;},{&quot;para_id&quot;:&quot;1970.59285&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.59295&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.59291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.59291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.59794&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.59418&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1969.59287&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:17&quot;}]" data-refcode-old="KJV — Galatians 1:17"><strong>17</strong> Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59293" data-para-id="196
+5.59293" data-refcode="KJV — Galatians 1:18">
+<span class="egw_content" data-refcode="196
+5.59293" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59016&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.59427&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:18&quot;},{&quot;para_id&quot;:&quot;11139.59293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;11140.59419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.59293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.59421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.59293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.59293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.59343&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.59293&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.59293&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:18&quot;},{&quot;para_id&quot;:&quot;1970.59287&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.59297&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.59293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.59293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.59796&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.59420&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1969.59289&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:18&quot;}]" data-refcode-old="KJV — Galatians 1:18"><strong>18</strong> Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59295" data-para-id="196
+5.59295" data-refcode="KJV — Galatians 1:19">
+<span class="egw_content" data-refcode="196
+5.59295" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59018&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.59429&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:19&quot;},{&quot;para_id&quot;:&quot;11139.59295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;11140.59421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.59295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.59423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.59295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.59295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.59345&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.59295&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.59295&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:19&quot;},{&quot;para_id&quot;:&quot;1970.59289&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.59299&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.59295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.59295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.59798&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.59422&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1969.59291&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:19&quot;}]" data-refcode-old="KJV — Galatians 1:19"><strong>19</strong> But other of the apostles saw I none, save James the Lord's brother.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59297" data-para-id="196
+5.59297" data-refcode="KJV — Galatians 1:20">
+<span class="egw_content" data-refcode="196
+5.59297" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59020&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.59431&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:20&quot;},{&quot;para_id&quot;:&quot;11139.59297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;11140.59423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.59297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.59425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.59297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.59297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.59347&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.59297&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.59297&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:20&quot;},{&quot;para_id&quot;:&quot;1970.59291&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.59301&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.59297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.59297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.59800&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.59424&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1969.59293&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:20&quot;}]" data-refcode-old="KJV — Galatians 1:20"><strong>20</strong> Now the things which I write unto you, behold, before God, I lie not.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59299" data-para-id="196
+5.59299" data-refcode="KJV — Galatians 1:21">
+<span class="egw_content" data-refcode="196
+5.59299" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59022&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.59433&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:21&quot;},{&quot;para_id&quot;:&quot;11139.59299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;11140.59425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.59299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.59427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.59299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.59299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.59349&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.59299&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.59299&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:21&quot;},{&quot;para_id&quot;:&quot;1970.59293&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.59303&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.59299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.59299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.59802&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.59426&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1969.59295&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:21&quot;}]" data-refcode-old="KJV — Galatians 1:21"><strong>21</strong> Afterwards I came into the regions of Syria and Cilicia;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59301" data-para-id="196
+5.59301" data-refcode="KJV — Galatians 1:22">
+<span class="egw_content" data-refcode="196
+5.59301" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59024&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.59435&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:22&quot;},{&quot;para_id&quot;:&quot;11139.59301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;11140.59427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.59301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.59429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.59301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.59301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.59351&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.59301&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.59301&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:22&quot;},{&quot;para_id&quot;:&quot;1970.59295&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.59305&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.59301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.59301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.59804&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.59428&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1969.59297&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:22&quot;}]" data-refcode-old="KJV — Galatians 1:22"><strong>22</strong> And was unknown by face unto the churches of Judaea which were in Christ:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59303" data-para-id="196
+5.59303" data-refcode="KJV — Galatians 1:23">
+<span class="egw_content" data-refcode="196
+5.59303" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59026&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.59437&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:23&quot;},{&quot;para_id&quot;:&quot;11139.59303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;11140.59429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.59303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.59431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.59303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.59303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.59353&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.59303&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.59303&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:23&quot;},{&quot;para_id&quot;:&quot;1970.59297&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Galacjan 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.59307&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.59303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.59303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.59806&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.59430&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1969.59299&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:23&quot;}]" data-refcode-old="KJV — Galatians 1:23"><strong>23</strong> But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="59305" data-para-id="196
+5.59305" data-refcode="KJV — Galatians 1:24">
+<span class="egw_content" data-refcode="196
+5.59305" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.59028&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Galatsk\u00fdm 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.59439&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Galater 1:24&quot;},{&quot;para_id&quot;:&quot;11139.59305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;11140.59431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.59305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.59433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.59305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.59305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Galatians 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.59355&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 G\u00e1latas 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.59305&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Galates 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.59305&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Galati 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.59309&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 G\u00e1latas 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.59305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Galateni 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.59305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Galateni 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.59808&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.59432&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0413\u0430\u043b\u0430\u0442\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1969.59301&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u52a0\u62c9\u592a\u66f8 1:24&quot;}]" data-refcode-old="KJV — Galatians 1:24"><strong>24</strong> And they glorified God in me.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.59227">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.59306">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="711c7ca7afae779676b1a8d7-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="711c7ca7afae779676b1a8d7-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="711c7ca7afae779676b1a8d7-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="711c7ca7afae779676b1a8d7-" defer=""></script></body>
+</html>

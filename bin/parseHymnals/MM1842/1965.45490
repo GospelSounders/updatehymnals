@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript">var _isLogged=false;</script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="c13663f4a5d52a6f09d9a517-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:7
+3.8%">
+877/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45471">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45532">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="45490" data-para-id="196
+5.45490" data-refcode="KJV — Joel">
+<span class="egw_content" data-refcode="196
+5.45490" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45286&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el&quot;},{&quot;para_id&quot;:&quot;196
+7.45628&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;11139.45490&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;11140.45616&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;1114
+2.45490&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;1114
+3.45622&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;1114
+4.45490&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;1114
+5.45490&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;196
+8.45536&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;202
+1.45490&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl&quot;},{&quot;para_id&quot;:&quot;196
+6.45490&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele&quot;},{&quot;para_id&quot;:&quot;1970.45490&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela&quot;},{&quot;para_id&quot;:&quot;197
+1.45494&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel&quot;},{&quot;para_id&quot;:&quot;1116
+5.45490&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel&quot;},{&quot;para_id&quot;:&quot;197
+3.45490&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel&quot;},{&quot;para_id&quot;:&quot;197
+2.45996&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f&quot;},{&quot;para_id&quot;:&quot;1231
+8.45622&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430&quot;},{&quot;para_id&quot;:&quot;1969.45488&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8&quot;}]" data-refcode-old="KJV — Joel">Joel</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="45491" data-para-id="196
+5.45491" data-refcode="KJV — Joel 1">
+<span class="egw_content" data-refcode="196
+5.45491" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45287&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1&quot;},{&quot;para_id&quot;:&quot;196
+7.45629&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;11139.45491&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;11140.45617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45491&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45623&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45491&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45491&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;196
+8.45537&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;202
+1.45491&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1&quot;},{&quot;para_id&quot;:&quot;196
+6.45491&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1&quot;},{&quot;para_id&quot;:&quot;1970.45491&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1&quot;},{&quot;para_id&quot;:&quot;197
+1.45495&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45491&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1&quot;},{&quot;para_id&quot;:&quot;197
+3.45491&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1&quot;},{&quot;para_id&quot;:&quot;197
+2.45997&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45623&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.45489&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1&quot;}]" data-refcode-old="KJV — Joel 1">Joel 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45493" data-para-id="196
+5.45493" data-refcode="KJV — Joel 1:1">
+<span class="egw_content" data-refcode="196
+5.45493" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45289&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.45631&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;11139.45493&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;11140.45619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45493&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45625&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45493&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45493&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.45539&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.45493&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.45493&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:1&quot;},{&quot;para_id&quot;:&quot;1970.45493&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.45497&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45493&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.45493&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.45999&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45625&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.45491&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:1&quot;}]" data-refcode-old="KJV — Joel 1:1"><strong>1</strong> The word of the LORD that came to Joel the son of Pethuel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45495" data-para-id="196
+5.45495" data-refcode="KJV — Joel 1:2">
+<span class="egw_content" data-refcode="196
+5.45495" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45291&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.45633&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;11139.45495&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;11140.45621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.45495&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.45627&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.45495&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.45495&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.45541&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.45495&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.45495&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:2&quot;},{&quot;para_id&quot;:&quot;1970.45495&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.45499&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.45495&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.45495&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.46001&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.45627&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.45493&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:2&quot;}]" data-refcode-old="KJV — Joel 1:2"><strong>2</strong> Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45497" data-para-id="196
+5.45497" data-refcode="KJV — Joel 1:3">
+<span class="egw_content" data-refcode="196
+5.45497" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45293&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.45635&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;11139.45497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;11140.45623&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.45497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.45629&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.45497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.45497&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.45543&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.45497&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.45497&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:3&quot;},{&quot;para_id&quot;:&quot;1970.45497&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.45501&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.45497&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.45497&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.46003&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.45629&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.45495&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:3&quot;}]" data-refcode-old="KJV — Joel 1:3"><strong>3</strong> Tell ye your children of it, and let your children tell their children, and their children another generation.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45499" data-para-id="196
+5.45499" data-refcode="KJV — Joel 1:4">
+<span class="egw_content" data-refcode="196
+5.45499" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45295&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.45637&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;11139.45499&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;11140.45625&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.45499&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.45631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.45499&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.45499&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.45545&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.45499&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.45499&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:4&quot;},{&quot;para_id&quot;:&quot;1970.45499&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.45503&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.45499&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.45499&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.46005&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.45631&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.45497&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:4&quot;}]" data-refcode-old="KJV — Joel 1:4"><strong>4</strong> That which the palmerworm hath left hath the locust eaten; and that which the locust hath left hath the cankerworm eaten; and that which the cankerworm hath left hath the caterpiller eaten.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45501" data-para-id="196
+5.45501" data-refcode="KJV — Joel 1:5">
+<span class="egw_content" data-refcode="196
+5.45501" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45297&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.45639&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;11139.45501&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;11140.45627&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.45501&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.45633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.45501&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.45501&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.45547&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.45501&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.45501&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:5&quot;},{&quot;para_id&quot;:&quot;1970.45501&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.45505&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.45501&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.45501&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.46007&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.45633&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.45499&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:5&quot;}]" data-refcode-old="KJV — Joel 1:5"><strong>5</strong> Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45503" data-para-id="196
+5.45503" data-refcode="KJV — Joel 1:6">
+<span class="egw_content" data-refcode="196
+5.45503" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45299&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.45641&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;11139.45503&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;11140.45629&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.45503&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.45635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.45503&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.45503&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.45549&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.45503&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.45503&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:6&quot;},{&quot;para_id&quot;:&quot;1970.45503&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.45507&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.45503&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.45503&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.46009&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.45635&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.45501&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:6&quot;}]" data-refcode-old="KJV — Joel 1:6"><strong>6</strong> For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45505" data-para-id="196
+5.45505" data-refcode="KJV — Joel 1:7">
+<span class="egw_content" data-refcode="196
+5.45505" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45301&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.45643&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;11139.45505&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;11140.45631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.45505&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.45637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.45505&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.45505&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.45551&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.45505&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.45505&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:7&quot;},{&quot;para_id&quot;:&quot;1970.45505&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.45509&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.45505&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.45505&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.46011&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.45637&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.45503&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:7&quot;}]" data-refcode-old="KJV — Joel 1:7"><strong>7</strong> He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45507" data-para-id="196
+5.45507" data-refcode="KJV — Joel 1:8">
+<span class="egw_content" data-refcode="196
+5.45507" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45303&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.45645&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;11139.45507&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;11140.45633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.45507&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.45639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.45507&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.45507&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.45553&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.45507&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.45507&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:8&quot;},{&quot;para_id&quot;:&quot;1970.45507&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.45511&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.45507&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.45507&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.46013&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.45639&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.45505&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:8&quot;}]" data-refcode-old="KJV — Joel 1:8"><strong>8</strong> Lament like a virgin girded with sackcloth for the husband of her youth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45509" data-para-id="196
+5.45509" data-refcode="KJV — Joel 1:9">
+<span class="egw_content" data-refcode="196
+5.45509" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45305&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.45647&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;11139.45509&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;11140.45635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.45509&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.45509&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.45509&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.45555&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.45509&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.45509&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:9&quot;},{&quot;para_id&quot;:&quot;1970.45509&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.45513&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.45509&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.45509&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.46015&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.45641&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.45507&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:9&quot;}]" data-refcode-old="KJV — Joel 1:9"><strong>9</strong> The meat offering and the drink offering is cut off from the house of the LORD; the priests, the LORD'S ministers, mourn.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45511" data-para-id="196
+5.45511" data-refcode="KJV — Joel 1:10">
+<span class="egw_content" data-refcode="196
+5.45511" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45307&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.45649&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;11139.45511&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;11140.45637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.45511&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.45511&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.45511&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.45557&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.45511&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.45511&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:10&quot;},{&quot;para_id&quot;:&quot;1970.45511&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.45515&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.45511&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.45511&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.46017&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.45643&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.45509&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:10&quot;}]" data-refcode-old="KJV — Joel 1:10"><strong>10</strong> The field is wasted, the land mourneth; for the corn is wasted: the new wine is dried up, the oil languisheth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45513" data-para-id="196
+5.45513" data-refcode="KJV — Joel 1:11">
+<span class="egw_content" data-refcode="196
+5.45513" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45309&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.45651&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;11139.45513&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;11140.45639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.45513&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.45513&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.45513&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.45559&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.45513&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.45513&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:11&quot;},{&quot;para_id&quot;:&quot;1970.45513&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.45517&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.45513&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.45513&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.46019&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.45645&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.45511&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:11&quot;}]" data-refcode-old="KJV — Joel 1:11"><strong>11</strong> Be ye ashamed, O ye husbandmen; howl, O ye vinedressers, for the wheat and for the barley; because the harvest of the field is perished.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45515" data-para-id="196
+5.45515" data-refcode="KJV — Joel 1:12">
+<span class="egw_content" data-refcode="196
+5.45515" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45311&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.45653&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;11139.45515&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;11140.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.45515&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.45515&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.45515&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.45561&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.45515&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.45515&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:12&quot;},{&quot;para_id&quot;:&quot;1970.45515&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.45519&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.45515&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.45515&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.46021&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.45647&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.45513&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:12&quot;}]" data-refcode-old="KJV — Joel 1:12"><strong>12</strong> The vine is dried up, and the fig tree languisheth; the pomegranate tree, the palm tree also, and the apple tree, even all the trees of the field, are withered: because joy is withered away from the sons of men.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45517" data-para-id="196
+5.45517" data-refcode="KJV — Joel 1:13">
+<span class="egw_content" data-refcode="196
+5.45517" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45313&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.45655&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;11139.45517&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;11140.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.45517&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.45517&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.45517&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.45563&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.45517&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.45517&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:13&quot;},{&quot;para_id&quot;:&quot;1970.45517&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.45521&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.45517&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.45517&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.46023&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.45649&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.45515&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:13&quot;}]" data-refcode-old="KJV — Joel 1:13"><strong>13</strong> Gird yourselves, and lament, ye priests: howl, ye ministers of the altar: come, lie all night in sackcloth, ye ministers of my God: for the meat offering and the drink offering is withholden from the house of your God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45519" data-para-id="196
+5.45519" data-refcode="KJV — Joel 1:14">
+<span class="egw_content" data-refcode="196
+5.45519" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45315&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.45657&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;11139.45519&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;11140.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.45519&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.45519&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.45519&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.45565&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.45519&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.45519&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:14&quot;},{&quot;para_id&quot;:&quot;1970.45519&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.45523&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.45519&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.45519&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.46025&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.45651&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.45517&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:14&quot;}]" data-refcode-old="KJV — Joel 1:14"><strong>14</strong> Sanctify ye a fast, call a solemn assembly, gather the elders and all the inhabitants of the land into the house of the LORD your God, and cry unto the LORD,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45521" data-para-id="196
+5.45521" data-refcode="KJV — Joel 1:15">
+<span class="egw_content" data-refcode="196
+5.45521" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45317&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.45659&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;11139.45521&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;11140.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.45521&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.45521&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.45521&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.45567&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.45521&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.45521&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:15&quot;},{&quot;para_id&quot;:&quot;1970.45521&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.45525&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.45521&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.45521&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.46027&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.45653&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1969.45519&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:15&quot;}]" data-refcode-old="KJV — Joel 1:15"><strong>15</strong> Alas for the day! for the day of the LORD is at hand, and as a destruction from the Almighty shall it come.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45523" data-para-id="196
+5.45523" data-refcode="KJV — Joel 1:16">
+<span class="egw_content" data-refcode="196
+5.45523" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45319&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.45661&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;11139.45523&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;11140.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.45523&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.45523&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.45523&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.45569&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.45523&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.45523&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:16&quot;},{&quot;para_id&quot;:&quot;1970.45523&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.45527&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.45523&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.45523&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.46029&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.45655&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1969.45521&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:16&quot;}]" data-refcode-old="KJV — Joel 1:16"><strong>16</strong> Is not the meat cut off before our eyes, yea, joy and gladness from the house of our God?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45525" data-para-id="196
+5.45525" data-refcode="KJV — Joel 1:17">
+<span class="egw_content" data-refcode="196
+5.45525" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45321&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.45663&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;11139.45525&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;11140.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.45525&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.45525&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.45525&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.45571&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.45525&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.45525&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:17&quot;},{&quot;para_id&quot;:&quot;1970.45525&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.45529&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.45525&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.45525&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.46031&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.45657&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1969.45523&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:17&quot;}]" data-refcode-old="KJV — Joel 1:17"><strong>17</strong> The seed is rotten under their clods, the garners are laid desolate, the barns are broken down; for the corn is withered.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45527" data-para-id="196
+5.45527" data-refcode="KJV — Joel 1:18">
+<span class="egw_content" data-refcode="196
+5.45527" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45323&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.45665&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;11139.45527&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;11140.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.45527&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.45659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.45527&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.45527&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.45573&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.45527&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.45527&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:18&quot;},{&quot;para_id&quot;:&quot;1970.45527&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.45531&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.45527&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.45527&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.46033&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.45659&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1969.45525&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:18&quot;}]" data-refcode-old="KJV — Joel 1:18"><strong>18</strong> How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45529" data-para-id="196
+5.45529" data-refcode="KJV — Joel 1:19">
+<span class="egw_content" data-refcode="196
+5.45529" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45325&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.45667&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;11139.45529&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;11140.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.45529&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.45661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.45529&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.45529&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.45575&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.45529&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.45529&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:19&quot;},{&quot;para_id&quot;:&quot;1970.45529&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.45533&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.45529&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.45529&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.46035&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.45661&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1969.45527&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:19&quot;}]" data-refcode-old="KJV — Joel 1:19"><strong>19</strong> O LORD, to thee will I cry: for the fire hath devoured the pastures of the wilderness, and the flame hath burned all the trees of the field.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45531" data-para-id="196
+5.45531" data-refcode="KJV — Joel 1:20">
+<span class="egw_content" data-refcode="196
+5.45531" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45327&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3el 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.45669&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;11139.45531&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;11140.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.45531&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.45663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.45531&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.45531&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.45577&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.45531&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jo\u00ebl 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.45531&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Gioele 1:20&quot;},{&quot;para_id&quot;:&quot;1970.45531&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joela 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.45535&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Joel 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.45531&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.45531&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioel 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.46037&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0438\u043b\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.45663&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0456\u043b\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1969.45529&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u73e5\u66f8 1:20&quot;}]" data-refcode-old="KJV — Joel 1:20"><strong>20</strong> The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45471">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45532">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c13663f4a5d52a6f09d9a517-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="c13663f4a5d52a6f09d9a517-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="c13663f4a5d52a6f09d9a517-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c13663f4a5d52a6f09d9a517-" defer=""></script></body>
+</html>

@@ -1,0 +1,795 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="c727206c97b38943623a066c-text/javascript">var _isLogged=false;</script>
+<script type="c727206c97b38943623a066c-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="c727206c97b38943623a066c-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:3
+6.8%">
+437/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.26188">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.26241">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="26195" data-para-id="196
+5.26195" data-refcode="KJV — Job">
+<span class="egw_content" data-refcode="196
+5.26195" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26045&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b&quot;},{&quot;para_id&quot;:&quot;196
+7.26201&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob&quot;},{&quot;para_id&quot;:&quot;11139.26195&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job&quot;},{&quot;para_id&quot;:&quot;11140.26203&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job&quot;},{&quot;para_id&quot;:&quot;1114
+2.26195&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job&quot;},{&quot;para_id&quot;:&quot;1114
+3.26199&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job&quot;},{&quot;para_id&quot;:&quot;1114
+4.26195&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job&quot;},{&quot;para_id&quot;:&quot;1114
+5.26195&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job&quot;},{&quot;para_id&quot;:&quot;196
+8.26235&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job&quot;},{&quot;para_id&quot;:&quot;202
+1.26195&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job&quot;},{&quot;para_id&quot;:&quot;196
+6.26195&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe&quot;},{&quot;para_id&quot;:&quot;1970.26199&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba&quot;},{&quot;para_id&quot;:&quot;197
+1.26199&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3&quot;},{&quot;para_id&quot;:&quot;1116
+5.26195&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov&quot;},{&quot;para_id&quot;:&quot;197
+3.26195&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov&quot;},{&quot;para_id&quot;:&quot;197
+2.26209&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430&quot;},{&quot;para_id&quot;:&quot;1231
+8.26195&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430&quot;},{&quot;para_id&quot;:&quot;1969.26193&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18&quot;}]" data-refcode-old="KJV — Job">Job</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="26196" data-para-id="196
+5.26196" data-refcode="KJV — Job 1">
+<span class="egw_content" data-refcode="196
+5.26196" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26046&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1&quot;},{&quot;para_id&quot;:&quot;196
+7.26202&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1&quot;},{&quot;para_id&quot;:&quot;11139.26196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;11140.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.26196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.26200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.26196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.26196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;196
+8.26901&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;202
+1.26196&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1&quot;},{&quot;para_id&quot;:&quot;196
+6.26196&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1&quot;},{&quot;para_id&quot;:&quot;1970.26200&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1&quot;},{&quot;para_id&quot;:&quot;197
+1.26200&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.26196&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1&quot;},{&quot;para_id&quot;:&quot;197
+3.26196&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1&quot;},{&quot;para_id&quot;:&quot;197
+2.26210&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.26196&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.26194&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1&quot;}]" data-refcode-old="KJV — Job 1">Job 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26198" data-para-id="196
+5.26198" data-refcode="KJV — Job 1:1">
+<span class="egw_content" data-refcode="196
+5.26198" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26048&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.26204&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:1&quot;},{&quot;para_id&quot;:&quot;11139.26198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;11140.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.26198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.26202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.26198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.26198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.26903&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.26198&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.26198&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:1&quot;},{&quot;para_id&quot;:&quot;1970.26202&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.26202&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.26198&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.26198&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.26212&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.26198&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.26196&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:1&quot;}]" data-refcode-old="KJV — Job 1:1"><strong>1</strong> There was a man in the land of Uz, whose name was Job; and that man was perfect and upright, and one that feared God, and eschewed evil.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26200" data-para-id="196
+5.26200" data-refcode="KJV — Job 1:2">
+<span class="egw_content" data-refcode="196
+5.26200" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26050&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.26206&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:2&quot;},{&quot;para_id&quot;:&quot;11139.26200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;11140.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.26200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.26200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.26200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.26905&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.26200&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.26200&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:2&quot;},{&quot;para_id&quot;:&quot;1970.26204&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.26204&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.26200&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.26200&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.26214&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.26200&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.26198&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:2&quot;}]" data-refcode-old="KJV — Job 1:2"><strong>2</strong> And there were born unto him seven sons and three daughters.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26202" data-para-id="196
+5.26202" data-refcode="KJV — Job 1:3">
+<span class="egw_content" data-refcode="196
+5.26202" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26052&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.26208&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:3&quot;},{&quot;para_id&quot;:&quot;11139.26202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;11140.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.26202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.26202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.26202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.26907&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.26202&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.26202&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:3&quot;},{&quot;para_id&quot;:&quot;1970.26206&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.26206&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.26202&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.26202&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.26216&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.26202&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.26200&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:3&quot;}]" data-refcode-old="KJV — Job 1:3"><strong>3</strong> His substance also was seven thousand sheep, and three thousand camels, and five hundred yoke of oxen, and five hundred she asses, and a very great household; so that this man was the greatest of all the men of the east.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26204" data-para-id="196
+5.26204" data-refcode="KJV — Job 1:4">
+<span class="egw_content" data-refcode="196
+5.26204" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26054&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.26210&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:4&quot;},{&quot;para_id&quot;:&quot;11139.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;11140.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.26204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.26909&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.26204&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.26204&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:4&quot;},{&quot;para_id&quot;:&quot;1970.26208&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.26208&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.26204&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.26204&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.26218&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.26204&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.26202&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:4&quot;}]" data-refcode-old="KJV — Job 1:4"><strong>4</strong> And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26206" data-para-id="196
+5.26206" data-refcode="KJV — Job 1:5">
+<span class="egw_content" data-refcode="196
+5.26206" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26056&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.26212&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:5&quot;},{&quot;para_id&quot;:&quot;11139.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;11140.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.26206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.26911&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.26206&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.26206&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:5&quot;},{&quot;para_id&quot;:&quot;1970.26210&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.26210&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.26206&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.26206&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.26220&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.26206&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.26204&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:5&quot;}]" data-refcode-old="KJV — Job 1:5"><strong>5</strong> And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26208" data-para-id="196
+5.26208" data-refcode="KJV — Job 1:6">
+<span class="egw_content" data-refcode="196
+5.26208" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26058&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.26214&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:6&quot;},{&quot;para_id&quot;:&quot;11139.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;11140.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.26208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.26913&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.26208&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.26208&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:6&quot;},{&quot;para_id&quot;:&quot;1970.26212&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.26212&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.26208&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.26208&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.26222&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.26208&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.26206&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:6&quot;}]" data-refcode-old="KJV — Job 1:6"><strong>6</strong> Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26210" data-para-id="196
+5.26210" data-refcode="KJV — Job 1:7">
+<span class="egw_content" data-refcode="196
+5.26210" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26060&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.26216&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:7&quot;},{&quot;para_id&quot;:&quot;11139.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;11140.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.26210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.26915&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.26210&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.26210&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:7&quot;},{&quot;para_id&quot;:&quot;1970.26214&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.26214&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.26210&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.26210&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.26224&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.26210&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.26208&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:7&quot;}]" data-refcode-old="KJV — Job 1:7"><strong>7</strong> And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26212" data-para-id="196
+5.26212" data-refcode="KJV — Job 1:8">
+<span class="egw_content" data-refcode="196
+5.26212" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26062&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.26218&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:8&quot;},{&quot;para_id&quot;:&quot;11139.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;11140.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.26212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.26917&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.26212&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.26212&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:8&quot;},{&quot;para_id&quot;:&quot;1970.26216&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.26216&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.26212&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.26212&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.26226&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.26212&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.26210&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:8&quot;}]" data-refcode-old="KJV — Job 1:8"><strong>8</strong> And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26214" data-para-id="196
+5.26214" data-refcode="KJV — Job 1:9">
+<span class="egw_content" data-refcode="196
+5.26214" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26064&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.26220&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:9&quot;},{&quot;para_id&quot;:&quot;11139.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;11140.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.26214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.26919&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.26214&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.26214&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:9&quot;},{&quot;para_id&quot;:&quot;1970.26218&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.26218&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.26214&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.26214&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.26228&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.26214&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.26212&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:9&quot;}]" data-refcode-old="KJV — Job 1:9"><strong>9</strong> Then Satan answered the LORD, and said, Doth Job fear God for nought?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26216" data-para-id="196
+5.26216" data-refcode="KJV — Job 1:10">
+<span class="egw_content" data-refcode="196
+5.26216" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26066&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.26222&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:10&quot;},{&quot;para_id&quot;:&quot;11139.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;11140.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.26216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.26921&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.26216&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.26216&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:10&quot;},{&quot;para_id&quot;:&quot;1970.26220&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.26220&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.26216&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.26216&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.26230&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.26216&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.26214&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:10&quot;}]" data-refcode-old="KJV — Job 1:10"><strong>10</strong> Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26218" data-para-id="196
+5.26218" data-refcode="KJV — Job 1:11">
+<span class="egw_content" data-refcode="196
+5.26218" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26068&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.26224&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:11&quot;},{&quot;para_id&quot;:&quot;11139.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;11140.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.26218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.26923&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.26218&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.26218&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:11&quot;},{&quot;para_id&quot;:&quot;1970.26222&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.26222&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.26218&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.26218&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.26232&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.26218&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.26216&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:11&quot;}]" data-refcode-old="KJV — Job 1:11"><strong>11</strong> But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26220" data-para-id="196
+5.26220" data-refcode="KJV — Job 1:12">
+<span class="egw_content" data-refcode="196
+5.26220" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26070&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.26226&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:12&quot;},{&quot;para_id&quot;:&quot;11139.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;11140.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.26220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.26925&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.26220&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.26220&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:12&quot;},{&quot;para_id&quot;:&quot;1970.26224&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.26224&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.26220&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.26220&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.26234&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.26220&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.26218&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:12&quot;}]" data-refcode-old="KJV — Job 1:12"><strong>12</strong> And the LORD said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26222" data-para-id="196
+5.26222" data-refcode="KJV — Job 1:13">
+<span class="egw_content" data-refcode="196
+5.26222" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26072&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.26228&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:13&quot;},{&quot;para_id&quot;:&quot;11139.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;11140.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.26222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.26927&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.26222&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.26222&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:13&quot;},{&quot;para_id&quot;:&quot;1970.26226&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.26226&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.26222&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.26222&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.26236&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.26222&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.26220&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:13&quot;}]" data-refcode-old="KJV — Job 1:13"><strong>13</strong> And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26224" data-para-id="196
+5.26224" data-refcode="KJV — Job 1:14">
+<span class="egw_content" data-refcode="196
+5.26224" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26074&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.26230&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:14&quot;},{&quot;para_id&quot;:&quot;11139.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;11140.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.26224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.26929&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.26224&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.26224&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:14&quot;},{&quot;para_id&quot;:&quot;1970.26228&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.26228&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.26224&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.26224&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.26238&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.26224&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.26222&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:14&quot;}]" data-refcode-old="KJV — Job 1:14"><strong>14</strong> And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26226" data-para-id="196
+5.26226" data-refcode="KJV — Job 1:15">
+<span class="egw_content" data-refcode="196
+5.26226" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26076&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.26232&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:15&quot;},{&quot;para_id&quot;:&quot;11139.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;11140.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.26226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.26931&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.26226&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.26226&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:15&quot;},{&quot;para_id&quot;:&quot;1970.26230&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.26230&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.26226&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.26226&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.26240&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.26226&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1969.26224&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:15&quot;}]" data-refcode-old="KJV — Job 1:15"><strong>15</strong> And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26228" data-para-id="196
+5.26228" data-refcode="KJV — Job 1:16">
+<span class="egw_content" data-refcode="196
+5.26228" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26078&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.26234&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:16&quot;},{&quot;para_id&quot;:&quot;11139.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;11140.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.26228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.26933&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.26228&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.26228&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:16&quot;},{&quot;para_id&quot;:&quot;1970.26232&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.26232&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.26228&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.26228&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.26242&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.26228&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1969.26226&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:16&quot;}]" data-refcode-old="KJV — Job 1:16"><strong>16</strong> While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26230" data-para-id="196
+5.26230" data-refcode="KJV — Job 1:17">
+<span class="egw_content" data-refcode="196
+5.26230" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26080&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.26236&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:17&quot;},{&quot;para_id&quot;:&quot;11139.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;11140.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.26230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.26935&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.26230&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.26230&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:17&quot;},{&quot;para_id&quot;:&quot;1970.26234&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.26234&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.26230&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.26230&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.26244&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.26230&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1969.26228&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:17&quot;}]" data-refcode-old="KJV — Job 1:17"><strong>17</strong> While he was yet speaking, there came also another, and said, The Chaldeans made out three bands, and fell upon the camels, and have carried them away, yea, and slain the servants with the edge of the sword; and I only am escaped alone to tell thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26232" data-para-id="196
+5.26232" data-refcode="KJV — Job 1:18">
+<span class="egw_content" data-refcode="196
+5.26232" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26082&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.26238&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:18&quot;},{&quot;para_id&quot;:&quot;11139.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;11140.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.26232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.26937&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.26232&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.26232&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:18&quot;},{&quot;para_id&quot;:&quot;1970.26236&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.26236&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.26232&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.26232&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.26246&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.26232&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1969.26230&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:18&quot;}]" data-refcode-old="KJV — Job 1:18"><strong>18</strong> While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother's house:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26234" data-para-id="196
+5.26234" data-refcode="KJV — Job 1:19">
+<span class="egw_content" data-refcode="196
+5.26234" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26084&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.26240&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:19&quot;},{&quot;para_id&quot;:&quot;11139.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;11140.26242&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.26234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.26939&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.26234&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.26234&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:19&quot;},{&quot;para_id&quot;:&quot;1970.26238&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.26238&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.26234&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.26234&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.26248&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.26234&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1969.26232&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:19&quot;}]" data-refcode-old="KJV — Job 1:19"><strong>19</strong> And, behold, there came a great wind from the wilderness, and smote the four corners of the house, and it fell upon the young men, and they are dead; and I only am escaped alone to tell thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26236" data-para-id="196
+5.26236" data-refcode="KJV — Job 1:20">
+<span class="egw_content" data-refcode="196
+5.26236" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26086&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.26242&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:20&quot;},{&quot;para_id&quot;:&quot;11139.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;11140.26244&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.26236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.26941&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.26236&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.26236&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:20&quot;},{&quot;para_id&quot;:&quot;1970.26240&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.26240&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.26236&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.26236&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.26250&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.26236&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1969.26234&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:20&quot;}]" data-refcode-old="KJV — Job 1:20"><strong>20</strong> Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26238" data-para-id="196
+5.26238" data-refcode="KJV — Job 1:21">
+<span class="egw_content" data-refcode="196
+5.26238" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26088&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.26244&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:21&quot;},{&quot;para_id&quot;:&quot;11139.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;11140.26246&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.26242&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.26238&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.26943&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.26238&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.26238&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:21&quot;},{&quot;para_id&quot;:&quot;1970.26242&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.26242&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.26238&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.26238&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.26252&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.26238&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:21&quot;},{&quot;para_id&quot;:&quot;1969.26236&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:21&quot;}]" data-refcode-old="KJV — Job 1:21"><strong>21</strong> And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="26240" data-para-id="196
+5.26240" data-refcode="KJV — Job 1:22">
+<span class="egw_content" data-refcode="196
+5.26240" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.26090&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 J\u00f3b 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.26246&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hiob 1:22&quot;},{&quot;para_id&quot;:&quot;11139.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;11140.26248&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.26244&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.26240&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.26945&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.26240&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Job 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.26240&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giobbe 1:22&quot;},{&quot;para_id&quot;:&quot;1970.26244&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Joba 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.26244&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 J\u00f3 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.26240&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Iov 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.26240&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Iov 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.26254&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0432\u0430 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.26240&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0419\u043e\u0432\u0430 1:22&quot;},{&quot;para_id&quot;:&quot;1969.26238&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u4f2f\u8a18 1:22&quot;}]" data-refcode-old="KJV — Job 1:22"><strong>22</strong> In all this Job sinned not, nor charged God foolishly.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.26188">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.26241">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c727206c97b38943623a066c-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="c727206c97b38943623a066c-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="c727206c97b38943623a066c-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c727206c97b38943623a066c-" defer=""></script></body>
+</html>

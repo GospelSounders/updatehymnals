@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="3323b07191e2dd531d268fa6-text/javascript">var _isLogged=false;</script>
+<script type="3323b07191e2dd531d268fa6-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="3323b07191e2dd531d268fa6-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:7
+2.6%">
+863/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45054">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45105">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="45081" data-para-id="196
+5.45081" data-refcode="KJV — Hosea">
+<span class="egw_content" data-refcode="196
+5.45081" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44885&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161&quot;},{&quot;para_id&quot;:&quot;196
+7.45219&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;11139.45081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;11140.45207&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;1114
+2.45081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;1114
+3.45213&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;1114
+4.45081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;1114
+5.45081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea&quot;},{&quot;para_id&quot;:&quot;196
+8.45127&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas&quot;},{&quot;para_id&quot;:&quot;202
+1.45081&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e&quot;},{&quot;para_id&quot;:&quot;196
+6.45081&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea&quot;},{&quot;para_id&quot;:&quot;1970.45081&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza&quot;},{&quot;para_id&quot;:&quot;197
+1.45085&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias&quot;},{&quot;para_id&quot;:&quot;1116
+5.45081&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea&quot;},{&quot;para_id&quot;:&quot;197
+3.45081&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea&quot;},{&quot;para_id&quot;:&quot;197
+2.45587&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438&quot;},{&quot;para_id&quot;:&quot;1231
+8.45213&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457&quot;},{&quot;para_id&quot;:&quot;1969.45079&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8&quot;}]" data-refcode-old="KJV — Hosea">Hosea</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="45082" data-para-id="196
+5.45082" data-refcode="KJV — Hosea 1">
+<span class="egw_content" data-refcode="196
+5.45082" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44886&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1&quot;},{&quot;para_id&quot;:&quot;196
+7.45220&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;11139.45082&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;11140.45208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45082&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45082&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45082&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1&quot;},{&quot;para_id&quot;:&quot;196
+8.45265&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1&quot;},{&quot;para_id&quot;:&quot;202
+1.45082&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1&quot;},{&quot;para_id&quot;:&quot;196
+6.45082&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1&quot;},{&quot;para_id&quot;:&quot;1970.45082&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1&quot;},{&quot;para_id&quot;:&quot;197
+1.45086&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45082&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1&quot;},{&quot;para_id&quot;:&quot;197
+3.45082&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1&quot;},{&quot;para_id&quot;:&quot;197
+2.45588&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45214&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1&quot;},{&quot;para_id&quot;:&quot;1969.45080&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1&quot;}]" data-refcode-old="KJV — Hosea 1">Hosea 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45084" data-para-id="196
+5.45084" data-refcode="KJV — Hosea 1:1">
+<span class="egw_content" data-refcode="196
+5.45084" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44888&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.45222&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;11139.45084&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;11140.45210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45084&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45084&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45084&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.45267&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.45084&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.45084&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:1&quot;},{&quot;para_id&quot;:&quot;1970.45084&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.45088&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45084&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.45084&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.45590&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45216&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:1&quot;},{&quot;para_id&quot;:&quot;1969.45082&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:1&quot;}]" data-refcode-old="KJV — Hosea 1:1"><strong>1</strong> The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45086" data-para-id="196
+5.45086" data-refcode="KJV — Hosea 1:2">
+<span class="egw_content" data-refcode="196
+5.45086" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44890&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.45224&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;11139.45086&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;11140.45212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.45086&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.45218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.45086&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.45086&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.45269&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.45086&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.45086&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:2&quot;},{&quot;para_id&quot;:&quot;1970.45086&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.45090&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.45086&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.45086&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.45592&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.45218&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:2&quot;},{&quot;para_id&quot;:&quot;1969.45084&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:2&quot;}]" data-refcode-old="KJV — Hosea 1:2"><strong>2</strong> The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45088" data-para-id="196
+5.45088" data-refcode="KJV — Hosea 1:3">
+<span class="egw_content" data-refcode="196
+5.45088" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44892&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.45226&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;11139.45088&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;11140.45214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.45088&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.45220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.45088&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.45088&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.45271&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.45088&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.45088&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:3&quot;},{&quot;para_id&quot;:&quot;1970.45088&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.45092&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.45088&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.45088&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.45594&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.45220&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:3&quot;},{&quot;para_id&quot;:&quot;1969.45086&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:3&quot;}]" data-refcode-old="KJV — Hosea 1:3"><strong>3</strong> So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45090" data-para-id="196
+5.45090" data-refcode="KJV — Hosea 1:4">
+<span class="egw_content" data-refcode="196
+5.45090" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44894&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.45228&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;11139.45090&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;11140.45216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.45090&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.45222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.45090&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.45090&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.45273&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.45090&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.45090&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:4&quot;},{&quot;para_id&quot;:&quot;1970.45090&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.45094&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.45090&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.45090&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.45596&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.45222&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:4&quot;},{&quot;para_id&quot;:&quot;1969.45088&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:4&quot;}]" data-refcode-old="KJV — Hosea 1:4"><strong>4</strong> And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45092" data-para-id="196
+5.45092" data-refcode="KJV — Hosea 1:5">
+<span class="egw_content" data-refcode="196
+5.45092" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44896&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.45230&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;11139.45092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;11140.45218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.45092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.45224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.45092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.45092&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.45275&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.45092&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.45092&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:5&quot;},{&quot;para_id&quot;:&quot;1970.45092&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.45096&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.45092&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.45092&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.45598&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.45224&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:5&quot;},{&quot;para_id&quot;:&quot;1969.45090&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:5&quot;}]" data-refcode-old="KJV — Hosea 1:5"><strong>5</strong> And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45094" data-para-id="196
+5.45094" data-refcode="KJV — Hosea 1:6">
+<span class="egw_content" data-refcode="196
+5.45094" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44898&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.45232&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;11139.45094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;11140.45220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.45094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.45226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.45094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.45094&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.45277&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.45094&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.45094&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:6&quot;},{&quot;para_id&quot;:&quot;1970.45094&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.45098&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.45094&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.45094&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.45600&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.45226&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:6&quot;},{&quot;para_id&quot;:&quot;1969.45092&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:6&quot;}]" data-refcode-old="KJV — Hosea 1:6"><strong>6</strong> And she conceived again, and bare a daughter. And God said unto him, Call her name Loruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45096" data-para-id="196
+5.45096" data-refcode="KJV — Hosea 1:7">
+<span class="egw_content" data-refcode="196
+5.45096" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44900&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.45234&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;11139.45096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;11140.45222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.45096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.45228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.45096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.45096&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.45279&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.45096&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.45096&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:7&quot;},{&quot;para_id&quot;:&quot;1970.45096&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.45100&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.45096&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.45096&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.45602&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.45228&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:7&quot;},{&quot;para_id&quot;:&quot;1969.45094&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:7&quot;}]" data-refcode-old="KJV — Hosea 1:7"><strong>7</strong> But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45098" data-para-id="196
+5.45098" data-refcode="KJV — Hosea 1:8">
+<span class="egw_content" data-refcode="196
+5.45098" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44902&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.45236&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;11139.45098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;11140.45224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.45098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.45230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.45098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.45098&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.45281&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.45098&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.45098&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:8&quot;},{&quot;para_id&quot;:&quot;1970.45098&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.45102&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.45098&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.45098&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.45604&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.45230&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:8&quot;},{&quot;para_id&quot;:&quot;1969.45096&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:8&quot;}]" data-refcode-old="KJV — Hosea 1:8"><strong>8</strong> Now when she had weaned Loruhamah, she conceived, and bare a son.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45100" data-para-id="196
+5.45100" data-refcode="KJV — Hosea 1:9">
+<span class="egw_content" data-refcode="196
+5.45100" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.44904&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Oze\u00e1\u0161 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.45238&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;11139.45100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;11140.45226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.45100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.45232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.45100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.45100&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.45283&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.45100&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.45100&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:9&quot;},{&quot;para_id&quot;:&quot;1970.45100&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.45104&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.45100&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.45100&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.45606&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.45232&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0441\u0456\u0457 1:9&quot;},{&quot;para_id&quot;:&quot;1969.45098&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:9&quot;}]" data-refcode-old="KJV — Hosea 1:9"><strong>9</strong> Then said God, Call his name Loammi: for ye are not my people, and I will not be your God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45102" data-para-id="196
+5.45102" data-refcode="KJV — Hosea 1:10">
+<span class="egw_content" data-refcode="196
+5.45102" data-translate="[{&quot;para_id&quot;:&quot;11139.45102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;11140.45228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.45102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.45234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.45102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.45102&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.45285&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.45102&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.45102&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:10&quot;},{&quot;para_id&quot;:&quot;1970.45102&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.45106&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.45102&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.45102&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.45609&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:10&quot;},{&quot;para_id&quot;:&quot;1969.45100&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:10&quot;}]" data-refcode-old="KJV — Hosea 1:10"><strong>10</strong> Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45104" data-para-id="196
+5.45104" data-refcode="KJV — Hosea 1:11">
+<span class="egw_content" data-refcode="196
+5.45104" data-translate="[{&quot;para_id&quot;:&quot;11139.45104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;11140.45230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.45104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.45236&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.45104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.45104&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hosea 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.45287&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Oseas 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.45104&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Os\u00e9e 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.45104&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Osea 1:11&quot;},{&quot;para_id&quot;:&quot;1970.45104&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Ozeasza 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.45108&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Os\u00e9ias 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.45104&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Osea 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.45104&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Osea 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.45611&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0441\u0438\u0438 1:11&quot;},{&quot;para_id&quot;:&quot;1969.45102&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4f55\u897f\u963f\u66f8 1:11&quot;}]" data-refcode-old="KJV — Hosea 1:11"><strong>11</strong> Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45054">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45105">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="3323b07191e2dd531d268fa6-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="3323b07191e2dd531d268fa6-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="3323b07191e2dd531d268fa6-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="3323b07191e2dd531d268fa6-" defer=""></script></body>
+</html>

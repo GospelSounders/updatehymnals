@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript">var _isLogged=false;</script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="a9f650e4989f68a3d7271ccb-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:5
+7.2%">
+680/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.35984">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.36077">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="36013" data-para-id="196
+5.36013" data-refcode="KJV — Isaiah">
+<span class="egw_content" data-refcode="196
+5.36013" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35841&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161&quot;},{&quot;para_id&quot;:&quot;196
+7.36153&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja&quot;},{&quot;para_id&quot;:&quot;11139.36013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;11140.36139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;1114
+2.36013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;1114
+3.36149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;1114
+4.36013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;1114
+5.36013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah&quot;},{&quot;para_id&quot;:&quot;196
+8.36053&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas&quot;},{&quot;para_id&quot;:&quot;202
+1.36013&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe&quot;},{&quot;para_id&quot;:&quot;196
+6.36013&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia&quot;},{&quot;para_id&quot;:&quot;1970.36017&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza&quot;},{&quot;para_id&quot;:&quot;197
+1.36017&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas&quot;},{&quot;para_id&quot;:&quot;1116
+5.36013&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia&quot;},{&quot;para_id&quot;:&quot;197
+3.36013&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia&quot;},{&quot;para_id&quot;:&quot;197
+2.36171&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438&quot;},{&quot;para_id&quot;:&quot;1231
+8.36145&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457&quot;},{&quot;para_id&quot;:&quot;1969.36011&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8&quot;}]" data-refcode-old="KJV — Isaiah">Isaiah</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="36014" data-para-id="196
+5.36014" data-refcode="KJV — Isaiah 1">
+<span class="egw_content" data-refcode="196
+5.36014" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35842&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1&quot;},{&quot;para_id&quot;:&quot;196
+7.36154&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1&quot;},{&quot;para_id&quot;:&quot;11139.36014&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;11140.36140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.36014&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.36150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.36014&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.36014&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1&quot;},{&quot;para_id&quot;:&quot;196
+8.36366&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1&quot;},{&quot;para_id&quot;:&quot;202
+1.36014&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1&quot;},{&quot;para_id&quot;:&quot;196
+6.36014&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1&quot;},{&quot;para_id&quot;:&quot;1970.36018&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1&quot;},{&quot;para_id&quot;:&quot;197
+1.36018&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.36014&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1&quot;},{&quot;para_id&quot;:&quot;197
+3.36014&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1&quot;},{&quot;para_id&quot;:&quot;197
+2.36172&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.36146&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1&quot;},{&quot;para_id&quot;:&quot;1969.36012&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1&quot;}]" data-refcode-old="KJV — Isaiah 1">Isaiah 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36016" data-para-id="196
+5.36016" data-refcode="KJV — Isaiah 1:1">
+<span class="egw_content" data-refcode="196
+5.36016" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35844&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.36156&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:1&quot;},{&quot;para_id&quot;:&quot;11139.36016&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;11140.36142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.36016&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.36152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.36016&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.36016&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.36368&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.36016&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.36016&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:1&quot;},{&quot;para_id&quot;:&quot;1970.36020&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.36020&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.36016&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.36016&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.36174&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.36148&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:1&quot;},{&quot;para_id&quot;:&quot;1969.36014&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:1&quot;}]" data-refcode-old="KJV — Isaiah 1:1"><strong>1</strong> The vision of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36018" data-para-id="196
+5.36018" data-refcode="KJV — Isaiah 1:2">
+<span class="egw_content" data-refcode="196
+5.36018" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35846&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.36158&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:2&quot;},{&quot;para_id&quot;:&quot;11139.36018&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;11140.36144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.36018&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.36154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.36018&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.36018&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.36370&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.36018&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.36018&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:2&quot;},{&quot;para_id&quot;:&quot;1970.36022&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.36022&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.36018&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.36018&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.36176&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.36150&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:2&quot;},{&quot;para_id&quot;:&quot;1969.36016&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:2&quot;}]" data-refcode-old="KJV — Isaiah 1:2"><strong>2</strong> Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36020" data-para-id="196
+5.36020" data-refcode="KJV — Isaiah 1:3">
+<span class="egw_content" data-refcode="196
+5.36020" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35848&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.36160&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:3&quot;},{&quot;para_id&quot;:&quot;11139.36020&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;11140.36146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.36020&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.36156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.36020&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.36020&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.36372&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.36020&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.36020&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:3&quot;},{&quot;para_id&quot;:&quot;1970.36024&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.36024&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.36020&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.36020&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.36178&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.36152&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:3&quot;},{&quot;para_id&quot;:&quot;1969.36018&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:3&quot;}]" data-refcode-old="KJV — Isaiah 1:3"><strong>3</strong> The ox knoweth his owner, and the ass his master's crib: but Israel doth not know, my people doth not consider.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36022" data-para-id="196
+5.36022" data-refcode="KJV — Isaiah 1:4">
+<span class="egw_content" data-refcode="196
+5.36022" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35850&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.36162&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:4&quot;},{&quot;para_id&quot;:&quot;11139.36022&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;11140.36148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.36022&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.36158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.36022&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.36022&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.36374&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.36022&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.36022&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:4&quot;},{&quot;para_id&quot;:&quot;1970.36026&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.36026&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.36022&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.36022&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.36180&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.36154&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:4&quot;},{&quot;para_id&quot;:&quot;1969.36020&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:4&quot;}]" data-refcode-old="KJV — Isaiah 1:4"><strong>4</strong> Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the LORD, they have provoked the Holy One of Israel unto anger, they are gone away backward.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36024" data-para-id="196
+5.36024" data-refcode="KJV — Isaiah 1:5">
+<span class="egw_content" data-refcode="196
+5.36024" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35852&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.36164&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:5&quot;},{&quot;para_id&quot;:&quot;11139.36024&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;11140.36150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.36024&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.36160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.36024&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.36024&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.36376&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.36024&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.36024&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:5&quot;},{&quot;para_id&quot;:&quot;1970.36028&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.36028&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.36024&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.36024&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.36182&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.36156&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:5&quot;},{&quot;para_id&quot;:&quot;1969.36022&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:5&quot;}]" data-refcode-old="KJV — Isaiah 1:5"><strong>5</strong> Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36026" data-para-id="196
+5.36026" data-refcode="KJV — Isaiah 1:6">
+<span class="egw_content" data-refcode="196
+5.36026" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35854&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.36166&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:6&quot;},{&quot;para_id&quot;:&quot;11139.36026&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;11140.36152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.36026&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.36162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.36026&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.36026&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.36378&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.36026&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.36026&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:6&quot;},{&quot;para_id&quot;:&quot;1970.36030&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.36030&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.36026&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.36026&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.36184&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.36158&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:6&quot;},{&quot;para_id&quot;:&quot;1969.36024&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:6&quot;}]" data-refcode-old="KJV — Isaiah 1:6"><strong>6</strong> From the sole of the foot even unto the head there is no soundness in it; but wounds, and bruises, and putrifying sores: they have not been closed, neither bound up, neither mollified with ointment.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36028" data-para-id="196
+5.36028" data-refcode="KJV — Isaiah 1:7">
+<span class="egw_content" data-refcode="196
+5.36028" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35856&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.36168&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:7&quot;},{&quot;para_id&quot;:&quot;11139.36028&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;11140.36154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.36028&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.36164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.36028&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.36028&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.36380&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.36028&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.36028&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:7&quot;},{&quot;para_id&quot;:&quot;1970.36032&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.36032&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.36028&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.36028&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.36186&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.36160&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:7&quot;},{&quot;para_id&quot;:&quot;1969.36026&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:7&quot;}]" data-refcode-old="KJV — Isaiah 1:7"><strong>7</strong> Your country is desolate, your cities are burned with fire: your land, strangers devour it in your presence, and it is desolate, as overthrown by strangers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36030" data-para-id="196
+5.36030" data-refcode="KJV — Isaiah 1:8">
+<span class="egw_content" data-refcode="196
+5.36030" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35858&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.36170&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:8&quot;},{&quot;para_id&quot;:&quot;11139.36030&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;11140.36156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.36030&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.36166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.36030&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.36030&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.36382&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.36030&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.36030&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:8&quot;},{&quot;para_id&quot;:&quot;1970.36034&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.36034&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.36030&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.36030&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.36188&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.36162&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:8&quot;},{&quot;para_id&quot;:&quot;1969.36028&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:8&quot;}]" data-refcode-old="KJV — Isaiah 1:8"><strong>8</strong> And the daughter of Zion is left as a cottage in a vineyard, as a lodge in a garden of cucumbers, as a besieged city.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36032" data-para-id="196
+5.36032" data-refcode="KJV — Isaiah 1:9">
+<span class="egw_content" data-refcode="196
+5.36032" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35860&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.36172&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:9&quot;},{&quot;para_id&quot;:&quot;11139.36032&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;11140.36158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.36032&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.36168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.36032&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.36032&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.36384&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.36032&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.36032&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:9&quot;},{&quot;para_id&quot;:&quot;1970.36036&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.36036&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.36032&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.36032&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.36190&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.36164&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:9&quot;},{&quot;para_id&quot;:&quot;1969.36030&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:9&quot;}]" data-refcode-old="KJV — Isaiah 1:9"><strong>9</strong> Except the LORD of hosts had left unto us a very small remnant, we should have been as Sodom, and we should have been like unto Gomorrah.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36034" data-para-id="196
+5.36034" data-refcode="KJV — Isaiah 1:10">
+<span class="egw_content" data-refcode="196
+5.36034" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35862&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.36174&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:10&quot;},{&quot;para_id&quot;:&quot;11139.36034&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;11140.36160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.36034&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.36170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.36034&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.36034&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.36386&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.36034&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.36034&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:10&quot;},{&quot;para_id&quot;:&quot;1970.36038&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.36038&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.36034&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.36034&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.36192&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.36166&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:10&quot;},{&quot;para_id&quot;:&quot;1969.36032&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:10&quot;}]" data-refcode-old="KJV — Isaiah 1:10"><strong>10</strong> Hear the word of the LORD, ye rulers of Sodom; give ear unto the law of our God, ye people of Gomorrah.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36036" data-para-id="196
+5.36036" data-refcode="KJV — Isaiah 1:11">
+<span class="egw_content" data-refcode="196
+5.36036" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35864&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.36176&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:11&quot;},{&quot;para_id&quot;:&quot;11139.36036&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;11140.36162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.36036&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.36172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.36036&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.36036&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.36388&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.36036&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.36036&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:11&quot;},{&quot;para_id&quot;:&quot;1970.36040&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.36040&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.36036&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.36036&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.36194&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.36168&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:11&quot;},{&quot;para_id&quot;:&quot;1969.36034&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:11&quot;}]" data-refcode-old="KJV — Isaiah 1:11"><strong>11</strong> To what purpose is the multitude of your sacrifices unto me? saith the LORD: I am full of the burnt offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of lambs, or of he goats.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36038" data-para-id="196
+5.36038" data-refcode="KJV — Isaiah 1:12">
+<span class="egw_content" data-refcode="196
+5.36038" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35866&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.36178&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:12&quot;},{&quot;para_id&quot;:&quot;11139.36038&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;11140.36164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.36038&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.36174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.36038&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.36038&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.36390&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.36038&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.36038&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:12&quot;},{&quot;para_id&quot;:&quot;1970.36042&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.36042&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.36038&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.36038&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.36196&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.36170&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:12&quot;},{&quot;para_id&quot;:&quot;1969.36036&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:12&quot;}]" data-refcode-old="KJV — Isaiah 1:12"><strong>12</strong> When ye come to appear before me, who hath required this at your hand, to tread my courts?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36040" data-para-id="196
+5.36040" data-refcode="KJV — Isaiah 1:13">
+<span class="egw_content" data-refcode="196
+5.36040" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35868&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.36180&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:13&quot;},{&quot;para_id&quot;:&quot;11139.36040&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;11140.36166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.36040&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.36176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.36040&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.36040&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.36392&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.36040&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.36040&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:13&quot;},{&quot;para_id&quot;:&quot;1970.36044&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.36044&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.36040&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.36040&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.36198&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.36172&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:13&quot;},{&quot;para_id&quot;:&quot;1969.36038&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:13&quot;}]" data-refcode-old="KJV — Isaiah 1:13"><strong>13</strong> Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36042" data-para-id="196
+5.36042" data-refcode="KJV — Isaiah 1:14">
+<span class="egw_content" data-refcode="196
+5.36042" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35870&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.36182&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:14&quot;},{&quot;para_id&quot;:&quot;11139.36042&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;11140.36168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.36042&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.36178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.36042&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.36042&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.36394&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.36042&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.36042&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:14&quot;},{&quot;para_id&quot;:&quot;1970.36046&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.36046&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.36042&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.36042&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.36200&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.36174&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:14&quot;},{&quot;para_id&quot;:&quot;1969.36040&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:14&quot;}]" data-refcode-old="KJV — Isaiah 1:14"><strong>14</strong> Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36044" data-para-id="196
+5.36044" data-refcode="KJV — Isaiah 1:15">
+<span class="egw_content" data-refcode="196
+5.36044" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35872&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.36184&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:15&quot;},{&quot;para_id&quot;:&quot;11139.36044&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;11140.36170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.36044&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.36180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.36044&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.36044&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.36396&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.36044&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.36044&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:15&quot;},{&quot;para_id&quot;:&quot;1970.36048&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.36048&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.36044&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.36044&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.36202&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.36176&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:15&quot;},{&quot;para_id&quot;:&quot;1969.36042&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:15&quot;}]" data-refcode-old="KJV — Isaiah 1:15"><strong>15</strong> And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36046" data-para-id="196
+5.36046" data-refcode="KJV — Isaiah 1:16">
+<span class="egw_content" data-refcode="196
+5.36046" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35874&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.36186&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:16&quot;},{&quot;para_id&quot;:&quot;11139.36046&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;11140.36172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.36046&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.36182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.36046&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.36046&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.36398&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.36046&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.36046&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:16&quot;},{&quot;para_id&quot;:&quot;1970.36050&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.36050&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.36046&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.36046&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.36204&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.36178&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:16&quot;},{&quot;para_id&quot;:&quot;1969.36044&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:16&quot;}]" data-refcode-old="KJV — Isaiah 1:16"><strong>16</strong> Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36048" data-para-id="196
+5.36048" data-refcode="KJV — Isaiah 1:17">
+<span class="egw_content" data-refcode="196
+5.36048" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35876&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.36188&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:17&quot;},{&quot;para_id&quot;:&quot;11139.36048&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;11140.36174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.36048&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.36184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.36048&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.36048&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.36400&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.36048&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.36048&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:17&quot;},{&quot;para_id&quot;:&quot;1970.36052&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.36052&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.36048&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.36048&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.36206&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.36180&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:17&quot;},{&quot;para_id&quot;:&quot;1969.36046&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:17&quot;}]" data-refcode-old="KJV — Isaiah 1:17"><strong>17</strong> Learn to do well; seek judgment, relieve the oppressed, judge the fatherless, plead for the widow.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36050" data-para-id="196
+5.36050" data-refcode="KJV — Isaiah 1:18">
+<span class="egw_content" data-refcode="196
+5.36050" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35878&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.36190&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:18&quot;},{&quot;para_id&quot;:&quot;11139.36050&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;11140.36176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.36050&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.36186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.36050&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.36050&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.36402&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.36050&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.36050&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:18&quot;},{&quot;para_id&quot;:&quot;1970.36054&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.36054&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.36050&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.36050&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.36208&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.36182&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:18&quot;},{&quot;para_id&quot;:&quot;1969.36048&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:18&quot;}]" data-refcode-old="KJV — Isaiah 1:18"><strong>18</strong> Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow; though they be red like crimson, they shall be as wool.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36052" data-para-id="196
+5.36052" data-refcode="KJV — Isaiah 1:19">
+<span class="egw_content" data-refcode="196
+5.36052" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35880&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.36192&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:19&quot;},{&quot;para_id&quot;:&quot;11139.36052&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;11140.36178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.36052&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.36188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.36052&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.36052&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.36404&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.36052&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.36052&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:19&quot;},{&quot;para_id&quot;:&quot;1970.36056&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.36056&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.36052&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.36052&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.36210&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.36184&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:19&quot;},{&quot;para_id&quot;:&quot;1969.36050&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:19&quot;}]" data-refcode-old="KJV — Isaiah 1:19"><strong>19</strong> If ye be willing and obedient, ye shall eat the good of the land:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36054" data-para-id="196
+5.36054" data-refcode="KJV — Isaiah 1:20">
+<span class="egw_content" data-refcode="196
+5.36054" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35882&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.36194&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:20&quot;},{&quot;para_id&quot;:&quot;11139.36054&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;11140.36180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.36054&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.36190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.36054&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.36054&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.36406&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.36054&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.36054&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:20&quot;},{&quot;para_id&quot;:&quot;1970.36058&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.36058&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.36054&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.36054&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.36212&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.36186&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:20&quot;},{&quot;para_id&quot;:&quot;1969.36052&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:20&quot;}]" data-refcode-old="KJV — Isaiah 1:20"><strong>20</strong> But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the LORD hath spoken it.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36056" data-para-id="196
+5.36056" data-refcode="KJV — Isaiah 1:21">
+<span class="egw_content" data-refcode="196
+5.36056" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35884&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.36196&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:21&quot;},{&quot;para_id&quot;:&quot;11139.36056&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;11140.36182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.36056&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.36192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.36056&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.36056&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.36408&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.36056&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.36056&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:21&quot;},{&quot;para_id&quot;:&quot;1970.36060&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.36060&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.36056&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.36056&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.36214&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.36188&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:21&quot;},{&quot;para_id&quot;:&quot;1969.36054&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:21&quot;}]" data-refcode-old="KJV — Isaiah 1:21"><strong>21</strong> How is the faithful city become an harlot! it was full of judgment; righteousness lodged in it; but now murderers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36058" data-para-id="196
+5.36058" data-refcode="KJV — Isaiah 1:22">
+<span class="egw_content" data-refcode="196
+5.36058" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35886&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.36198&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:22&quot;},{&quot;para_id&quot;:&quot;11139.36058&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;11140.36184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.36058&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.36194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.36058&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.36058&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.36410&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.36058&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.36058&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:22&quot;},{&quot;para_id&quot;:&quot;1970.36062&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.36062&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.36058&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.36058&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.36216&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.36190&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:22&quot;},{&quot;para_id&quot;:&quot;1969.36056&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:22&quot;}]" data-refcode-old="KJV — Isaiah 1:22"><strong>22</strong> Thy silver is become dross, thy wine mixed with water:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36060" data-para-id="196
+5.36060" data-refcode="KJV — Isaiah 1:23">
+<span class="egw_content" data-refcode="196
+5.36060" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35888&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.36200&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:23&quot;},{&quot;para_id&quot;:&quot;11139.36060&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;11140.36186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.36060&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.36196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.36060&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.36060&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.36412&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.36060&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.36060&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:23&quot;},{&quot;para_id&quot;:&quot;1970.36064&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.36064&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.36060&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.36060&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.36218&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.36192&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:23&quot;},{&quot;para_id&quot;:&quot;1969.36058&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:23&quot;}]" data-refcode-old="KJV — Isaiah 1:23"><strong>23</strong> Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36062" data-para-id="196
+5.36062" data-refcode="KJV — Isaiah 1:24">
+<span class="egw_content" data-refcode="196
+5.36062" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35890&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.36202&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:24&quot;},{&quot;para_id&quot;:&quot;11139.36062&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;11140.36188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.36062&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.36198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.36062&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.36062&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.36414&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.36062&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.36062&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:24&quot;},{&quot;para_id&quot;:&quot;1970.36066&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.36066&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.36062&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.36062&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.36220&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.36194&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:24&quot;},{&quot;para_id&quot;:&quot;1969.36060&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:24&quot;}]" data-refcode-old="KJV — Isaiah 1:24"><strong>24</strong> Therefore saith the Lord, the LORD of hosts, the mighty One of Israel, Ah, I will ease me of mine adversaries, and avenge me of mine enemies:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36064" data-para-id="196
+5.36064" data-refcode="KJV — Isaiah 1:25">
+<span class="egw_content" data-refcode="196
+5.36064" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35892&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.36204&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:25&quot;},{&quot;para_id&quot;:&quot;11139.36064&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;11140.36190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.36064&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.36200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.36064&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.36064&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.36416&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.36064&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.36064&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:25&quot;},{&quot;para_id&quot;:&quot;1970.36068&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.36068&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.36064&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.36064&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.36222&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.36196&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:25&quot;},{&quot;para_id&quot;:&quot;1969.36062&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:25&quot;}]" data-refcode-old="KJV — Isaiah 1:25"><strong>25</strong> And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36066" data-para-id="196
+5.36066" data-refcode="KJV — Isaiah 1:26">
+<span class="egw_content" data-refcode="196
+5.36066" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35894&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.36206&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:26&quot;},{&quot;para_id&quot;:&quot;11139.36066&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;11140.36192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.36066&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.36202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.36066&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.36066&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.36418&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.36066&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.36066&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:26&quot;},{&quot;para_id&quot;:&quot;1970.36070&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.36070&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.36066&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.36066&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.36224&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.36198&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:26&quot;},{&quot;para_id&quot;:&quot;1969.36064&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:26&quot;}]" data-refcode-old="KJV — Isaiah 1:26"><strong>26</strong> And I will restore thy judges as at the first, and thy counsellors as at the beginning: afterward thou shalt be called, The city of righteousness, the faithful city.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36068" data-para-id="196
+5.36068" data-refcode="KJV — Isaiah 1:27">
+<span class="egw_content" data-refcode="196
+5.36068" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35896&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.36208&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:27&quot;},{&quot;para_id&quot;:&quot;11139.36068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;11140.36194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.36068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.36204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.36068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.36068&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.36420&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.36068&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.36068&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:27&quot;},{&quot;para_id&quot;:&quot;1970.36072&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.36072&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.36068&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.36068&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.36226&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.36200&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:27&quot;},{&quot;para_id&quot;:&quot;1969.36066&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:27&quot;}]" data-refcode-old="KJV — Isaiah 1:27"><strong>27</strong> Zion shall be redeemed with judgment, and her converts with righteousness.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36070" data-para-id="196
+5.36070" data-refcode="KJV — Isaiah 1:28">
+<span class="egw_content" data-refcode="196
+5.36070" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35898&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.36210&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:28&quot;},{&quot;para_id&quot;:&quot;11139.36070&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;11140.36196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.36070&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.36206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.36070&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.36070&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.36422&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.36070&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.36070&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:28&quot;},{&quot;para_id&quot;:&quot;1970.36074&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.36074&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.36070&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.36070&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.36228&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.36202&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:28&quot;},{&quot;para_id&quot;:&quot;1969.36068&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:28&quot;}]" data-refcode-old="KJV — Isaiah 1:28"><strong>28</strong> And the destruction of the transgressors and of the sinners shall be together, and they that forsake the LORD shall be consumed.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36072" data-para-id="196
+5.36072" data-refcode="KJV — Isaiah 1:29">
+<span class="egw_content" data-refcode="196
+5.36072" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35900&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:29&quot;},{&quot;para_id&quot;:&quot;196
+7.36212&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:29&quot;},{&quot;para_id&quot;:&quot;11139.36072&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;11140.36198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+2.36072&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+3.36208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+4.36072&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+5.36072&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:29&quot;},{&quot;para_id&quot;:&quot;196
+8.36424&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:29&quot;},{&quot;para_id&quot;:&quot;202
+1.36072&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:29&quot;},{&quot;para_id&quot;:&quot;196
+6.36072&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:29&quot;},{&quot;para_id&quot;:&quot;1970.36076&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:29&quot;},{&quot;para_id&quot;:&quot;197
+1.36076&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:29&quot;},{&quot;para_id&quot;:&quot;1116
+5.36072&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:29&quot;},{&quot;para_id&quot;:&quot;197
+3.36072&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:29&quot;},{&quot;para_id&quot;:&quot;197
+2.36230&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:29&quot;},{&quot;para_id&quot;:&quot;1231
+8.36204&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:29&quot;},{&quot;para_id&quot;:&quot;1969.36070&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:29&quot;}]" data-refcode-old="KJV — Isaiah 1:29"><strong>29</strong> For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36074" data-para-id="196
+5.36074" data-refcode="KJV — Isaiah 1:30">
+<span class="egw_content" data-refcode="196
+5.36074" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35902&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:30&quot;},{&quot;para_id&quot;:&quot;196
+7.36214&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:30&quot;},{&quot;para_id&quot;:&quot;11139.36074&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;11140.36200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+2.36074&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+3.36210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+4.36074&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+5.36074&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:30&quot;},{&quot;para_id&quot;:&quot;196
+8.36426&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:30&quot;},{&quot;para_id&quot;:&quot;202
+1.36074&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:30&quot;},{&quot;para_id&quot;:&quot;196
+6.36074&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:30&quot;},{&quot;para_id&quot;:&quot;1970.36078&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:30&quot;},{&quot;para_id&quot;:&quot;197
+1.36078&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:30&quot;},{&quot;para_id&quot;:&quot;1116
+5.36074&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:30&quot;},{&quot;para_id&quot;:&quot;197
+3.36074&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:30&quot;},{&quot;para_id&quot;:&quot;197
+2.36232&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:30&quot;},{&quot;para_id&quot;:&quot;1231
+8.36206&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:30&quot;},{&quot;para_id&quot;:&quot;1969.36072&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:30&quot;}]" data-refcode-old="KJV — Isaiah 1:30"><strong>30</strong> For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="36076" data-para-id="196
+5.36076" data-refcode="KJV — Isaiah 1:31">
+<span class="egw_content" data-refcode="196
+5.36076" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.35904&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Izaj\u00e1\u0161 1:31&quot;},{&quot;para_id&quot;:&quot;196
+7.36216&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Jesaja 1:31&quot;},{&quot;para_id&quot;:&quot;11139.36076&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;11140.36202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+2.36076&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+3.36212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+4.36076&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+5.36076&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Isaiah 1:31&quot;},{&quot;para_id&quot;:&quot;196
+8.36428&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Isa\u00edas 1:31&quot;},{&quot;para_id&quot;:&quot;202
+1.36076&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 \u00c9sa\u00efe 1:31&quot;},{&quot;para_id&quot;:&quot;196
+6.36076&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Isaia 1:31&quot;},{&quot;para_id&quot;:&quot;1970.36080&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Izajasza 1:31&quot;},{&quot;para_id&quot;:&quot;197
+1.36080&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Isa\u00edas 1:31&quot;},{&quot;para_id&quot;:&quot;1116
+5.36076&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Isaia 1:31&quot;},{&quot;para_id&quot;:&quot;197
+3.36076&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Isaia 1:31&quot;},{&quot;para_id&quot;:&quot;197
+2.36234&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u0441\u0430\u0438\u0438 1:31&quot;},{&quot;para_id&quot;:&quot;1231
+8.36208&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0441\u0430\u0457 1:31&quot;},{&quot;para_id&quot;:&quot;1969.36074&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u4ee5\u8cfd\u4e9e\u66f8 1:31&quot;}]" data-refcode-old="KJV — Isaiah 1:31"><strong>31</strong> And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.35984">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.36077">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="a9f650e4989f68a3d7271ccb-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="a9f650e4989f68a3d7271ccb-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="a9f650e4989f68a3d7271ccb-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="a9f650e4989f68a3d7271ccb-" defer=""></script></body>
+</html>

@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="d930fe1fb9590e54d64460e7-text/javascript">var _isLogged=false;</script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="d930fe1fb9590e54d64460e7-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+8.2%">
+1168/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.62578">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.62672">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="62630" data-para-id="196
+5.62630" data-refcode="KJV — Revelation">
+<span class="egw_content" data-refcode="196
+5.62630" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62353&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed&quot;},{&quot;para_id&quot;:&quot;196
+7.62766&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung&quot;},{&quot;para_id&quot;:&quot;11139.62630&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;11140.62756&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;1114
+2.62630&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;1114
+3.62760&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;1114
+4.62630&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;1114
+5.62630&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation&quot;},{&quot;para_id&quot;:&quot;196
+8.62680&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis&quot;},{&quot;para_id&quot;:&quot;202
+1.62630&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse&quot;},{&quot;para_id&quot;:&quot;196
+6.62632&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse&quot;},{&quot;para_id&quot;:&quot;1970.62622&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie&quot;},{&quot;para_id&quot;:&quot;197
+1.62636&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse&quot;},{&quot;para_id&quot;:&quot;1116
+5.62630&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa&quot;},{&quot;para_id&quot;:&quot;197
+3.62444&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa&quot;},{&quot;para_id&quot;:&quot;197
+2.63133&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435&quot;},{&quot;para_id&quot;:&quot;1231
+8.62759&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f&quot;},{&quot;para_id&quot;:&quot;1969.62626&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55&quot;}]" data-refcode-old="KJV — Revelation">Revelation</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="62631" data-para-id="196
+5.62631" data-refcode="KJV — Revelation 1">
+<span class="egw_content" data-refcode="196
+5.62631" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62354&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1&quot;},{&quot;para_id&quot;:&quot;196
+7.62767&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1&quot;},{&quot;para_id&quot;:&quot;11139.62631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;11140.62757&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.62631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.62761&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.62631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.62631&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1&quot;},{&quot;para_id&quot;:&quot;196
+8.62681&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1&quot;},{&quot;para_id&quot;:&quot;202
+1.62631&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1&quot;},{&quot;para_id&quot;:&quot;196
+6.62633&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1&quot;},{&quot;para_id&quot;:&quot;1970.62623&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1&quot;},{&quot;para_id&quot;:&quot;197
+1.62637&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.62631&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1&quot;},{&quot;para_id&quot;:&quot;197
+3.62445&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1&quot;},{&quot;para_id&quot;:&quot;197
+2.63134&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.62760&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1&quot;},{&quot;para_id&quot;:&quot;1969.62627&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1&quot;}]" data-refcode-old="KJV — Revelation 1">Revelation 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62633" data-para-id="196
+5.62633" data-refcode="KJV — Revelation 1:1">
+<span class="egw_content" data-refcode="196
+5.62633" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62356&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.62769&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:1&quot;},{&quot;para_id&quot;:&quot;11139.62633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;11140.62759&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.62633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.62763&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.62633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.62633&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.62683&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.62633&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.62635&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:1&quot;},{&quot;para_id&quot;:&quot;1970.62625&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.62639&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.62633&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.62447&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.63136&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.62762&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1969.62629&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:1&quot;}]" data-refcode-old="KJV — Revelation 1:1"><strong>1</strong> The Revelation of Jesus Christ, which God gave unto him, to shew unto his servants things which must shortly come to pass; and he sent and signified it by his angel unto his servant John:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62635" data-para-id="196
+5.62635" data-refcode="KJV — Revelation 1:2">
+<span class="egw_content" data-refcode="196
+5.62635" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62358&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.62771&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:2&quot;},{&quot;para_id&quot;:&quot;11139.62635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;11140.62761&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.62635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.62765&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.62635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.62635&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.62685&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.62635&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.62637&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:2&quot;},{&quot;para_id&quot;:&quot;1970.62627&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.62641&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.62635&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.62449&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.63138&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.62764&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1969.62631&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:2&quot;}]" data-refcode-old="KJV — Revelation 1:2"><strong>2</strong> Who bare record of the word of God, and of the testimony of Jesus Christ, and of all things that he saw.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62637" data-para-id="196
+5.62637" data-refcode="KJV — Revelation 1:3">
+<span class="egw_content" data-refcode="196
+5.62637" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62360&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.62773&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:3&quot;},{&quot;para_id&quot;:&quot;11139.62637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;11140.62763&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.62637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.62767&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.62637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.62637&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.62687&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.62637&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.62639&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:3&quot;},{&quot;para_id&quot;:&quot;1970.62629&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.62643&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.62637&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.62451&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.63140&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.62766&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1969.62633&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:3&quot;}]" data-refcode-old="KJV — Revelation 1:3"><strong>3</strong> Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62639" data-para-id="196
+5.62639" data-refcode="KJV — Revelation 1:4">
+<span class="egw_content" data-refcode="196
+5.62639" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62362&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.62775&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:4&quot;},{&quot;para_id&quot;:&quot;11139.62639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;11140.62765&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.62639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.62769&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.62639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.62639&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.62689&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.62639&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.62641&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:4&quot;},{&quot;para_id&quot;:&quot;1970.62631&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.62645&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.62639&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.62453&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.63142&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.62768&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1969.62635&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:4&quot;}]" data-refcode-old="KJV — Revelation 1:4"><strong>4</strong> John to the seven churches which are in Asia: Grace be unto you, and peace, from him which is, and which was, and which is to come; and from the seven Spirits which are before his throne;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62641" data-para-id="196
+5.62641" data-refcode="KJV — Revelation 1:5">
+<span class="egw_content" data-refcode="196
+5.62641" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62364&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.62777&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:5&quot;},{&quot;para_id&quot;:&quot;11139.62641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;11140.62767&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.62641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.62771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.62641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.62641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.62691&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.62641&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.62643&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:5&quot;},{&quot;para_id&quot;:&quot;1970.62633&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.62647&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.62641&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.62455&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.63144&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.62770&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1969.62637&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:5&quot;}]" data-refcode-old="KJV — Revelation 1:5"><strong>5</strong> And from Jesus Christ, who is the faithful witness, and the first begotten of the dead, and the prince of the kings of the earth. Unto him that loved us, and washed us from our sins in his own blood,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62643" data-para-id="196
+5.62643" data-refcode="KJV — Revelation 1:6">
+<span class="egw_content" data-refcode="196
+5.62643" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62366&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.62779&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:6&quot;},{&quot;para_id&quot;:&quot;11139.62643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;11140.62769&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.62643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.62773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.62643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.62643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.62693&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.62643&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.62645&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:6&quot;},{&quot;para_id&quot;:&quot;1970.62635&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.62649&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.62643&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.62457&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.63146&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.62772&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1969.62639&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:6&quot;}]" data-refcode-old="KJV — Revelation 1:6"><strong>6</strong> And hath made us kings and priests unto God and his Father; to him be glory and dominion for ever and ever. Amen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62645" data-para-id="196
+5.62645" data-refcode="KJV — Revelation 1:7">
+<span class="egw_content" data-refcode="196
+5.62645" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62368&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.62781&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:7&quot;},{&quot;para_id&quot;:&quot;11139.62645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;11140.62771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.62645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.62775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.62645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.62645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.62695&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.62645&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.62647&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:7&quot;},{&quot;para_id&quot;:&quot;1970.62637&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.62651&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.62645&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.62459&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.63148&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.62774&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1969.62641&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:7&quot;}]" data-refcode-old="KJV — Revelation 1:7"><strong>7</strong> Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62647" data-para-id="196
+5.62647" data-refcode="KJV — Revelation 1:8">
+<span class="egw_content" data-refcode="196
+5.62647" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62370&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.62783&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:8&quot;},{&quot;para_id&quot;:&quot;11139.62647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;11140.62773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.62647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.62777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.62647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.62647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.62697&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.62647&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.62649&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:8&quot;},{&quot;para_id&quot;:&quot;1970.62639&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.62653&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.62647&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.62461&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.63150&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.62776&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1969.62643&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:8&quot;}]" data-refcode-old="KJV — Revelation 1:8"><strong>8</strong> I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62649" data-para-id="196
+5.62649" data-refcode="KJV — Revelation 1:9">
+<span class="egw_content" data-refcode="196
+5.62649" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62372&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.62785&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:9&quot;},{&quot;para_id&quot;:&quot;11139.62649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;11140.62775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.62649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.62779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.62649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.62649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.62699&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.62649&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.62651&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:9&quot;},{&quot;para_id&quot;:&quot;1970.62641&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.62655&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.62649&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.62463&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.63152&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.62778&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1969.62645&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:9&quot;}]" data-refcode-old="KJV — Revelation 1:9"><strong>9</strong> I John, who also am your brother, and companion in tribulation, and in the kingdom and patience of Jesus Christ, was in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62651" data-para-id="196
+5.62651" data-refcode="KJV — Revelation 1:10">
+<span class="egw_content" data-refcode="196
+5.62651" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62374&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.62787&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:10&quot;},{&quot;para_id&quot;:&quot;11139.62651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;11140.62777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.62651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.62781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.62651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.62651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.62701&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.62651&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.62653&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:10&quot;},{&quot;para_id&quot;:&quot;1970.62643&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.62657&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.62651&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.62465&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.63154&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.62780&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1969.62647&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:10&quot;}]" data-refcode-old="KJV — Revelation 1:10"><strong>10</strong> I was in the Spirit on the Lord's day, and heard behind me a great voice, as of a trumpet,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62653" data-para-id="196
+5.62653" data-refcode="KJV — Revelation 1:11">
+<span class="egw_content" data-refcode="196
+5.62653" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62376&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.62789&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:11&quot;},{&quot;para_id&quot;:&quot;11139.62653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;11140.62779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.62653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.62783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.62653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.62653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.62703&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.62653&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.62655&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:11&quot;},{&quot;para_id&quot;:&quot;1970.62645&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.62659&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.62653&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.62467&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.63156&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.62782&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1969.62649&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:11&quot;}]" data-refcode-old="KJV — Revelation 1:11"><strong>11</strong> Saying, I am Alpha and Omega, the first and the last: and, What thou seest, write in a book, and send it unto the seven churches which are in Asia; unto Ephesus, and unto Smyrna, and unto Pergamos, and unto Thyatira, and unto Sardis, and unto Philadelphia, and unto Laodicea.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62655" data-para-id="196
+5.62655" data-refcode="KJV — Revelation 1:12">
+<span class="egw_content" data-refcode="196
+5.62655" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62378&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.62791&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:12&quot;},{&quot;para_id&quot;:&quot;11139.62655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;11140.62781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.62655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.62785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.62655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.62655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.62705&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.62655&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.62657&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:12&quot;},{&quot;para_id&quot;:&quot;1970.62647&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.62661&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.62655&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.62469&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.63158&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.62784&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1969.62651&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:12&quot;}]" data-refcode-old="KJV — Revelation 1:12"><strong>12</strong> And I turned to see the voice that spake with me. And being turned, I saw seven golden candlesticks;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62657" data-para-id="196
+5.62657" data-refcode="KJV — Revelation 1:13">
+<span class="egw_content" data-refcode="196
+5.62657" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62380&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.62793&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:13&quot;},{&quot;para_id&quot;:&quot;11139.62657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;11140.62783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.62657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.62787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.62657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.62657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.62707&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.62657&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.62659&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:13&quot;},{&quot;para_id&quot;:&quot;1970.62649&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.62663&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.62657&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.62471&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.63160&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.62786&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1969.62653&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:13&quot;}]" data-refcode-old="KJV — Revelation 1:13"><strong>13</strong> And in the midst of the seven candlesticks one like unto the Son of man, clothed with a garment down to the foot, and girt about the paps with a golden girdle.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62659" data-para-id="196
+5.62659" data-refcode="KJV — Revelation 1:14">
+<span class="egw_content" data-refcode="196
+5.62659" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62382&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.62795&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:14&quot;},{&quot;para_id&quot;:&quot;11139.62659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;11140.62785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.62659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.62789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.62659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.62659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.62709&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.62659&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.62661&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:14&quot;},{&quot;para_id&quot;:&quot;1970.62651&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.62665&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.62659&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.62473&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.63162&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.62788&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1969.62655&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:14&quot;}]" data-refcode-old="KJV — Revelation 1:14"><strong>14</strong> His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62661" data-para-id="196
+5.62661" data-refcode="KJV — Revelation 1:15">
+<span class="egw_content" data-refcode="196
+5.62661" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62384&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.62797&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:15&quot;},{&quot;para_id&quot;:&quot;11139.62661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;11140.62787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.62661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.62791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.62661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.62661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.62711&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.62661&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.62663&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:15&quot;},{&quot;para_id&quot;:&quot;1970.62653&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.62667&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.62661&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.62475&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.63164&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.62790&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1969.62657&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:15&quot;}]" data-refcode-old="KJV — Revelation 1:15"><strong>15</strong> And his feet like unto fine brass, as if they burned in a furnace; and his voice as the sound of many waters.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62663" data-para-id="196
+5.62663" data-refcode="KJV — Revelation 1:16">
+<span class="egw_content" data-refcode="196
+5.62663" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62386&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.62799&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:16&quot;},{&quot;para_id&quot;:&quot;11139.62663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;11140.62789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.62663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.62793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.62663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.62663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.62713&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.62663&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.62665&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:16&quot;},{&quot;para_id&quot;:&quot;1970.62655&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.62669&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.62663&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.62477&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.63166&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.62792&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1969.62659&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:16&quot;}]" data-refcode-old="KJV — Revelation 1:16"><strong>16</strong> And he had in his right hand seven stars: and out of his mouth went a sharp twoedged sword: and his countenance was as the sun shineth in his strength.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62665" data-para-id="196
+5.62665" data-refcode="KJV — Revelation 1:17">
+<span class="egw_content" data-refcode="196
+5.62665" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62388&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.62801&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:17&quot;},{&quot;para_id&quot;:&quot;11139.62665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;11140.62791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.62665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.62795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.62665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.62665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.62715&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.62665&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.62667&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:17&quot;},{&quot;para_id&quot;:&quot;1970.62657&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.62671&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.62665&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.62479&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.63168&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.62794&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1969.62661&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:17&quot;}]" data-refcode-old="KJV — Revelation 1:17"><strong>17</strong> And when I saw him, I fell at his feet as dead. And he laid his right hand upon me, saying unto me, Fear not; I am the first and the last:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62667" data-para-id="196
+5.62667" data-refcode="KJV — Revelation 1:18">
+<span class="egw_content" data-refcode="196
+5.62667" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62390&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.62803&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:18&quot;},{&quot;para_id&quot;:&quot;11139.62667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;11140.62793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.62667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.62797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.62667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.62667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.62717&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.62667&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.62669&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:18&quot;},{&quot;para_id&quot;:&quot;1970.62659&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.62673&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.62667&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.62481&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.63170&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.62796&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1969.62663&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:18&quot;}]" data-refcode-old="KJV — Revelation 1:18"><strong>18</strong> I am he that liveth, and was dead; and, behold, I am alive for evermore, Amen; and have the keys of hell and of death.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62669" data-para-id="196
+5.62669" data-refcode="KJV — Revelation 1:19">
+<span class="egw_content" data-refcode="196
+5.62669" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62392&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.62805&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:19&quot;},{&quot;para_id&quot;:&quot;11139.62669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;11140.62795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.62669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.62799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.62669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.62669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.62719&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.62669&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.62671&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:19&quot;},{&quot;para_id&quot;:&quot;1970.62661&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.62675&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.62669&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.62483&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.63172&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.62798&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1969.62665&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:19&quot;}]" data-refcode-old="KJV — Revelation 1:19"><strong>19</strong> Write the things which thou hast seen, and the things which are, and the things which shall be hereafter;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62671" data-para-id="196
+5.62671" data-refcode="KJV — Revelation 1:20">
+<span class="egw_content" data-refcode="196
+5.62671" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62394&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zjeven\u00ed 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.62807&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Offenbarung 1:20&quot;},{&quot;para_id&quot;:&quot;11139.62671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;11140.62797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.62671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.62801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.62671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.62671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Revelation 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.62721&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Apocalipsis 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.62671&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Apocalypse 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.62673&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Apocalisse 1:20&quot;},{&quot;para_id&quot;:&quot;1970.62663&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Objawienie 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.62677&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Apocalipse 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.62671&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Apocalipsa 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.62485&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Apocalipsa 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.63174&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041e\u0442\u043a\u0440\u043e\u0432\u0435\u043d\u0438\u0435 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.62800&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041e\u0431&amp;apos;\u044f\u0432\u043b\u0435\u043d\u043d\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1969.62667&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u542f\u793a\u5f55 1:20&quot;}]" data-refcode-old="KJV — Revelation 1:20"><strong>20</strong> The mystery of the seven stars which thou sawest in my right hand, and the seven golden candlesticks. The seven stars are the angels of the seven churches: and the seven candlesticks which thou sawest are the seven churches.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.62578">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.62672">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="d930fe1fb9590e54d64460e7-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="d930fe1fb9590e54d64460e7-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="d930fe1fb9590e54d64460e7-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="d930fe1fb9590e54d64460e7-" defer=""></script></body>
+</html>

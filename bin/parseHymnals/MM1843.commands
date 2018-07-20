@@ -1,0 +1,14 @@
+wget -nc -r -np https://m.egwwritings.org/en/book/939.2
+find ./ -type f -exec sed -i 's|<br />|\n|g' {} \;
+find ./ -type f -exec sed -i "s|&rsquo;|'|g" {} \;
+find ./ -type f -exec sed -i "s|1\.|\n1\.|g" {} \;
+find ./ -type f -exec sed -i "s|2\.|\n2\.|g" {} \;
+find ./ -type f -exec sed -i "s|3\.|\n3\.|g" {} \;
+find ./ -type f -exec sed -i "s|4\.|\n4\.|g" {} \;
+find ./ -type f -exec sed -i "s|5\.|\n5\.|g" {} \;
+find ./ -type f -exec sed -i "s|6\.|\n6\.|g" {} \;
+find ./ -type f -exec sed -i "s|7\.|\n7\.|g" {} \;
+find ./ -type f -exec sed -i "s|8\.|\n8\.|g" {} \;
+
+
+find ./ -type f -exec sed -i "s|\(.*\)|g" {} \;

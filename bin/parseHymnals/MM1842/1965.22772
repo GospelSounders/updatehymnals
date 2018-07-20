@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="9d6ad4c73581520632f69597-text/javascript">var _isLogged=false;</script>
+<script type="9d6ad4c73581520632f69597-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="9d6ad4c73581520632f69597-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:31%">
+368/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.22711">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.22808">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="22772" data-para-id="196
+5.22772" data-refcode="KJV — 2Chronicles">
+<span class="egw_content" data-refcode="196
+5.22772" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22642&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon&quot;},{&quot;para_id&quot;:&quot;196
+7.22778&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik&quot;},{&quot;para_id&quot;:&quot;11139.22772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;11140.22780&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;1114
+2.22772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;1114
+3.22776&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;1114
+4.22772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;1114
+5.22772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles&quot;},{&quot;para_id&quot;:&quot;196
+8.22802&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas&quot;},{&quot;para_id&quot;:&quot;202
+1.22772&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques&quot;},{&quot;para_id&quot;:&quot;196
+6.22772&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache&quot;},{&quot;para_id&quot;:&quot;1970.22776&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik&quot;},{&quot;para_id&quot;:&quot;197
+1.22776&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas&quot;},{&quot;para_id&quot;:&quot;1116
+5.22772&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici&quot;},{&quot;para_id&quot;:&quot;197
+3.22772&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici&quot;},{&quot;para_id&quot;:&quot;197
+2.22784&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d&quot;},{&quot;para_id&quot;:&quot;1231
+8.22772&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a&quot;},{&quot;para_id&quot;:&quot;1969.22770&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b&quot;}]" data-refcode-old="KJV — 2Chronicles">2 Chronicles</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="22773" data-para-id="196
+5.22773" data-refcode="KJV — 2Chronicles 1">
+<span class="egw_content" data-refcode="196
+5.22773" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22643&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1&quot;},{&quot;para_id&quot;:&quot;196
+7.22779&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1&quot;},{&quot;para_id&quot;:&quot;11139.22773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;11140.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.22773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.22777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.22773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.22773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1&quot;},{&quot;para_id&quot;:&quot;196
+8.22803&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1&quot;},{&quot;para_id&quot;:&quot;202
+1.22773&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1&quot;},{&quot;para_id&quot;:&quot;196
+6.22773&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1&quot;},{&quot;para_id&quot;:&quot;1970.22777&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1&quot;},{&quot;para_id&quot;:&quot;197
+1.22777&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.22773&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1&quot;},{&quot;para_id&quot;:&quot;197
+3.22773&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1&quot;},{&quot;para_id&quot;:&quot;197
+2.22785&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.22773&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1&quot;},{&quot;para_id&quot;:&quot;1969.22771&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1&quot;}]" data-refcode-old="KJV — 2Chronicles 1">2Chronicles 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22775" data-para-id="196
+5.22775" data-refcode="KJV — 2Chronicles 1:1">
+<span class="egw_content" data-refcode="196
+5.22775" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22645&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.22781&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:1&quot;},{&quot;para_id&quot;:&quot;11139.22775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;11140.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.22775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.22779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.22775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.22775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.22805&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.22775&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.22775&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:1&quot;},{&quot;para_id&quot;:&quot;1970.22779&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.22779&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.22775&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.22775&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.22787&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.22775&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:1&quot;},{&quot;para_id&quot;:&quot;1969.22773&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:1&quot;}]" data-refcode-old="KJV — 2Chronicles 1:1"><strong>1</strong> And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22777" data-para-id="196
+5.22777" data-refcode="KJV — 2Chronicles 1:2">
+<span class="egw_content" data-refcode="196
+5.22777" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22647&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.22783&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:2&quot;},{&quot;para_id&quot;:&quot;11139.22777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;11140.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.22777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.22777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.22777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.22807&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.22777&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.22777&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:2&quot;},{&quot;para_id&quot;:&quot;1970.22781&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.22781&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.22777&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.22777&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.22789&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.22777&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:2&quot;},{&quot;para_id&quot;:&quot;1969.22775&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:2&quot;}]" data-refcode-old="KJV — 2Chronicles 1:2"><strong>2</strong> Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22779" data-para-id="196
+5.22779" data-refcode="KJV — 2Chronicles 1:3">
+<span class="egw_content" data-refcode="196
+5.22779" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22649&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.22785&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:3&quot;},{&quot;para_id&quot;:&quot;11139.22779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;11140.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.22779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.22779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.22779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.22809&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.22779&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.22779&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:3&quot;},{&quot;para_id&quot;:&quot;1970.22783&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.22783&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.22779&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.22779&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.22791&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.22779&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:3&quot;},{&quot;para_id&quot;:&quot;1969.22777&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:3&quot;}]" data-refcode-old="KJV — 2Chronicles 1:3"><strong>3</strong> So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22781" data-para-id="196
+5.22781" data-refcode="KJV — 2Chronicles 1:4">
+<span class="egw_content" data-refcode="196
+5.22781" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22651&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.22787&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:4&quot;},{&quot;para_id&quot;:&quot;11139.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;11140.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.22781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.22811&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.22781&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.22781&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:4&quot;},{&quot;para_id&quot;:&quot;1970.22785&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.22785&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.22781&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.22781&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.22793&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.22781&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:4&quot;},{&quot;para_id&quot;:&quot;1969.22779&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:4&quot;}]" data-refcode-old="KJV — 2Chronicles 1:4"><strong>4</strong> But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22783" data-para-id="196
+5.22783" data-refcode="KJV — 2Chronicles 1:5">
+<span class="egw_content" data-refcode="196
+5.22783" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22653&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.22789&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:5&quot;},{&quot;para_id&quot;:&quot;11139.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;11140.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.22783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.22813&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.22783&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.22783&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:5&quot;},{&quot;para_id&quot;:&quot;1970.22787&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.22787&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.22783&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.22783&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.22795&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.22783&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:5&quot;},{&quot;para_id&quot;:&quot;1969.22781&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:5&quot;}]" data-refcode-old="KJV — 2Chronicles 1:5"><strong>5</strong> Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22785" data-para-id="196
+5.22785" data-refcode="KJV — 2Chronicles 1:6">
+<span class="egw_content" data-refcode="196
+5.22785" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22655&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.22791&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:6&quot;},{&quot;para_id&quot;:&quot;11139.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;11140.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.22785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.22815&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.22785&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.22785&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:6&quot;},{&quot;para_id&quot;:&quot;1970.22789&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.22789&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.22785&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.22785&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.22797&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.22785&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:6&quot;},{&quot;para_id&quot;:&quot;1969.22783&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:6&quot;}]" data-refcode-old="KJV — 2Chronicles 1:6"><strong>6</strong> And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22787" data-para-id="196
+5.22787" data-refcode="KJV — 2Chronicles 1:7">
+<span class="egw_content" data-refcode="196
+5.22787" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22657&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.22793&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:7&quot;},{&quot;para_id&quot;:&quot;11139.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;11140.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.22787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.22817&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.22787&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.22787&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:7&quot;},{&quot;para_id&quot;:&quot;1970.22791&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.22791&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.22787&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.22787&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.22799&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.22787&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:7&quot;},{&quot;para_id&quot;:&quot;1969.22785&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:7&quot;}]" data-refcode-old="KJV — 2Chronicles 1:7"><strong>7</strong> In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22789" data-para-id="196
+5.22789" data-refcode="KJV — 2Chronicles 1:8">
+<span class="egw_content" data-refcode="196
+5.22789" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22659&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.22795&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:8&quot;},{&quot;para_id&quot;:&quot;11139.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;11140.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.22789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.22819&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.22789&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.22789&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:8&quot;},{&quot;para_id&quot;:&quot;1970.22793&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.22793&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.22789&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.22789&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.22801&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.22789&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:8&quot;},{&quot;para_id&quot;:&quot;1969.22787&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:8&quot;}]" data-refcode-old="KJV — 2Chronicles 1:8"><strong>8</strong> And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22791" data-para-id="196
+5.22791" data-refcode="KJV — 2Chronicles 1:9">
+<span class="egw_content" data-refcode="196
+5.22791" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22661&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.22797&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:9&quot;},{&quot;para_id&quot;:&quot;11139.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;11140.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.22791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.22821&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.22791&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.22791&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:9&quot;},{&quot;para_id&quot;:&quot;1970.22795&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.22795&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.22791&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.22791&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.22803&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.22791&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:9&quot;},{&quot;para_id&quot;:&quot;1969.22789&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:9&quot;}]" data-refcode-old="KJV — 2Chronicles 1:9"><strong>9</strong> Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22793" data-para-id="196
+5.22793" data-refcode="KJV — 2Chronicles 1:10">
+<span class="egw_content" data-refcode="196
+5.22793" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22663&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.22799&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:10&quot;},{&quot;para_id&quot;:&quot;11139.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;11140.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.22793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.22823&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.22793&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.22793&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:10&quot;},{&quot;para_id&quot;:&quot;1970.22797&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.22797&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.22793&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.22793&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.22805&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.22793&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:10&quot;},{&quot;para_id&quot;:&quot;1969.22791&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:10&quot;}]" data-refcode-old="KJV — 2Chronicles 1:10"><strong>10</strong> Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, that is so great?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22795" data-para-id="196
+5.22795" data-refcode="KJV — 2Chronicles 1:11">
+<span class="egw_content" data-refcode="196
+5.22795" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22665&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.22801&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:11&quot;},{&quot;para_id&quot;:&quot;11139.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;11140.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.22795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.22825&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.22795&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.22795&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:11&quot;},{&quot;para_id&quot;:&quot;1970.22799&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.22799&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.22795&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.22795&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.22807&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.22795&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:11&quot;},{&quot;para_id&quot;:&quot;1969.22793&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:11&quot;}]" data-refcode-old="KJV — 2Chronicles 1:11"><strong>11</strong> And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22797" data-para-id="196
+5.22797" data-refcode="KJV — 2Chronicles 1:12">
+<span class="egw_content" data-refcode="196
+5.22797" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22667&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.22803&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:12&quot;},{&quot;para_id&quot;:&quot;11139.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;11140.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.22797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.22827&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.22797&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.22797&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:12&quot;},{&quot;para_id&quot;:&quot;1970.22801&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.22801&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.22797&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.22797&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.22809&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.22797&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:12&quot;},{&quot;para_id&quot;:&quot;1969.22795&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:12&quot;}]" data-refcode-old="KJV — 2Chronicles 1:12"><strong>12</strong> Wisdom and knowledge is granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that have been before thee, neither shall there any after thee have the like.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22799" data-para-id="196
+5.22799" data-refcode="KJV — 2Chronicles 1:13">
+<span class="egw_content" data-refcode="196
+5.22799" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22669&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.22805&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:13&quot;},{&quot;para_id&quot;:&quot;11139.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;11140.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.22799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.22829&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.22799&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.22799&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:13&quot;},{&quot;para_id&quot;:&quot;1970.22803&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.22803&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.22799&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.22799&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.22811&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.22799&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:13&quot;},{&quot;para_id&quot;:&quot;1969.22797&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:13&quot;}]" data-refcode-old="KJV — 2Chronicles 1:13"><strong>13</strong> Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22801" data-para-id="196
+5.22801" data-refcode="KJV — 2Chronicles 1:14">
+<span class="egw_content" data-refcode="196
+5.22801" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22671&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.22807&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:14&quot;},{&quot;para_id&quot;:&quot;11139.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;11140.22809&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.22801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.22831&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.22801&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.22801&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:14&quot;},{&quot;para_id&quot;:&quot;1970.22805&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.22805&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.22801&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.22801&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.22813&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.22801&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:14&quot;},{&quot;para_id&quot;:&quot;1969.22799&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:14&quot;}]" data-refcode-old="KJV — 2Chronicles 1:14"><strong>14</strong> And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22803" data-para-id="196
+5.22803" data-refcode="KJV — 2Chronicles 1:15">
+<span class="egw_content" data-refcode="196
+5.22803" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22673&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.22809&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:15&quot;},{&quot;para_id&quot;:&quot;11139.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;11140.22811&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.22803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.22833&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.22803&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.22803&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:15&quot;},{&quot;para_id&quot;:&quot;1970.22807&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.22807&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.22803&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.22803&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.22815&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.22803&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:15&quot;},{&quot;para_id&quot;:&quot;1969.22801&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:15&quot;}]" data-refcode-old="KJV — 2Chronicles 1:15"><strong>15</strong> And the king made silver and gold at Jerusalem as plenteous as stones, and cedar trees made he as the sycomore trees that are in the vale for abundance.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22805" data-para-id="196
+5.22805" data-refcode="KJV — 2Chronicles 1:16">
+<span class="egw_content" data-refcode="196
+5.22805" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22675&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.22811&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:16&quot;},{&quot;para_id&quot;:&quot;11139.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;11140.22813&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.22809&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.22805&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.22835&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.22805&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.22805&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:16&quot;},{&quot;para_id&quot;:&quot;1970.22809&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.22809&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.22805&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.22805&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.22817&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.22805&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:16&quot;},{&quot;para_id&quot;:&quot;1969.22803&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:16&quot;}]" data-refcode-old="KJV — 2Chronicles 1:16"><strong>16</strong> And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="22807" data-para-id="196
+5.22807" data-refcode="KJV — 2Chronicles 1:17">
+<span class="egw_content" data-refcode="196
+5.22807" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.22677&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Paralipomenon 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.22813&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Chronik 1:17&quot;},{&quot;para_id&quot;:&quot;11139.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;11140.22815&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.22811&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.22807&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Chronicles 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.22837&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Cr\u00f3nicas 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.22807&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Chroniques 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.22807&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Cronache 1:17&quot;},{&quot;para_id&quot;:&quot;1970.22811&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Kronik 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.22811&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Cr\u00f4nicas 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.22807&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Cronici 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.22807&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Cronici 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.22819&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0430\u0440\u0430\u043b\u0438\u043f\u043e\u043c\u0435\u043d\u043e\u043d 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.22807&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u0425\u0440\u043e\u043d\u0456\u043a 1:17&quot;},{&quot;para_id&quot;:&quot;1969.22805&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6b77\u4ee3\u5fd7\u4e0b 1:17&quot;}]" data-refcode-old="KJV — 2Chronicles 1:17"><strong>17</strong> And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.22711">Previous</a>
+
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.22808">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="9d6ad4c73581520632f69597-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="9d6ad4c73581520632f69597-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+ <span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="9d6ad4c73581520632f69597-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="9d6ad4c73581520632f69597-" defer=""></script></body>
+</html>

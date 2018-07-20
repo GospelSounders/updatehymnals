@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="fececc35780fca7c9020529b-text/javascript">var _isLogged=false;</script>
+<script type="fececc35780fca7c9020529b-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="fececc35780fca7c9020529b-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:74%">
+880/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45597">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45672">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="45640" data-para-id="196
+5.45640" data-refcode="KJV — Amos">
+<span class="egw_content" data-refcode="196
+5.45640" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45394&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos&quot;},{&quot;para_id&quot;:&quot;196
+7.45779&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;11139.45640&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;11140.45766&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;1114
+2.45640&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;1114
+3.45772&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;1114
+4.45640&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;1114
+5.45640&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;196
+8.45686&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s&quot;},{&quot;para_id&quot;:&quot;202
+1.45640&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;196
+6.45640&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;1970.45640&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa&quot;},{&quot;para_id&quot;:&quot;197
+1.45644&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s&quot;},{&quot;para_id&quot;:&quot;1116
+5.45640&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;197
+3.45640&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos&quot;},{&quot;para_id&quot;:&quot;197
+2.46147&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430&quot;},{&quot;para_id&quot;:&quot;1231
+8.45773&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430&quot;},{&quot;para_id&quot;:&quot;1969.45638&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8&quot;}]" data-refcode-old="KJV — Amos">Amos</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="45641" data-para-id="196
+5.45641" data-refcode="KJV — Amos 1">
+<span class="egw_content" data-refcode="196
+5.45641" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45395&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1&quot;},{&quot;para_id&quot;:&quot;196
+7.45780&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;11139.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;11140.45767&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45641&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;196
+8.45687&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1&quot;},{&quot;para_id&quot;:&quot;202
+1.45641&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;196
+6.45641&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;1970.45641&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1&quot;},{&quot;para_id&quot;:&quot;197
+1.45645&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45641&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;197
+3.45641&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1&quot;},{&quot;para_id&quot;:&quot;197
+2.46148&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45774&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.45639&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1&quot;}]" data-refcode-old="KJV — Amos 1">Amos 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45643" data-para-id="196
+5.45643" data-refcode="KJV — Amos 1:1">
+<span class="egw_content" data-refcode="196
+5.45643" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45397&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.45782&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;11139.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;11140.45769&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.45775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.45643&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.45689&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.45643&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.45643&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;1970.45643&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.45647&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.45643&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.45643&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.46150&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.45776&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.45641&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:1&quot;}]" data-refcode-old="KJV — Amos 1:1"><strong>1</strong> The words of Amos, who was among the herdmen of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah, and in the days of Jeroboam the son of Joash king of Israel, two years before the earthquake.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45645" data-para-id="196
+5.45645" data-refcode="KJV — Amos 1:2">
+<span class="egw_content" data-refcode="196
+5.45645" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45399&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.45784&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;11139.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;11140.45771&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.45777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.45645&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.45691&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.45645&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.45645&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;1970.45645&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.45649&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.45645&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.45645&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.46152&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.45778&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.45643&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:2&quot;}]" data-refcode-old="KJV — Amos 1:2"><strong>2</strong> And he said, The LORD will roar from Zion, and utter his voice from Jerusalem; and the habitations of the shepherds shall mourn, and the top of Carmel shall wither.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45647" data-para-id="196
+5.45647" data-refcode="KJV — Amos 1:3">
+<span class="egw_content" data-refcode="196
+5.45647" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45401&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.45786&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;11139.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;11140.45773&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.45779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.45647&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.45693&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.45647&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.45647&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;1970.45647&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.45651&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.45647&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.45647&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.46154&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.45780&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.45645&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:3&quot;}]" data-refcode-old="KJV — Amos 1:3"><strong>3</strong> Thus saith the LORD; For three transgressions of Damascus, and for four, I will not turn away the punishment thereof; because they have threshed Gilead with threshing instruments of iron:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45649" data-para-id="196
+5.45649" data-refcode="KJV — Amos 1:4">
+<span class="egw_content" data-refcode="196
+5.45649" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45403&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.45788&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;11139.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;11140.45775&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.45781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.45649&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.45695&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.45649&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.45649&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;1970.45649&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.45653&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.45649&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.45649&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.46156&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.45782&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.45647&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:4&quot;}]" data-refcode-old="KJV — Amos 1:4"><strong>4</strong> But I will send a fire into the house of Hazael, which shall devour the palaces of Benhadad.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45651" data-para-id="196
+5.45651" data-refcode="KJV — Amos 1:5">
+<span class="egw_content" data-refcode="196
+5.45651" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45405&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.45790&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;11139.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;11140.45777&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.45783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.45651&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.45697&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.45651&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.45651&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;1970.45651&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.45655&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.45651&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.45651&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.46158&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.45784&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.45649&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:5&quot;}]" data-refcode-old="KJV — Amos 1:5"><strong>5</strong> I will break also the bar of Damascus, and cut off the inhabitant from the plain of Aven, and him that holdeth the sceptre from the house of Eden: and the people of Syria shall go into captivity unto Kir, saith the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45653" data-para-id="196
+5.45653" data-refcode="KJV — Amos 1:6">
+<span class="egw_content" data-refcode="196
+5.45653" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45407&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.45792&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;11139.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;11140.45779&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.45785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.45653&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.45699&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.45653&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.45653&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;1970.45653&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.45657&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.45653&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.45653&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.46160&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.45786&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.45651&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:6&quot;}]" data-refcode-old="KJV — Amos 1:6"><strong>6</strong> Thus saith the LORD; For three transgressions of Gaza, and for four, I will not turn away the punishment thereof; because they carried away captive the whole captivity, to deliver them up to Edom:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45655" data-para-id="196
+5.45655" data-refcode="KJV — Amos 1:7">
+<span class="egw_content" data-refcode="196
+5.45655" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45409&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.45794&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;11139.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;11140.45781&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.45787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.45655&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.45701&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.45655&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.45655&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;1970.45655&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.45659&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.45655&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.45655&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.46162&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.45788&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.45653&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:7&quot;}]" data-refcode-old="KJV — Amos 1:7"><strong>7</strong> But I will send a fire on the wall of Gaza, which shall devour the palaces thereof:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45657" data-para-id="196
+5.45657" data-refcode="KJV — Amos 1:8">
+<span class="egw_content" data-refcode="196
+5.45657" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45411&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.45796&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;11139.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;11140.45783&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.45789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.45657&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.45703&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.45657&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.45657&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;1970.45657&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.45661&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.45657&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.45657&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.46164&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.45790&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.45655&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:8&quot;}]" data-refcode-old="KJV — Amos 1:8"><strong>8</strong> And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon, and I will turn mine hand against Ekron: and the remnant of the Philistines shall perish, saith the Lord GOD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45659" data-para-id="196
+5.45659" data-refcode="KJV — Amos 1:9">
+<span class="egw_content" data-refcode="196
+5.45659" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45413&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.45798&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;11139.45659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;11140.45785&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.45659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.45791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.45659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.45659&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.45705&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.45659&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.45659&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;1970.45659&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.45663&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.45659&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.45659&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.46166&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.45792&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.45657&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:9&quot;}]" data-refcode-old="KJV — Amos 1:9"><strong>9</strong> Thus saith the LORD; For three transgressions of Tyrus, and for four, I will not turn away the punishment thereof; because they delivered up the whole captivity to Edom, and remembered not the brotherly covenant:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45661" data-para-id="196
+5.45661" data-refcode="KJV — Amos 1:10">
+<span class="egw_content" data-refcode="196
+5.45661" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45415&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.45800&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;11139.45661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;11140.45787&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.45661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.45793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.45661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.45661&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.45707&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.45661&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.45661&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;1970.45661&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.45665&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.45661&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.45661&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.46168&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.45794&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.45659&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:10&quot;}]" data-refcode-old="KJV — Amos 1:10"><strong>10</strong> But I will send a fire on the wall of Tyrus, which shall devour the palaces thereof.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45663" data-para-id="196
+5.45663" data-refcode="KJV — Amos 1:11">
+<span class="egw_content" data-refcode="196
+5.45663" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45417&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.45802&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;11139.45663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;11140.45789&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.45663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.45795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.45663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.45663&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.45709&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.45663&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.45663&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;1970.45663&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.45667&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.45663&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.45663&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.46170&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.45796&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.45661&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:11&quot;}]" data-refcode-old="KJV — Amos 1:11"><strong>11</strong> Thus saith the LORD; For three transgressions of Edom, and for four, I will not turn away the punishment thereof; because he did pursue his brother with the sword, and did cast off all pity, and his anger did tear perpetually, and he kept his wrath for ever:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45665" data-para-id="196
+5.45665" data-refcode="KJV — Amos 1:12">
+<span class="egw_content" data-refcode="196
+5.45665" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45419&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.45804&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;11139.45665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;11140.45791&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.45665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.45797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.45665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.45665&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.45711&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.45665&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.45665&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;1970.45665&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.45669&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.45665&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.45665&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.46172&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.45798&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.45663&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:12&quot;}]" data-refcode-old="KJV — Amos 1:12"><strong>12</strong> But I will send a fire upon Teman, which shall devour the palaces of Bozrah.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45667" data-para-id="196
+5.45667" data-refcode="KJV — Amos 1:13">
+<span class="egw_content" data-refcode="196
+5.45667" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45421&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.45806&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;11139.45667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;11140.45793&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.45667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.45799&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.45667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.45667&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.45713&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.45667&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.45667&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;1970.45667&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.45671&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.45667&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.45667&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.46174&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.45800&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.45665&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:13&quot;}]" data-refcode-old="KJV — Amos 1:13"><strong>13</strong> Thus saith the LORD; For three transgressions of the children of Ammon, and for four, I will not turn away the punishment thereof; because they have ripped up the women with child of Gilead, that they might enlarge their border:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45669" data-para-id="196
+5.45669" data-refcode="KJV — Amos 1:14">
+<span class="egw_content" data-refcode="196
+5.45669" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45423&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.45808&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;11139.45669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;11140.45795&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.45669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.45801&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.45669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.45669&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.45715&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.45669&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.45669&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;1970.45669&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.45673&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.45669&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.45669&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.46176&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.45802&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.45667&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:14&quot;}]" data-refcode-old="KJV — Amos 1:14"><strong>14</strong> But I will kindle a fire in the wall of Rabbah, and it shall devour the palaces thereof, with shouting in the day of battle, with a tempest in the day of the whirlwind:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="45671" data-para-id="196
+5.45671" data-refcode="KJV — Amos 1:15">
+<span class="egw_content" data-refcode="196
+5.45671" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.45425&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u00c1mos 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.45810&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;11139.45671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;11140.45797&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.45671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.45803&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.45671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.45671&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.45717&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Am\u00f3s 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.45671&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.45671&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;1970.45671&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Amosa 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.45675&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Am\u00f3s 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.45671&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.45671&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Amos 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.46178&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0410\u043c\u043e\u0441\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.45804&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0410\u043c\u043e\u0441\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1969.45669&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u963f\u6469\u53f8\u66f8 1:15&quot;}]" data-refcode-old="KJV — Amos 1:15"><strong>15</strong> And their king shall go into captivity, he and his princes together, saith the LORD.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.45597">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.45672">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fececc35780fca7c9020529b-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="fececc35780fca7c9020529b-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="fececc35780fca7c9020529b-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="fececc35780fca7c9020529b-" defer=""></script></body>
+</html>

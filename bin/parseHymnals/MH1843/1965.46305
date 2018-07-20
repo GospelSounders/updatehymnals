@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript">var _isLogged=false;</script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="ea2a422efcaaf3054308ca1f-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:7
+5.8%">
+901/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.46264">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.46337">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="46305" data-para-id="196
+5.46305" data-refcode="KJV — Nahum">
+<span class="egw_content" data-refcode="196
+5.46305" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46055&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;196
+7.46444&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;11139.46305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;11140.46431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;1114
+2.46305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;1114
+3.46437&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;1114
+4.46305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;1114
+5.46305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;196
+8.46351&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam&quot;},{&quot;para_id&quot;:&quot;202
+1.46305&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;196
+6.46305&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum&quot;},{&quot;para_id&quot;:&quot;1970.46305&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma&quot;},{&quot;para_id&quot;:&quot;197
+1.46309&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum&quot;},{&quot;para_id&quot;:&quot;1116
+5.46305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum&quot;},{&quot;para_id&quot;:&quot;197
+3.46305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum&quot;},{&quot;para_id&quot;:&quot;197
+2.46812&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430&quot;},{&quot;para_id&quot;:&quot;1231
+8.46438&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430&quot;},{&quot;para_id&quot;:&quot;1969.46303&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8&quot;}]" data-refcode-old="KJV — Nahum">Nahum</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="46306" data-para-id="196
+5.46306" data-refcode="KJV — Nahum 1">
+<span class="egw_content" data-refcode="196
+5.46306" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46056&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;196
+7.46445&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;11139.46306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;11140.46432&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.46306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.46438&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.46306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.46306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;196
+8.46352&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1&quot;},{&quot;para_id&quot;:&quot;202
+1.46306&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;196
+6.46306&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1&quot;},{&quot;para_id&quot;:&quot;1970.46306&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1&quot;},{&quot;para_id&quot;:&quot;197
+1.46310&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.46306&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1&quot;},{&quot;para_id&quot;:&quot;197
+3.46306&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1&quot;},{&quot;para_id&quot;:&quot;197
+2.46813&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.46439&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.46304&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1&quot;}]" data-refcode-old="KJV — Nahum 1">Nahum 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46308" data-para-id="196
+5.46308" data-refcode="KJV — Nahum 1:1">
+<span class="egw_content" data-refcode="196
+5.46308" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46058&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.46447&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;11139.46308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;11140.46434&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.46308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.46440&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.46308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.46308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.46354&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.46308&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.46308&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:1&quot;},{&quot;para_id&quot;:&quot;1970.46308&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.46312&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.46308&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.46308&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.46815&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.46441&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.46306&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:1&quot;}]" data-refcode-old="KJV — Nahum 1:1"><strong>1</strong> The burden of Nineveh. The book of the vision of Nahum the Elkoshite.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46310" data-para-id="196
+5.46310" data-refcode="KJV — Nahum 1:2">
+<span class="egw_content" data-refcode="196
+5.46310" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46060&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.46449&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;11139.46310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;11140.46436&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.46310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.46442&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.46310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.46310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.46356&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.46310&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.46310&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:2&quot;},{&quot;para_id&quot;:&quot;1970.46310&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.46314&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.46310&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.46310&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.46817&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.46443&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.46308&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:2&quot;}]" data-refcode-old="KJV — Nahum 1:2"><strong>2</strong> God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46312" data-para-id="196
+5.46312" data-refcode="KJV — Nahum 1:3">
+<span class="egw_content" data-refcode="196
+5.46312" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46062&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.46451&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;11139.46312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;11140.46438&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.46312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.46444&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.46312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.46312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.46358&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.46312&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.46312&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:3&quot;},{&quot;para_id&quot;:&quot;1970.46312&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.46316&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.46312&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.46312&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.46819&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.46445&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.46310&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:3&quot;}]" data-refcode-old="KJV — Nahum 1:3"><strong>3</strong> The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46314" data-para-id="196
+5.46314" data-refcode="KJV — Nahum 1:4">
+<span class="egw_content" data-refcode="196
+5.46314" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46064&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.46453&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;11139.46314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;11140.46440&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.46314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.46446&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.46314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.46314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.46360&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.46314&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.46314&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:4&quot;},{&quot;para_id&quot;:&quot;1970.46314&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.46318&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.46314&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.46314&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.46821&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.46447&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.46312&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:4&quot;}]" data-refcode-old="KJV — Nahum 1:4"><strong>4</strong> He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46316" data-para-id="196
+5.46316" data-refcode="KJV — Nahum 1:5">
+<span class="egw_content" data-refcode="196
+5.46316" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46066&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.46455&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;11139.46316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;11140.46442&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.46316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.46448&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.46316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.46316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.46362&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.46316&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.46316&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:5&quot;},{&quot;para_id&quot;:&quot;1970.46316&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.46320&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.46316&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.46316&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.46823&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.46449&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.46314&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:5&quot;}]" data-refcode-old="KJV — Nahum 1:5"><strong>5</strong> The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46318" data-para-id="196
+5.46318" data-refcode="KJV — Nahum 1:6">
+<span class="egw_content" data-refcode="196
+5.46318" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46068&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.46457&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;11139.46318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;11140.46444&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.46318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.46450&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.46318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.46318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.46364&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.46318&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.46318&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:6&quot;},{&quot;para_id&quot;:&quot;1970.46318&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.46322&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.46318&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.46318&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.46825&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.46451&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.46316&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:6&quot;}]" data-refcode-old="KJV — Nahum 1:6"><strong>6</strong> Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46320" data-para-id="196
+5.46320" data-refcode="KJV — Nahum 1:7">
+<span class="egw_content" data-refcode="196
+5.46320" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46070&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.46459&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;11139.46320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;11140.46446&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.46320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.46452&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.46320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.46320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.46366&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.46320&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.46320&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:7&quot;},{&quot;para_id&quot;:&quot;1970.46320&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.46324&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.46320&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.46320&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.46827&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.46453&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.46318&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:7&quot;}]" data-refcode-old="KJV — Nahum 1:7"><strong>7</strong> The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46322" data-para-id="196
+5.46322" data-refcode="KJV — Nahum 1:8">
+<span class="egw_content" data-refcode="196
+5.46322" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46072&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.46461&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;11139.46322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;11140.46448&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.46322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.46454&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.46322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.46322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.46368&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.46322&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.46322&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:8&quot;},{&quot;para_id&quot;:&quot;1970.46322&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.46326&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.46322&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.46322&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.46829&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.46455&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.46320&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:8&quot;}]" data-refcode-old="KJV — Nahum 1:8"><strong>8</strong> But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46324" data-para-id="196
+5.46324" data-refcode="KJV — Nahum 1:9">
+<span class="egw_content" data-refcode="196
+5.46324" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46074&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.46463&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;11139.46324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;11140.46450&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.46324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.46456&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.46324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.46324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.46370&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.46324&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.46324&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:9&quot;},{&quot;para_id&quot;:&quot;1970.46324&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.46328&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.46324&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.46324&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.46831&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.46457&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.46322&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:9&quot;}]" data-refcode-old="KJV — Nahum 1:9"><strong>9</strong> What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46326" data-para-id="196
+5.46326" data-refcode="KJV — Nahum 1:10">
+<span class="egw_content" data-refcode="196
+5.46326" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46076&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.46465&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;11139.46326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;11140.46452&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.46326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.46458&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.46326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.46326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.46372&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.46326&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.46326&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:10&quot;},{&quot;para_id&quot;:&quot;1970.46326&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.46330&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.46326&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.46326&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.46833&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.46459&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.46324&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:10&quot;}]" data-refcode-old="KJV — Nahum 1:10"><strong>10</strong> For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46328" data-para-id="196
+5.46328" data-refcode="KJV — Nahum 1:11">
+<span class="egw_content" data-refcode="196
+5.46328" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46078&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.46467&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;11139.46328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;11140.46454&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.46328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.46460&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.46328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.46328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.46374&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.46328&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.46328&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:11&quot;},{&quot;para_id&quot;:&quot;1970.46328&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.46332&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.46328&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.46328&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.46835&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.46461&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.46326&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:11&quot;}]" data-refcode-old="KJV — Nahum 1:11"><strong>11</strong> There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46330" data-para-id="196
+5.46330" data-refcode="KJV — Nahum 1:12">
+<span class="egw_content" data-refcode="196
+5.46330" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46080&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.46469&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;11139.46330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;11140.46456&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.46330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.46462&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.46330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.46330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.46376&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.46330&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.46330&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:12&quot;},{&quot;para_id&quot;:&quot;1970.46330&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.46334&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.46330&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.46330&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.46837&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.46463&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.46328&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:12&quot;}]" data-refcode-old="KJV — Nahum 1:12"><strong>12</strong> Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46332" data-para-id="196
+5.46332" data-refcode="KJV — Nahum 1:13">
+<span class="egw_content" data-refcode="196
+5.46332" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46082&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.46471&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;11139.46332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;11140.46458&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.46332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.46464&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.46332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.46332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.46378&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.46332&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.46332&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:13&quot;},{&quot;para_id&quot;:&quot;1970.46332&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.46336&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.46332&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.46332&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.46839&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.46465&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.46330&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:13&quot;}]" data-refcode-old="KJV — Nahum 1:13"><strong>13</strong> For now will I break his yoke from off thee, and will burst thy bonds in sunder.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46334" data-para-id="196
+5.46334" data-refcode="KJV — Nahum 1:14">
+<span class="egw_content" data-refcode="196
+5.46334" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46084&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.46473&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;11139.46334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;11140.46460&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.46334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.46466&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.46334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.46334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.46380&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.46334&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.46334&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:14&quot;},{&quot;para_id&quot;:&quot;1970.46334&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.46338&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.46334&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.46334&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.46841&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041d\u0430\u0443\u043c\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.46467&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041d\u0430\u0443\u043c\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.46332&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:14&quot;}]" data-refcode-old="KJV — Nahum 1:14"><strong>14</strong> And the LORD hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46336" data-para-id="196
+5.46336" data-refcode="KJV — Nahum 1:15">
+<span class="egw_content" data-refcode="196
+5.46336" data-translate="[{&quot;para_id&quot;:&quot;11139.46336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;11140.46462&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.46336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.46336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.46336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.46382&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Nah\u00fam 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.46336&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.46336&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Nahum 1:15&quot;},{&quot;para_id&quot;:&quot;1970.46336&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Nahuma 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.46340&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Naum 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.46336&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Naum 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.46336&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Naum 1:15&quot;},{&quot;para_id&quot;:&quot;1969.46334&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u90a3\u9d3b\u66f8 1:15&quot;}]" data-refcode-old="KJV — Nahum 1:15"><strong>15</strong> Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.46264">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.46337">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="ea2a422efcaaf3054308ca1f-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="ea2a422efcaaf3054308ca1f-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="ea2a422efcaaf3054308ca1f-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="ea2a422efcaaf3054308ca1f-" defer=""></script></body>
+</html>

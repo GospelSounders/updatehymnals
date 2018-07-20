@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="08f80eb35032815b5de0398c-text/javascript">var _isLogged=false;</script>
+<script type="08f80eb35032815b5de0398c-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="08f80eb35032815b5de0398c-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+5.4%">
+1134/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.61068">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.61150">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="61120" data-para-id="196
+5.61120" data-refcode="KJV — Hebrews">
+<span class="egw_content" data-refcode="196
+5.61120" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60843&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm&quot;},{&quot;para_id&quot;:&quot;196
+7.61254&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er&quot;},{&quot;para_id&quot;:&quot;11139.61120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;11140.61246&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;1114
+2.61120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;1114
+3.61248&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;1114
+4.61120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;1114
+5.61120&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews&quot;},{&quot;para_id&quot;:&quot;196
+8.61170&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos&quot;},{&quot;para_id&quot;:&quot;202
+1.61120&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux&quot;},{&quot;para_id&quot;:&quot;196
+6.61120&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei&quot;},{&quot;para_id&quot;:&quot;1970.61112&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w&quot;},{&quot;para_id&quot;:&quot;197
+1.61124&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus&quot;},{&quot;para_id&quot;:&quot;1116
+5.61120&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei&quot;},{&quot;para_id&quot;:&quot;197
+3.61120&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei&quot;},{&quot;para_id&quot;:&quot;197
+2.61623&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c&quot;},{&quot;para_id&quot;:&quot;1231
+8.61247&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c&quot;},{&quot;para_id&quot;:&quot;1969.61116&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8&quot;}]" data-refcode-old="KJV — Hebrews">Hebrews</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="61121" data-para-id="196
+5.61121" data-refcode="KJV — Hebrews 1">
+<span class="egw_content" data-refcode="196
+5.61121" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60844&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1&quot;},{&quot;para_id&quot;:&quot;196
+7.61255&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1&quot;},{&quot;para_id&quot;:&quot;11139.61121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;11140.61247&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.61121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.61249&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.61121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.61121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1&quot;},{&quot;para_id&quot;:&quot;196
+8.61171&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1&quot;},{&quot;para_id&quot;:&quot;202
+1.61121&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1&quot;},{&quot;para_id&quot;:&quot;196
+6.61121&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1&quot;},{&quot;para_id&quot;:&quot;1970.61113&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1&quot;},{&quot;para_id&quot;:&quot;197
+1.61125&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.61121&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1&quot;},{&quot;para_id&quot;:&quot;197
+3.61121&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1&quot;},{&quot;para_id&quot;:&quot;197
+2.61624&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.61248&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1&quot;},{&quot;para_id&quot;:&quot;1969.61117&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1&quot;}]" data-refcode-old="KJV — Hebrews 1">Hebrews 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61123" data-para-id="196
+5.61123" data-refcode="KJV — Hebrews 1:1">
+<span class="egw_content" data-refcode="196
+5.61123" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60846&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.61257&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:1&quot;},{&quot;para_id&quot;:&quot;11139.61123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;11140.61249&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.61123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.61251&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.61123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.61123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.61173&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.61123&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.61123&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:1&quot;},{&quot;para_id&quot;:&quot;1970.61115&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.61127&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.61123&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.61123&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.61626&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.61250&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1969.61119&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:1&quot;}]" data-refcode-old="KJV — Hebrews 1:1"><strong>1</strong> God, who at sundry times and in divers manners spake in time past unto the fathers by the prophets,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61125" data-para-id="196
+5.61125" data-refcode="KJV — Hebrews 1:2">
+<span class="egw_content" data-refcode="196
+5.61125" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60848&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.61259&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:2&quot;},{&quot;para_id&quot;:&quot;11139.61125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;11140.61251&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.61125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.61253&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.61125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.61125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.61175&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.61125&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.61125&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:2&quot;},{&quot;para_id&quot;:&quot;1970.61117&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.61129&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.61125&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.61125&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.61628&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.61252&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1969.61121&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:2&quot;}]" data-refcode-old="KJV — Hebrews 1:2"><strong>2</strong> Hath in these last days spoken unto us by his Son, whom he hath appointed heir of all things, by whom also he made the worlds;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61127" data-para-id="196
+5.61127" data-refcode="KJV — Hebrews 1:3">
+<span class="egw_content" data-refcode="196
+5.61127" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60850&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.61261&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:3&quot;},{&quot;para_id&quot;:&quot;11139.61127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;11140.61253&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.61127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.61255&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.61127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.61127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.61177&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.61127&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.61127&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:3&quot;},{&quot;para_id&quot;:&quot;1970.61119&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.61131&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.61127&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.61127&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.61630&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.61254&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1969.61123&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:3&quot;}]" data-refcode-old="KJV — Hebrews 1:3"><strong>3</strong> Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61129" data-para-id="196
+5.61129" data-refcode="KJV — Hebrews 1:4">
+<span class="egw_content" data-refcode="196
+5.61129" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60852&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.61263&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:4&quot;},{&quot;para_id&quot;:&quot;11139.61129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;11140.61255&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.61129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.61257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.61129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.61129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.61179&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.61129&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.61129&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:4&quot;},{&quot;para_id&quot;:&quot;1970.61121&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.61133&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.61129&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.61129&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.61632&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.61256&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1969.61125&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:4&quot;}]" data-refcode-old="KJV — Hebrews 1:4"><strong>4</strong> Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61131" data-para-id="196
+5.61131" data-refcode="KJV — Hebrews 1:5">
+<span class="egw_content" data-refcode="196
+5.61131" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60854&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.61265&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:5&quot;},{&quot;para_id&quot;:&quot;11139.61131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;11140.61257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.61131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.61259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.61131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.61131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.61181&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.61131&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.61131&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:5&quot;},{&quot;para_id&quot;:&quot;1970.61123&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.61135&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.61131&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.61131&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.61634&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.61258&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1969.61127&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:5&quot;}]" data-refcode-old="KJV — Hebrews 1:5"><strong>5</strong> For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61133" data-para-id="196
+5.61133" data-refcode="KJV — Hebrews 1:6">
+<span class="egw_content" data-refcode="196
+5.61133" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60856&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.61267&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:6&quot;},{&quot;para_id&quot;:&quot;11139.61133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;11140.61259&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.61133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.61261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.61133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.61133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.61183&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.61133&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.61133&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:6&quot;},{&quot;para_id&quot;:&quot;1970.61125&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.61137&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.61133&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.61133&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.61636&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.61260&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1969.61129&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:6&quot;}]" data-refcode-old="KJV — Hebrews 1:6"><strong>6</strong> And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61135" data-para-id="196
+5.61135" data-refcode="KJV — Hebrews 1:7">
+<span class="egw_content" data-refcode="196
+5.61135" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60858&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.61269&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:7&quot;},{&quot;para_id&quot;:&quot;11139.61135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;11140.61261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.61135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.61263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.61135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.61135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.61185&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.61135&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.61135&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:7&quot;},{&quot;para_id&quot;:&quot;1970.61127&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.61139&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.61135&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.61135&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.61638&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.61262&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1969.61131&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:7&quot;}]" data-refcode-old="KJV — Hebrews 1:7"><strong>7</strong> And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61137" data-para-id="196
+5.61137" data-refcode="KJV — Hebrews 1:8">
+<span class="egw_content" data-refcode="196
+5.61137" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60860&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.61271&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:8&quot;},{&quot;para_id&quot;:&quot;11139.61137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;11140.61263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.61137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.61265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.61137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.61137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.61187&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.61137&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.61137&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:8&quot;},{&quot;para_id&quot;:&quot;1970.61129&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.61141&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.61137&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.61137&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.61640&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.61264&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1969.61133&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:8&quot;}]" data-refcode-old="KJV — Hebrews 1:8"><strong>8</strong> But unto the Son he saith, Thy throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of thy kingdom.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61139" data-para-id="196
+5.61139" data-refcode="KJV — Hebrews 1:9">
+<span class="egw_content" data-refcode="196
+5.61139" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60862&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.61273&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:9&quot;},{&quot;para_id&quot;:&quot;11139.61139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;11140.61265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.61139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.61267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.61139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.61139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.61189&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.61139&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.61139&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:9&quot;},{&quot;para_id&quot;:&quot;1970.61131&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.61143&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.61139&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.61139&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.61642&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.61266&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1969.61135&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:9&quot;}]" data-refcode-old="KJV — Hebrews 1:9"><strong>9</strong> Thou hast loved righteousness, and hated iniquity; therefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61141" data-para-id="196
+5.61141" data-refcode="KJV — Hebrews 1:10">
+<span class="egw_content" data-refcode="196
+5.61141" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60864&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.61275&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:10&quot;},{&quot;para_id&quot;:&quot;11139.61141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;11140.61267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.61141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.61269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.61141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.61141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.61191&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.61141&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.61141&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:10&quot;},{&quot;para_id&quot;:&quot;1970.61133&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.61145&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.61141&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.61141&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.61644&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.61268&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1969.61137&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:10&quot;}]" data-refcode-old="KJV — Hebrews 1:10"><strong>10</strong> And, Thou, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of thine hands:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61143" data-para-id="196
+5.61143" data-refcode="KJV — Hebrews 1:11">
+<span class="egw_content" data-refcode="196
+5.61143" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60866&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.61277&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:11&quot;},{&quot;para_id&quot;:&quot;11139.61143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;11140.61269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.61143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.61271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.61143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.61143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.61193&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.61143&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.61143&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:11&quot;},{&quot;para_id&quot;:&quot;1970.61135&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.61147&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.61143&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.61143&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.61646&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.61270&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1969.61139&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:11&quot;}]" data-refcode-old="KJV — Hebrews 1:11"><strong>11</strong> They shall perish; but thou remainest; and they all shall wax old as doth a garment;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61145" data-para-id="196
+5.61145" data-refcode="KJV — Hebrews 1:12">
+<span class="egw_content" data-refcode="196
+5.61145" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60868&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.61279&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:12&quot;},{&quot;para_id&quot;:&quot;11139.61145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;11140.61271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.61145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.61273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.61145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.61145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.61195&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.61145&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.61145&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:12&quot;},{&quot;para_id&quot;:&quot;1970.61137&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.61149&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.61145&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.61145&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.61648&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.61272&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1969.61141&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:12&quot;}]" data-refcode-old="KJV — Hebrews 1:12"><strong>12</strong> And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61147" data-para-id="196
+5.61147" data-refcode="KJV — Hebrews 1:13">
+<span class="egw_content" data-refcode="196
+5.61147" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60870&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.61281&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:13&quot;},{&quot;para_id&quot;:&quot;11139.61147&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;11140.61273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.61147&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.61275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.61147&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.61147&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.61197&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.61147&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.61147&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:13&quot;},{&quot;para_id&quot;:&quot;1970.61139&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.61151&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.61147&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.61147&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.61650&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.61274&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1969.61143&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:13&quot;}]" data-refcode-old="KJV — Hebrews 1:13"><strong>13</strong> But to which of the angels said he at any time, Sit on my right hand, until I make thine enemies thy footstool?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="61149" data-para-id="196
+5.61149" data-refcode="KJV — Hebrews 1:14">
+<span class="egw_content" data-refcode="196
+5.61149" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.60872&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u017did\u016fm 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.61283&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Hebr\u00e4er 1:14&quot;},{&quot;para_id&quot;:&quot;11139.61149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;11140.61275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.61149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.61277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.61149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.61149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Hebrews 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.61199&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Hebreos 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.61149&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 H\u00e9breux 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.61149&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Ebrei 1:14&quot;},{&quot;para_id&quot;:&quot;1970.61141&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Hebrajczyk\u00f3w 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.61153&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Hebreus 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.61149&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Evrei 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.61149&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Evrei 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.61652&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0415\u0432\u0440\u0435\u044f\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.61276&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0404\u0432\u0440\u0435\u044f\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1969.61145&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5e0c\u4f2f\u4f86\u66f8 1:14&quot;}]" data-refcode-old="KJV — Hebrews 1:14"><strong>14</strong> Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.61068">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.61150">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="08f80eb35032815b5de0398c-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="08f80eb35032815b5de0398c-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+ <div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="08f80eb35032815b5de0398c-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="08f80eb35032815b5de0398c-" defer=""></script></body>
+</html>

@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="5508aac24271dd477eaa5129-text/javascript">var _isLogged=false;</script>
+<script type="5508aac24271dd477eaa5129-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="5508aac24271dd477eaa5129-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:7
+6.7%">
+912/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.46661">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.46752">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="46708" data-para-id="196
+5.46708" data-refcode="KJV — Zechariah">
+<span class="egw_content" data-refcode="196
+5.46708" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46456&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161&quot;},{&quot;para_id&quot;:&quot;196
+7.46847&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja&quot;},{&quot;para_id&quot;:&quot;11139.46708&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;11140.46834&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;1114
+2.46708&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;1114
+3.46840&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;1114
+4.46708&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;1114
+5.46708&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah&quot;},{&quot;para_id&quot;:&quot;196
+8.46754&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas&quot;},{&quot;para_id&quot;:&quot;202
+1.46708&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie&quot;},{&quot;para_id&quot;:&quot;196
+6.46708&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria&quot;},{&quot;para_id&quot;:&quot;1970.46708&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza&quot;},{&quot;para_id&quot;:&quot;197
+1.46712&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias&quot;},{&quot;para_id&quot;:&quot;1116
+5.46708&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia&quot;},{&quot;para_id&quot;:&quot;197
+3.46708&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia&quot;},{&quot;para_id&quot;:&quot;197
+2.47215&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438&quot;},{&quot;para_id&quot;:&quot;1231
+8.46841&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457&quot;},{&quot;para_id&quot;:&quot;1969.46706&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e&quot;}]" data-refcode-old="KJV — Zechariah">Zechariah</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="46709" data-para-id="196
+5.46709" data-refcode="KJV — Zechariah 1">
+<span class="egw_content" data-refcode="196
+5.46709" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46457&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1&quot;},{&quot;para_id&quot;:&quot;196
+7.46848&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1&quot;},{&quot;para_id&quot;:&quot;11139.46709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;11140.46835&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.46709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.46841&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.46709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.46709&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1&quot;},{&quot;para_id&quot;:&quot;196
+8.46881&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1&quot;},{&quot;para_id&quot;:&quot;202
+1.46709&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1&quot;},{&quot;para_id&quot;:&quot;196
+6.46709&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1&quot;},{&quot;para_id&quot;:&quot;1970.46709&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1&quot;},{&quot;para_id&quot;:&quot;197
+1.46713&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.46709&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1&quot;},{&quot;para_id&quot;:&quot;197
+3.46709&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1&quot;},{&quot;para_id&quot;:&quot;197
+2.47216&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.46842&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1&quot;},{&quot;para_id&quot;:&quot;1969.46707&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1&quot;}]" data-refcode-old="KJV — Zechariah 1">Zechariah 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46711" data-para-id="196
+5.46711" data-refcode="KJV — Zechariah 1:1">
+<span class="egw_content" data-refcode="196
+5.46711" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46459&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.46850&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:1&quot;},{&quot;para_id&quot;:&quot;11139.46711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;11140.46837&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.46711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.46843&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.46711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.46711&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.46883&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.46711&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.46711&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:1&quot;},{&quot;para_id&quot;:&quot;1970.46711&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.46715&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.46711&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.46711&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.47218&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.46844&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:1&quot;},{&quot;para_id&quot;:&quot;1969.46709&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:1&quot;}]" data-refcode-old="KJV — Zechariah 1:1"><strong>1</strong> In the eighth month, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46713" data-para-id="196
+5.46713" data-refcode="KJV — Zechariah 1:2">
+<span class="egw_content" data-refcode="196
+5.46713" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46461&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.46852&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:2&quot;},{&quot;para_id&quot;:&quot;11139.46713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;11140.46839&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.46713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.46845&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.46713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.46713&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.46885&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.46713&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.46713&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:2&quot;},{&quot;para_id&quot;:&quot;1970.46713&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.46717&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.46713&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.46713&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.47220&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.46846&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:2&quot;},{&quot;para_id&quot;:&quot;1969.46711&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:2&quot;}]" data-refcode-old="KJV — Zechariah 1:2"><strong>2</strong> The LORD hath been sore displeased with your fathers.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46715" data-para-id="196
+5.46715" data-refcode="KJV — Zechariah 1:3">
+<span class="egw_content" data-refcode="196
+5.46715" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46463&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.46854&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:3&quot;},{&quot;para_id&quot;:&quot;11139.46715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;11140.46841&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.46715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.46847&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.46715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.46715&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.46887&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.46715&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.46715&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:3&quot;},{&quot;para_id&quot;:&quot;1970.46715&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.46719&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.46715&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.46715&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.47222&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.46848&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:3&quot;},{&quot;para_id&quot;:&quot;1969.46713&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:3&quot;}]" data-refcode-old="KJV — Zechariah 1:3"><strong>3</strong> Therefore say thou unto them, Thus saith the LORD of hosts; Turn ye unto me, saith the LORD of hosts, and I will turn unto you, saith the LORD of hosts.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46717" data-para-id="196
+5.46717" data-refcode="KJV — Zechariah 1:4">
+<span class="egw_content" data-refcode="196
+5.46717" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46465&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.46856&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:4&quot;},{&quot;para_id&quot;:&quot;11139.46717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;11140.46843&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.46717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.46849&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.46717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.46717&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.46889&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.46717&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.46717&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:4&quot;},{&quot;para_id&quot;:&quot;1970.46717&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.46721&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.46717&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.46717&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.47224&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.46850&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:4&quot;},{&quot;para_id&quot;:&quot;1969.46715&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:4&quot;}]" data-refcode-old="KJV — Zechariah 1:4"><strong>4</strong> Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the LORD of hosts; Turn ye now from your evil ways, and from your evil doings: but they did not hear, nor hearken unto me, saith the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46719" data-para-id="196
+5.46719" data-refcode="KJV — Zechariah 1:5">
+<span class="egw_content" data-refcode="196
+5.46719" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46467&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.46858&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:5&quot;},{&quot;para_id&quot;:&quot;11139.46719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;11140.46845&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.46719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.46851&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.46719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.46719&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.46891&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.46719&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.46719&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:5&quot;},{&quot;para_id&quot;:&quot;1970.46719&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.46723&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.46719&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.46719&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.47226&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.46852&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:5&quot;},{&quot;para_id&quot;:&quot;1969.46717&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:5&quot;}]" data-refcode-old="KJV — Zechariah 1:5"><strong>5</strong> Your fathers, where are they? and the prophets, do they live for ever?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46721" data-para-id="196
+5.46721" data-refcode="KJV — Zechariah 1:6">
+<span class="egw_content" data-refcode="196
+5.46721" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46469&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.46860&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:6&quot;},{&quot;para_id&quot;:&quot;11139.46721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;11140.46847&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.46721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.46853&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.46721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.46721&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.46893&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.46721&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.46721&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:6&quot;},{&quot;para_id&quot;:&quot;1970.46721&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.46725&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.46721&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.46721&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.47228&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.46854&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:6&quot;},{&quot;para_id&quot;:&quot;1969.46719&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:6&quot;}]" data-refcode-old="KJV — Zechariah 1:6"><strong>6</strong> But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the LORD of hosts thought to do unto us, according to our ways, and according to our doings, so hath he dealt with us.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46723" data-para-id="196
+5.46723" data-refcode="KJV — Zechariah 1:7">
+<span class="egw_content" data-refcode="196
+5.46723" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46471&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.46862&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:7&quot;},{&quot;para_id&quot;:&quot;11139.46723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;11140.46849&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.46723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.46855&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.46723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.46723&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.46895&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.46723&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.46723&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:7&quot;},{&quot;para_id&quot;:&quot;1970.46723&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.46727&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.46723&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.46723&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.47230&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.46856&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:7&quot;},{&quot;para_id&quot;:&quot;1969.46721&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:7&quot;}]" data-refcode-old="KJV — Zechariah 1:7"><strong>7</strong> Upon the four and twentieth day of the eleventh month, which is the month Sebat, in the second year of Darius, came the word of the LORD unto Zechariah, the son of Berechiah, the son of Iddo the prophet, saying,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46725" data-para-id="196
+5.46725" data-refcode="KJV — Zechariah 1:8">
+<span class="egw_content" data-refcode="196
+5.46725" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46473&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.46864&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:8&quot;},{&quot;para_id&quot;:&quot;11139.46725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;11140.46851&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.46725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.46857&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.46725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.46725&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.46897&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.46725&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.46725&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:8&quot;},{&quot;para_id&quot;:&quot;1970.46725&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.46729&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.46725&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.46725&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.47232&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.46858&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:8&quot;},{&quot;para_id&quot;:&quot;1969.46723&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:8&quot;}]" data-refcode-old="KJV — Zechariah 1:8"><strong>8</strong> I saw by night, and behold a man riding upon a red horse, and he stood among the myrtle trees that were in the bottom; and behind him were there red horses, speckled, and white.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46727" data-para-id="196
+5.46727" data-refcode="KJV — Zechariah 1:9">
+<span class="egw_content" data-refcode="196
+5.46727" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46475&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.46866&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:9&quot;},{&quot;para_id&quot;:&quot;11139.46727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;11140.46853&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.46727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.46859&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.46727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.46727&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.46899&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.46727&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.46727&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:9&quot;},{&quot;para_id&quot;:&quot;1970.46727&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.46731&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.46727&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.46727&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.47234&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.46860&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:9&quot;},{&quot;para_id&quot;:&quot;1969.46725&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:9&quot;}]" data-refcode-old="KJV — Zechariah 1:9"><strong>9</strong> Then said I, O my lord, what are these? And the angel that talked with me said unto me, I will shew thee what these be.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46729" data-para-id="196
+5.46729" data-refcode="KJV — Zechariah 1:10">
+<span class="egw_content" data-refcode="196
+5.46729" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46477&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.46868&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:10&quot;},{&quot;para_id&quot;:&quot;11139.46729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;11140.46855&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.46729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.46861&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.46729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.46729&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.46901&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.46729&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.46729&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:10&quot;},{&quot;para_id&quot;:&quot;1970.46729&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.46733&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.46729&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.46729&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.47236&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.46862&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:10&quot;},{&quot;para_id&quot;:&quot;1969.46727&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:10&quot;}]" data-refcode-old="KJV — Zechariah 1:10"><strong>10</strong> And the man that stood among the myrtle trees answered and said, These are they whom the LORD hath sent to walk to and fro through the earth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46731" data-para-id="196
+5.46731" data-refcode="KJV — Zechariah 1:11">
+<span class="egw_content" data-refcode="196
+5.46731" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46479&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.46870&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:11&quot;},{&quot;para_id&quot;:&quot;11139.46731&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;11140.46857&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.46731&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.46863&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.46731&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.46731&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.46903&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.46731&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.46731&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:11&quot;},{&quot;para_id&quot;:&quot;1970.46731&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.46735&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.46731&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.46731&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.47238&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.46864&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:11&quot;},{&quot;para_id&quot;:&quot;1969.46729&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:11&quot;}]" data-refcode-old="KJV — Zechariah 1:11"><strong>11</strong> And they answered the angel of the LORD that stood among the myrtle trees, and said, We have walked to and fro through the earth, and, behold, all the earth sitteth still, and is at rest.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46733" data-para-id="196
+5.46733" data-refcode="KJV — Zechariah 1:12">
+<span class="egw_content" data-refcode="196
+5.46733" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46481&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.46872&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:12&quot;},{&quot;para_id&quot;:&quot;11139.46733&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;11140.46859&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.46733&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.46865&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.46733&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.46733&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.46905&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.46733&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.46733&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:12&quot;},{&quot;para_id&quot;:&quot;1970.46733&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.46737&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.46733&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.46733&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.47240&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.46866&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:12&quot;},{&quot;para_id&quot;:&quot;1969.46731&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:12&quot;}]" data-refcode-old="KJV — Zechariah 1:12"><strong>12</strong> Then the angel of the LORD answered and said, O LORD of hosts, how long wilt thou not have mercy on Jerusalem and on the cities of Judah, against which thou hast had indignation these threescore and ten years?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46735" data-para-id="196
+5.46735" data-refcode="KJV — Zechariah 1:13">
+<span class="egw_content" data-refcode="196
+5.46735" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46483&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.46874&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:13&quot;},{&quot;para_id&quot;:&quot;11139.46735&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;11140.46861&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.46735&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.46867&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.46735&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.46735&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.46907&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.46735&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.46735&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:13&quot;},{&quot;para_id&quot;:&quot;1970.46735&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.46739&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.46735&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.46735&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.47242&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.46868&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:13&quot;},{&quot;para_id&quot;:&quot;1969.46733&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:13&quot;}]" data-refcode-old="KJV — Zechariah 1:13"><strong>13</strong> And the LORD answered the angel that talked with me with good words and comfortable words.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46737" data-para-id="196
+5.46737" data-refcode="KJV — Zechariah 1:14">
+<span class="egw_content" data-refcode="196
+5.46737" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46485&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.46876&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:14&quot;},{&quot;para_id&quot;:&quot;11139.46737&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;11140.46863&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.46737&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.46869&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.46737&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.46737&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.46909&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.46737&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.46737&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:14&quot;},{&quot;para_id&quot;:&quot;1970.46737&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.46741&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.46737&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.46737&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.47244&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.46870&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:14&quot;},{&quot;para_id&quot;:&quot;1969.46735&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:14&quot;}]" data-refcode-old="KJV — Zechariah 1:14"><strong>14</strong> So the angel that communed with me said unto me, Cry thou, saying, Thus saith the LORD of hosts; I am jealous for Jerusalem and for Zion with a great jealousy.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46739" data-para-id="196
+5.46739" data-refcode="KJV — Zechariah 1:15">
+<span class="egw_content" data-refcode="196
+5.46739" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46487&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.46878&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:15&quot;},{&quot;para_id&quot;:&quot;11139.46739&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;11140.46865&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.46739&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.46871&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.46739&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.46739&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.46911&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.46739&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.46739&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:15&quot;},{&quot;para_id&quot;:&quot;1970.46739&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.46743&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.46739&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.46739&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.47246&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.46872&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:15&quot;},{&quot;para_id&quot;:&quot;1969.46737&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:15&quot;}]" data-refcode-old="KJV — Zechariah 1:15"><strong>15</strong> And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46741" data-para-id="196
+5.46741" data-refcode="KJV — Zechariah 1:16">
+<span class="egw_content" data-refcode="196
+5.46741" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46489&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.46880&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:16&quot;},{&quot;para_id&quot;:&quot;11139.46741&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;11140.46867&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.46741&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.46873&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.46741&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.46741&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.46913&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.46741&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.46741&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:16&quot;},{&quot;para_id&quot;:&quot;1970.46741&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.46745&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.46741&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.46741&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.47248&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.46874&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:16&quot;},{&quot;para_id&quot;:&quot;1969.46739&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:16&quot;}]" data-refcode-old="KJV — Zechariah 1:16"><strong>16</strong> Therefore thus saith the LORD; I am returned to Jerusalem with mercies: my house shall be built in it, saith the LORD of hosts, and a line shall be stretched forth upon Jerusalem.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46743" data-para-id="196
+5.46743" data-refcode="KJV — Zechariah 1:17">
+<span class="egw_content" data-refcode="196
+5.46743" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46491&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Zacharj\u00e1\u0161 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.46882&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Sacharja 1:17&quot;},{&quot;para_id&quot;:&quot;11139.46743&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;11140.46869&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.46743&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.46875&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.46743&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.46743&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.46915&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.46743&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.46743&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:17&quot;},{&quot;para_id&quot;:&quot;1970.46743&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.46747&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.46743&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.46743&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.47250&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0417\u0430\u0445\u0430\u0440\u0438\u0438 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.46876&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0417\u0430\u0445\u0430\u0440\u0456\u0457 1:17&quot;},{&quot;para_id&quot;:&quot;1969.46741&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:17&quot;}]" data-refcode-old="KJV — Zechariah 1:17"><strong>17</strong> Cry yet, saying, Thus saith the LORD of hosts; My cities through prosperity shall yet be spread abroad; and the LORD shall yet comfort Zion, and shall yet choose Jerusalem.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46745" data-para-id="196
+5.46745" data-refcode="KJV — Zechariah 1:18">
+<span class="egw_content" data-refcode="196
+5.46745" data-translate="[{&quot;para_id&quot;:&quot;11139.46745&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:18&quot;},{&quot;para_id&quot;:&quot;11140.46871&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.46745&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.46745&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.46745&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.46917&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.46745&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.46745&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:18&quot;},{&quot;para_id&quot;:&quot;1970.46745&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.46749&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.46745&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.46745&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:18&quot;},{&quot;para_id&quot;:&quot;1969.46743&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:18&quot;}]" data-refcode-old="KJV — Zechariah 1:18"><strong>18</strong> Then lifted I up mine eyes, and saw, and behold four horns.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46747" data-para-id="196
+5.46747" data-refcode="KJV — Zechariah 1:19">
+<span class="egw_content" data-refcode="196
+5.46747" data-translate="[{&quot;para_id&quot;:&quot;11139.46747&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:19&quot;},{&quot;para_id&quot;:&quot;11140.46873&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.46747&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.46747&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.46747&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.46919&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.46747&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.46747&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:19&quot;},{&quot;para_id&quot;:&quot;1970.46747&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.46751&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.46747&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.46747&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:19&quot;},{&quot;para_id&quot;:&quot;1969.46745&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:19&quot;}]" data-refcode-old="KJV — Zechariah 1:19"><strong>19</strong> And I said unto the angel that talked with me, What be these? And he answered me, These are the horns which have scattered Judah, Israel, and Jerusalem.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46749" data-para-id="196
+5.46749" data-refcode="KJV — Zechariah 1:20">
+<span class="egw_content" data-refcode="196
+5.46749" data-translate="[{&quot;para_id&quot;:&quot;11139.46749&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:20&quot;},{&quot;para_id&quot;:&quot;11140.46875&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.46749&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.46749&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.46749&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.46921&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.46749&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.46749&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:20&quot;},{&quot;para_id&quot;:&quot;1970.46749&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.46753&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.46749&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.46749&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:20&quot;},{&quot;para_id&quot;:&quot;1969.46747&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:20&quot;}]" data-refcode-old="KJV — Zechariah 1:20"><strong>20</strong> And the LORD shewed me four carpenters.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="46751" data-para-id="196
+5.46751" data-refcode="KJV — Zechariah 1:21">
+<span class="egw_content" data-refcode="196
+5.46751" data-translate="[{&quot;para_id&quot;:&quot;11139.46751&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Zechariah 1:21&quot;},{&quot;para_id&quot;:&quot;11140.46877&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Zechariah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.46751&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Zechariah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.46751&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Zechariah 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.46751&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Zechariah 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.46923&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Zacar\u00edas 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.46751&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Zacharie 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.46751&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Zaccaria 1:21&quot;},{&quot;para_id&quot;:&quot;1970.46751&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Zachariasza 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.46755&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Zacarias 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.46751&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Zaharia 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.46751&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Zaharia 1:21&quot;},{&quot;para_id&quot;:&quot;1969.46749&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u6492\u8fe6\u5229\u4e9e 1:21&quot;}]" data-refcode-old="KJV — Zechariah 1:21"><strong>21</strong> Then said I, What come these to do? And he spake, saying, These are the horns which have scattered Judah, so that no man did lift up his head: but these are come to fray them, to cast out the horns of the Gentiles, which lifted up their horn over the land of Judah to scatter it.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.46661">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.46752">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="5508aac24271dd477eaa5129-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="5508aac24271dd477eaa5129-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="5508aac24271dd477eaa5129-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="5508aac24271dd477eaa5129-" defer=""></script></body>
+</html>

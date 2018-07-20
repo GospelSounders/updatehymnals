@@ -1,0 +1,1346 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="93702b93b02222999dcbc80f-text/javascript">var _isLogged=false;</script>
+<script type="93702b93b02222999dcbc80f-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="93702b93b02222999dcbc80f-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:8
+3.9%">
+998/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.53024">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.53235">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="53131" data-para-id="196
+5.53131" data-refcode="KJV — John">
+<span class="egw_content" data-refcode="196
+5.53131" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52858&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan&quot;},{&quot;para_id&quot;:&quot;196
+7.53269&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes&quot;},{&quot;para_id&quot;:&quot;11139.53131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John&quot;},{&quot;para_id&quot;:&quot;11140.53257&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John&quot;},{&quot;para_id&quot;:&quot;1114
+2.53131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John&quot;},{&quot;para_id&quot;:&quot;1114
+3.53263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John&quot;},{&quot;para_id&quot;:&quot;1114
+4.53131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John&quot;},{&quot;para_id&quot;:&quot;1114
+5.53131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John&quot;},{&quot;para_id&quot;:&quot;196
+8.53177&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan&quot;},{&quot;para_id&quot;:&quot;202
+1.53131&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean&quot;},{&quot;para_id&quot;:&quot;196
+6.53131&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni&quot;},{&quot;para_id&quot;:&quot;1970.53131&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana&quot;},{&quot;para_id&quot;:&quot;197
+1.53135&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o&quot;},{&quot;para_id&quot;:&quot;1116
+5.53131&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan&quot;},{&quot;para_id&quot;:&quot;197
+3.53131&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan&quot;},{&quot;para_id&quot;:&quot;197
+2.53638&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430&quot;},{&quot;para_id&quot;:&quot;1231
+8.53262&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430&quot;},{&quot;para_id&quot;:&quot;1969.53129&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3&quot;}]" data-refcode-old="KJV — John">John</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="53132" data-para-id="196
+5.53132" data-refcode="KJV — John 1">
+<span class="egw_content" data-refcode="196
+5.53132" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52859&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1&quot;},{&quot;para_id&quot;:&quot;196
+7.53270&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1&quot;},{&quot;para_id&quot;:&quot;11139.53132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;11140.53258&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.53132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.53264&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.53132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.53132&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1&quot;},{&quot;para_id&quot;:&quot;196
+8.53178&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1&quot;},{&quot;para_id&quot;:&quot;202
+1.53132&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1&quot;},{&quot;para_id&quot;:&quot;196
+6.53132&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1&quot;},{&quot;para_id&quot;:&quot;1970.53132&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1&quot;},{&quot;para_id&quot;:&quot;197
+1.53136&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.53132&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1&quot;},{&quot;para_id&quot;:&quot;197
+3.53132&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1&quot;},{&quot;para_id&quot;:&quot;197
+2.53639&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.53263&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1&quot;},{&quot;para_id&quot;:&quot;1969.53130&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1&quot;}]" data-refcode-old="KJV — John 1">John 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53134" data-para-id="196
+5.53134" data-refcode="KJV — John 1:1">
+<span class="egw_content" data-refcode="196
+5.53134" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52861&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.53272&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:1&quot;},{&quot;para_id&quot;:&quot;11139.53134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;11140.53260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.53134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.53266&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.53134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.53134&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.53180&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.53134&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.53134&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:1&quot;},{&quot;para_id&quot;:&quot;1970.53134&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.53138&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.53134&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.53134&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.53641&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.53265&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:1&quot;},{&quot;para_id&quot;:&quot;1969.53132&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:1&quot;}]" data-refcode-old="KJV — John 1:1"><strong>1</strong> In the beginning was the Word, and the Word was with God, and the Word was God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53136" data-para-id="196
+5.53136" data-refcode="KJV — John 1:2">
+<span class="egw_content" data-refcode="196
+5.53136" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52863&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.53274&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:2&quot;},{&quot;para_id&quot;:&quot;11139.53136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;11140.53262&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.53136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.53268&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.53136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.53136&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.53182&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.53136&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.53136&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:2&quot;},{&quot;para_id&quot;:&quot;1970.53136&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.53140&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.53136&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.53136&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.53643&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.53267&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:2&quot;},{&quot;para_id&quot;:&quot;1969.53134&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:2&quot;}]" data-refcode-old="KJV — John 1:2"><strong>2</strong> The same was in the beginning with God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53138" data-para-id="196
+5.53138" data-refcode="KJV — John 1:3">
+<span class="egw_content" data-refcode="196
+5.53138" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52865&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.53276&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:3&quot;},{&quot;para_id&quot;:&quot;11139.53138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;11140.53264&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.53138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.53270&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.53138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.53138&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.53184&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.53138&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.53138&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:3&quot;},{&quot;para_id&quot;:&quot;1970.53138&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.53142&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.53138&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.53138&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.53645&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.53269&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:3&quot;},{&quot;para_id&quot;:&quot;1969.53136&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:3&quot;}]" data-refcode-old="KJV — John 1:3"><strong>3</strong> All things were made by him; and without him was not any thing made that was made.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53140" data-para-id="196
+5.53140" data-refcode="KJV — John 1:4">
+<span class="egw_content" data-refcode="196
+5.53140" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52867&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.53278&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:4&quot;},{&quot;para_id&quot;:&quot;11139.53140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;11140.53266&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.53140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.53272&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.53140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.53140&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.53186&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.53140&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.53140&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:4&quot;},{&quot;para_id&quot;:&quot;1970.53140&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.53144&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.53140&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.53140&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.53647&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.53271&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:4&quot;},{&quot;para_id&quot;:&quot;1969.53138&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:4&quot;}]" data-refcode-old="KJV — John 1:4"><strong>4</strong> In him was life; and the life was the light of men.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53142" data-para-id="196
+5.53142" data-refcode="KJV — John 1:5">
+<span class="egw_content" data-refcode="196
+5.53142" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52869&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.53280&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:5&quot;},{&quot;para_id&quot;:&quot;11139.53142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;11140.53268&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.53142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.53274&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.53142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.53142&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.53188&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.53142&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.53142&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:5&quot;},{&quot;para_id&quot;:&quot;1970.53142&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.53146&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.53142&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.53142&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.53649&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.53273&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:5&quot;},{&quot;para_id&quot;:&quot;1969.53140&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:5&quot;}]" data-refcode-old="KJV — John 1:5"><strong>5</strong> And the light shineth in darkness; and the darkness comprehended it not.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53144" data-para-id="196
+5.53144" data-refcode="KJV — John 1:6">
+<span class="egw_content" data-refcode="196
+5.53144" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52871&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.53282&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:6&quot;},{&quot;para_id&quot;:&quot;11139.53144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;11140.53270&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.53144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.53276&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.53144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.53144&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.53190&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.53144&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.53144&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:6&quot;},{&quot;para_id&quot;:&quot;1970.53144&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.53148&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.53144&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.53144&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.53651&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.53275&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:6&quot;},{&quot;para_id&quot;:&quot;1969.53142&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:6&quot;}]" data-refcode-old="KJV — John 1:6"><strong>6</strong> There was a man sent from God, whose name was John.</span>
+ </p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53146" data-para-id="196
+5.53146" data-refcode="KJV — John 1:7">
+<span class="egw_content" data-refcode="196
+5.53146" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52873&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.53284&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:7&quot;},{&quot;para_id&quot;:&quot;11139.53146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;11140.53272&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.53146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.53278&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.53146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.53146&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.53192&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.53146&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.53146&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:7&quot;},{&quot;para_id&quot;:&quot;1970.53146&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.53150&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.53146&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.53146&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.53653&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.53277&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:7&quot;},{&quot;para_id&quot;:&quot;1969.53144&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:7&quot;}]" data-refcode-old="KJV — John 1:7"><strong>7</strong> The same came for a witness, to bear witness of the Light, that all men through him might believe.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53148" data-para-id="196
+5.53148" data-refcode="KJV — John 1:8">
+<span class="egw_content" data-refcode="196
+5.53148" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52875&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.53286&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:8&quot;},{&quot;para_id&quot;:&quot;11139.53148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;11140.53274&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.53148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.53280&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.53148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.53148&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.53194&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.53148&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.53148&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:8&quot;},{&quot;para_id&quot;:&quot;1970.53148&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.53152&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.53148&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.53148&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.53655&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.53279&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:8&quot;},{&quot;para_id&quot;:&quot;1969.53146&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:8&quot;}]" data-refcode-old="KJV — John 1:8"><strong>8</strong> He was not that Light, but was sent to bear witness of that Light.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53150" data-para-id="196
+5.53150" data-refcode="KJV — John 1:9">
+<span class="egw_content" data-refcode="196
+5.53150" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52877&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.53288&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:9&quot;},{&quot;para_id&quot;:&quot;11139.53150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;11140.53276&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.53150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.53282&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.53150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.53150&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.53196&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.53150&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.53150&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:9&quot;},{&quot;para_id&quot;:&quot;1970.53150&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.53154&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.53150&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.53150&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.53657&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.53281&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:9&quot;},{&quot;para_id&quot;:&quot;1969.53148&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:9&quot;}]" data-refcode-old="KJV — John 1:9"><strong>9</strong> That was the true Light, which lighteth every man that cometh into the world.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53152" data-para-id="196
+5.53152" data-refcode="KJV — John 1:10">
+<span class="egw_content" data-refcode="196
+5.53152" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52879&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.53290&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:10&quot;},{&quot;para_id&quot;:&quot;11139.53152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;11140.53278&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.53152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.53284&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.53152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.53152&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.53198&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.53152&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.53152&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:10&quot;},{&quot;para_id&quot;:&quot;1970.53152&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.53156&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.53152&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.53152&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.53659&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.53283&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:10&quot;},{&quot;para_id&quot;:&quot;1969.53150&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:10&quot;}]" data-refcode-old="KJV — John 1:10"><strong>10</strong> He was in the world, and the world was made by him, and the world knew him not.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53154" data-para-id="196
+5.53154" data-refcode="KJV — John 1:11">
+<span class="egw_content" data-refcode="196
+5.53154" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52881&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.53292&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:11&quot;},{&quot;para_id&quot;:&quot;11139.53154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;11140.53280&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.53154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.53286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.53154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.53154&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.53200&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.53154&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.53154&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:11&quot;},{&quot;para_id&quot;:&quot;1970.53154&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.53158&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.53154&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.53154&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.53661&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.53285&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:11&quot;},{&quot;para_id&quot;:&quot;1969.53152&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:11&quot;}]" data-refcode-old="KJV — John 1:11"><strong>11</strong> He came unto his own, and his own received him not.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53156" data-para-id="196
+5.53156" data-refcode="KJV — John 1:12">
+<span class="egw_content" data-refcode="196
+5.53156" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52883&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.53294&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:12&quot;},{&quot;para_id&quot;:&quot;11139.53156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;11140.53282&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.53156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.53288&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.53156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.53156&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.53202&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.53156&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.53156&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:12&quot;},{&quot;para_id&quot;:&quot;1970.53156&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.53160&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.53156&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.53156&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.53663&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.53287&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:12&quot;},{&quot;para_id&quot;:&quot;1969.53154&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:12&quot;}]" data-refcode-old="KJV — John 1:12"><strong>12</strong> But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53158" data-para-id="196
+5.53158" data-refcode="KJV — John 1:13">
+<span class="egw_content" data-refcode="196
+5.53158" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52885&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.53296&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:13&quot;},{&quot;para_id&quot;:&quot;11139.53158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;11140.53284&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.53158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.53290&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.53158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.53158&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.53204&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.53158&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.53158&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:13&quot;},{&quot;para_id&quot;:&quot;1970.53158&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.53162&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.53158&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.53158&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.53665&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.53289&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:13&quot;},{&quot;para_id&quot;:&quot;1969.53156&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:13&quot;}]" data-refcode-old="KJV — John 1:13"><strong>13</strong> Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.</span>
+ </p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53160" data-para-id="196
+5.53160" data-refcode="KJV — John 1:14">
+<span class="egw_content" data-refcode="196
+5.53160" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52887&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.53298&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:14&quot;},{&quot;para_id&quot;:&quot;11139.53160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;11140.53286&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.53160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.53292&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.53160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.53160&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.53206&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.53160&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.53160&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:14&quot;},{&quot;para_id&quot;:&quot;1970.53160&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.53164&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.53160&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.53160&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.53667&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.53291&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:14&quot;},{&quot;para_id&quot;:&quot;1969.53158&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:14&quot;}]" data-refcode-old="KJV — John 1:14"><strong>14</strong> And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53162" data-para-id="196
+5.53162" data-refcode="KJV — John 1:15">
+<span class="egw_content" data-refcode="196
+5.53162" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52889&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.53300&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:15&quot;},{&quot;para_id&quot;:&quot;11139.53162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;11140.53288&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.53162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.53294&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.53162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.53162&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.53208&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.53162&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.53162&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:15&quot;},{&quot;para_id&quot;:&quot;1970.53162&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.53166&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.53162&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.53162&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.53669&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.53293&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:15&quot;},{&quot;para_id&quot;:&quot;1969.53160&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:15&quot;}]" data-refcode-old="KJV — John 1:15"><strong>15</strong> John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53164" data-para-id="196
+5.53164" data-refcode="KJV — John 1:16">
+<span class="egw_content" data-refcode="196
+5.53164" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52891&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.53302&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:16&quot;},{&quot;para_id&quot;:&quot;11139.53164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;11140.53290&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.53164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.53296&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.53164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.53164&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.53210&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.53164&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.53164&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:16&quot;},{&quot;para_id&quot;:&quot;1970.53164&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.53168&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.53164&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.53164&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.53671&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.53295&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:16&quot;},{&quot;para_id&quot;:&quot;1969.53162&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:16&quot;}]" data-refcode-old="KJV — John 1:16"><strong>16</strong> And of his fulness have all we received, and grace for grace.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53166" data-para-id="196
+5.53166" data-refcode="KJV — John 1:17">
+<span class="egw_content" data-refcode="196
+5.53166" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52893&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.53304&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:17&quot;},{&quot;para_id&quot;:&quot;11139.53166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;11140.53292&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.53166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.53298&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.53166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.53166&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.53212&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.53166&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.53166&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:17&quot;},{&quot;para_id&quot;:&quot;1970.53166&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.53170&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.53166&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.53166&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.53673&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.53297&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:17&quot;},{&quot;para_id&quot;:&quot;1969.53164&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:17&quot;}]" data-refcode-old="KJV — John 1:17"><strong>17</strong> For the law was given by Moses, but grace and truth came by Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53168" data-para-id="196
+5.53168" data-refcode="KJV — John 1:18">
+<span class="egw_content" data-refcode="196
+5.53168" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52895&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.53306&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:18&quot;},{&quot;para_id&quot;:&quot;11139.53168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;11140.53294&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.53168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.53300&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.53168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.53168&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.53214&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.53168&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.53168&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:18&quot;},{&quot;para_id&quot;:&quot;1970.53168&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.53172&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.53168&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.53168&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.53675&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.53299&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:18&quot;},{&quot;para_id&quot;:&quot;1969.53166&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:18&quot;}]" data-refcode-old="KJV — John 1:18"><strong>18</strong> No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53170" data-para-id="196
+5.53170" data-refcode="KJV — John 1:19">
+<span class="egw_content" data-refcode="196
+5.53170" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52897&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.53308&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:19&quot;},{&quot;para_id&quot;:&quot;11139.53170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;11140.53296&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.53170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.53302&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.53170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.53170&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.53216&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.53170&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.53170&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:19&quot;},{&quot;para_id&quot;:&quot;1970.53170&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.53174&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.53170&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.53170&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.53677&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.53301&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:19&quot;},{&quot;para_id&quot;:&quot;1969.53168&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:19&quot;}]" data-refcode-old="KJV — John 1:19"><strong>19</strong> And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53172" data-para-id="196
+5.53172" data-refcode="KJV — John 1:20">
+<span class="egw_content" data-refcode="196
+5.53172" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52899&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.53310&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:20&quot;},{&quot;para_id&quot;:&quot;11139.53172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;11140.53298&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.53172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.53304&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.53172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.53172&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.53218&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.53172&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.53172&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:20&quot;},{&quot;para_id&quot;:&quot;1970.53172&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.53176&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.53172&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.53172&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.53679&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.53303&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:20&quot;},{&quot;para_id&quot;:&quot;1969.53170&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:20&quot;}]" data-refcode-old="KJV — John 1:20"><strong>20</strong> And he confessed, and denied not; but confessed, I am not the Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53174" data-para-id="196
+5.53174" data-refcode="KJV — John 1:21">
+<span class="egw_content" data-refcode="196
+5.53174" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52901&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.53312&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:21&quot;},{&quot;para_id&quot;:&quot;11139.53174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;11140.53300&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.53174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.53306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.53174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.53174&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.53220&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.53174&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.53174&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:21&quot;},{&quot;para_id&quot;:&quot;1970.53174&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.53178&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.53174&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.53174&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.53681&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.53305&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:21&quot;},{&quot;para_id&quot;:&quot;1969.53172&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:21&quot;}]" data-refcode-old="KJV — John 1:21"><strong>21</strong> And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53176" data-para-id="196
+5.53176" data-refcode="KJV — John 1:22">
+<span class="egw_content" data-refcode="196
+5.53176" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52903&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.53314&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:22&quot;},{&quot;para_id&quot;:&quot;11139.53176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;11140.53302&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.53176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.53308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.53176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.53176&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.53222&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.53176&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.53176&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:22&quot;},{&quot;para_id&quot;:&quot;1970.53176&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.53180&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.53176&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.53176&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.53683&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.53307&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:22&quot;},{&quot;para_id&quot;:&quot;1969.53174&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:22&quot;}]" data-refcode-old="KJV — John 1:22"><strong>22</strong> Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53178" data-para-id="196
+5.53178" data-refcode="KJV — John 1:23">
+<span class="egw_content" data-refcode="196
+5.53178" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52905&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.53316&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:23&quot;},{&quot;para_id&quot;:&quot;11139.53178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;11140.53304&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.53178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.53310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.53178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.53178&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.53224&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.53178&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.53178&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:23&quot;},{&quot;para_id&quot;:&quot;1970.53178&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.53182&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.53178&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.53178&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.53685&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.53309&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:23&quot;},{&quot;para_id&quot;:&quot;1969.53176&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:23&quot;}]" data-refcode-old="KJV — John 1:23"><strong>23</strong> He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53180" data-para-id="196
+5.53180" data-refcode="KJV — John 1:24">
+<span class="egw_content" data-refcode="196
+5.53180" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52907&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.53318&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:24&quot;},{&quot;para_id&quot;:&quot;11139.53180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;11140.53306&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.53180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.53312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.53180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.53180&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.53226&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.53180&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.53180&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:24&quot;},{&quot;para_id&quot;:&quot;1970.53180&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.53184&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.53180&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.53180&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.53687&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.53311&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:24&quot;},{&quot;para_id&quot;:&quot;1969.53178&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:24&quot;}]" data-refcode-old="KJV — John 1:24"><strong>24</strong> And they which were sent were of the Pharisees.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53182" data-para-id="196
+5.53182" data-refcode="KJV — John 1:25">
+<span class="egw_content" data-refcode="196
+5.53182" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52909&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.53320&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:25&quot;},{&quot;para_id&quot;:&quot;11139.53182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;11140.53308&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.53182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.53314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.53182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.53182&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.53228&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.53182&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.53182&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:25&quot;},{&quot;para_id&quot;:&quot;1970.53182&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.53186&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.53182&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.53182&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.53689&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.53313&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:25&quot;},{&quot;para_id&quot;:&quot;1969.53180&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:25&quot;}]" data-refcode-old="KJV — John 1:25"><strong>25</strong> And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53184" data-para-id="196
+5.53184" data-refcode="KJV — John 1:26">
+<span class="egw_content" data-refcode="196
+5.53184" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52911&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.53322&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:26&quot;},{&quot;para_id&quot;:&quot;11139.53184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;11140.53310&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.53184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.53316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.53184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.53184&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.53230&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.53184&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.53184&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:26&quot;},{&quot;para_id&quot;:&quot;1970.53184&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.53188&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.53184&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.53184&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.53691&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.53315&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:26&quot;},{&quot;para_id&quot;:&quot;1969.53182&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:26&quot;}]" data-refcode-old="KJV — John 1:26"><strong>26</strong> John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53186" data-para-id="196
+5.53186" data-refcode="KJV — John 1:27">
+<span class="egw_content" data-refcode="196
+5.53186" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52913&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.53324&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:27&quot;},{&quot;para_id&quot;:&quot;11139.53186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;11140.53312&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.53186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.53318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.53186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.53186&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.53232&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.53186&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.53186&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:27&quot;},{&quot;para_id&quot;:&quot;1970.53186&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.53190&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.53186&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.53186&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.53693&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.53317&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:27&quot;},{&quot;para_id&quot;:&quot;1969.53184&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:27&quot;}]" data-refcode-old="KJV — John 1:27"><strong>27</strong> He it is, who coming after me is preferred before me, whose shoe's latchet I am not worthy to unloose.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53188" data-para-id="196
+5.53188" data-refcode="KJV — John 1:28">
+<span class="egw_content" data-refcode="196
+5.53188" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52915&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.53326&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:28&quot;},{&quot;para_id&quot;:&quot;11139.53188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;11140.53314&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.53188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.53320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.53188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.53188&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.53234&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.53188&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.53188&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:28&quot;},{&quot;para_id&quot;:&quot;1970.53188&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.53192&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.53188&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.53188&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.53695&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.53319&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:28&quot;},{&quot;para_id&quot;:&quot;1969.53186&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:28&quot;}]" data-refcode-old="KJV — John 1:28"><strong>28</strong> These things were done in Bethabara beyond Jordan, where John was baptizing.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53190" data-para-id="196
+5.53190" data-refcode="KJV — John 1:29">
+<span class="egw_content" data-refcode="196
+5.53190" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52917&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:29&quot;},{&quot;para_id&quot;:&quot;196
+7.53328&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:29&quot;},{&quot;para_id&quot;:&quot;11139.53190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;11140.53316&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+2.53190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+3.53322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+4.53190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+5.53190&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:29&quot;},{&quot;para_id&quot;:&quot;196
+8.53236&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:29&quot;},{&quot;para_id&quot;:&quot;202
+1.53190&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:29&quot;},{&quot;para_id&quot;:&quot;196
+6.53190&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:29&quot;},{&quot;para_id&quot;:&quot;1970.53190&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:29&quot;},{&quot;para_id&quot;:&quot;197
+1.53194&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:29&quot;},{&quot;para_id&quot;:&quot;1116
+5.53190&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:29&quot;},{&quot;para_id&quot;:&quot;197
+3.53190&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:29&quot;},{&quot;para_id&quot;:&quot;197
+2.53697&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:29&quot;},{&quot;para_id&quot;:&quot;1231
+8.53321&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:29&quot;},{&quot;para_id&quot;:&quot;1969.53188&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:29&quot;}]" data-refcode-old="KJV — John 1:29"><strong>29</strong> The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53192" data-para-id="196
+5.53192" data-refcode="KJV — John 1:30">
+<span class="egw_content" data-refcode="196
+5.53192" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52919&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:30&quot;},{&quot;para_id&quot;:&quot;196
+7.53330&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:30&quot;},{&quot;para_id&quot;:&quot;11139.53192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;11140.53318&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+2.53192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+3.53324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+4.53192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+5.53192&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:30&quot;},{&quot;para_id&quot;:&quot;196
+8.53238&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:30&quot;},{&quot;para_id&quot;:&quot;202
+1.53192&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:30&quot;},{&quot;para_id&quot;:&quot;196
+6.53192&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:30&quot;},{&quot;para_id&quot;:&quot;1970.53192&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:30&quot;},{&quot;para_id&quot;:&quot;197
+1.53196&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:30&quot;},{&quot;para_id&quot;:&quot;1116
+5.53192&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:30&quot;},{&quot;para_id&quot;:&quot;197
+3.53192&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:30&quot;},{&quot;para_id&quot;:&quot;197
+2.53699&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:30&quot;},{&quot;para_id&quot;:&quot;1231
+8.53323&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:30&quot;},{&quot;para_id&quot;:&quot;1969.53190&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:30&quot;}]" data-refcode-old="KJV — John 1:30"><strong>30</strong> This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53194" data-para-id="196
+5.53194" data-refcode="KJV — John 1:31">
+<span class="egw_content" data-refcode="196
+5.53194" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52921&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:31&quot;},{&quot;para_id&quot;:&quot;196
+7.53332&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:31&quot;},{&quot;para_id&quot;:&quot;11139.53194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;11140.53320&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+2.53194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+3.53326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+4.53194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+5.53194&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:31&quot;},{&quot;para_id&quot;:&quot;196
+8.53240&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:31&quot;},{&quot;para_id&quot;:&quot;202
+1.53194&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:31&quot;},{&quot;para_id&quot;:&quot;196
+6.53194&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:31&quot;},{&quot;para_id&quot;:&quot;1970.53194&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:31&quot;},{&quot;para_id&quot;:&quot;197
+1.53198&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:31&quot;},{&quot;para_id&quot;:&quot;1116
+5.53194&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:31&quot;},{&quot;para_id&quot;:&quot;197
+3.53194&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:31&quot;},{&quot;para_id&quot;:&quot;197
+2.53701&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:31&quot;},{&quot;para_id&quot;:&quot;1231
+8.53325&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:31&quot;},{&quot;para_id&quot;:&quot;1969.53192&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:31&quot;}]" data-refcode-old="KJV — John 1:31"><strong>31</strong> And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53196" data-para-id="196
+5.53196" data-refcode="KJV — John 1:32">
+<span class="egw_content" data-refcode="196
+5.53196" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52923&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:32&quot;},{&quot;para_id&quot;:&quot;196
+7.53334&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:32&quot;},{&quot;para_id&quot;:&quot;11139.53196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;11140.53322&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+2.53196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+3.53328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+4.53196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+5.53196&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:32&quot;},{&quot;para_id&quot;:&quot;196
+8.53242&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:32&quot;},{&quot;para_id&quot;:&quot;202
+1.53196&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:32&quot;},{&quot;para_id&quot;:&quot;196
+6.53196&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:32&quot;},{&quot;para_id&quot;:&quot;1970.53196&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:32&quot;},{&quot;para_id&quot;:&quot;197
+1.53200&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:32&quot;},{&quot;para_id&quot;:&quot;1116
+5.53196&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:32&quot;},{&quot;para_id&quot;:&quot;197
+3.53196&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:32&quot;},{&quot;para_id&quot;:&quot;197
+2.53703&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:32&quot;},{&quot;para_id&quot;:&quot;1231
+8.53327&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:32&quot;},{&quot;para_id&quot;:&quot;1969.53194&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:32&quot;}]" data-refcode-old="KJV — John 1:32"><strong>32</strong> And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53198" data-para-id="196
+5.53198" data-refcode="KJV — John 1:33">
+<span class="egw_content" data-refcode="196
+5.53198" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52925&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:33&quot;},{&quot;para_id&quot;:&quot;196
+7.53336&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:33&quot;},{&quot;para_id&quot;:&quot;11139.53198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;11140.53324&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;1114
+2.53198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;1114
+3.53330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;1114
+4.53198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;1114
+5.53198&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:33&quot;},{&quot;para_id&quot;:&quot;196
+8.53244&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:33&quot;},{&quot;para_id&quot;:&quot;202
+1.53198&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:33&quot;},{&quot;para_id&quot;:&quot;196
+6.53198&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:33&quot;},{&quot;para_id&quot;:&quot;1970.53198&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:33&quot;},{&quot;para_id&quot;:&quot;197
+1.53202&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:33&quot;},{&quot;para_id&quot;:&quot;1116
+5.53198&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:33&quot;},{&quot;para_id&quot;:&quot;197
+3.53198&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:33&quot;},{&quot;para_id&quot;:&quot;197
+2.53705&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:33&quot;},{&quot;para_id&quot;:&quot;1231
+8.53329&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:33&quot;},{&quot;para_id&quot;:&quot;1969.53196&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:33&quot;}]" data-refcode-old="KJV — John 1:33"><strong>33</strong> And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53200" data-para-id="196
+5.53200" data-refcode="KJV — John 1:34">
+<span class="egw_content" data-refcode="196
+5.53200" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52927&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:34&quot;},{&quot;para_id&quot;:&quot;196
+7.53338&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:34&quot;},{&quot;para_id&quot;:&quot;11139.53200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;11140.53326&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;1114
+2.53200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;1114
+3.53332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;1114
+4.53200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;1114
+5.53200&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:34&quot;},{&quot;para_id&quot;:&quot;196
+8.53246&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:34&quot;},{&quot;para_id&quot;:&quot;202
+1.53200&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:34&quot;},{&quot;para_id&quot;:&quot;196
+6.53200&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:34&quot;},{&quot;para_id&quot;:&quot;1970.53200&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:34&quot;},{&quot;para_id&quot;:&quot;197
+1.53204&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:34&quot;},{&quot;para_id&quot;:&quot;1116
+5.53200&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:34&quot;},{&quot;para_id&quot;:&quot;197
+3.53200&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:34&quot;},{&quot;para_id&quot;:&quot;197
+2.53707&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:34&quot;},{&quot;para_id&quot;:&quot;1231
+8.53331&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:34&quot;},{&quot;para_id&quot;:&quot;1969.53198&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:34&quot;}]" data-refcode-old="KJV — John 1:34"><strong>34</strong> And I saw, and bare record that this is the Son of God.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53202" data-para-id="196
+5.53202" data-refcode="KJV — John 1:35">
+<span class="egw_content" data-refcode="196
+5.53202" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52929&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:35&quot;},{&quot;para_id&quot;:&quot;196
+7.53340&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:35&quot;},{&quot;para_id&quot;:&quot;11139.53202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;11140.53328&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;1114
+2.53202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;1114
+3.53334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;1114
+4.53202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;1114
+5.53202&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:35&quot;},{&quot;para_id&quot;:&quot;196
+8.53248&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:35&quot;},{&quot;para_id&quot;:&quot;202
+1.53202&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:35&quot;},{&quot;para_id&quot;:&quot;196
+6.53202&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:35&quot;},{&quot;para_id&quot;:&quot;1970.53202&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:35&quot;},{&quot;para_id&quot;:&quot;197
+1.53206&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:35&quot;},{&quot;para_id&quot;:&quot;1116
+5.53202&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:35&quot;},{&quot;para_id&quot;:&quot;197
+3.53202&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:35&quot;},{&quot;para_id&quot;:&quot;197
+2.53709&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:35&quot;},{&quot;para_id&quot;:&quot;1231
+8.53333&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:35&quot;},{&quot;para_id&quot;:&quot;1969.53200&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:35&quot;}]" data-refcode-old="KJV — John 1:35"><strong>35</strong> Again the next day after John stood, and two of his disciples;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53204" data-para-id="196
+5.53204" data-refcode="KJV — John 1:36">
+<span class="egw_content" data-refcode="196
+5.53204" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52931&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:36&quot;},{&quot;para_id&quot;:&quot;196
+7.53342&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:36&quot;},{&quot;para_id&quot;:&quot;11139.53204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;11140.53330&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;1114
+2.53204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;1114
+3.53336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;1114
+4.53204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;1114
+5.53204&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:36&quot;},{&quot;para_id&quot;:&quot;196
+8.53250&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:36&quot;},{&quot;para_id&quot;:&quot;202
+1.53204&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:36&quot;},{&quot;para_id&quot;:&quot;196
+6.53204&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:36&quot;},{&quot;para_id&quot;:&quot;1970.53204&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:36&quot;},{&quot;para_id&quot;:&quot;197
+1.53208&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:36&quot;},{&quot;para_id&quot;:&quot;1116
+5.53204&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:36&quot;},{&quot;para_id&quot;:&quot;197
+3.53204&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:36&quot;},{&quot;para_id&quot;:&quot;197
+2.53711&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:36&quot;},{&quot;para_id&quot;:&quot;1231
+8.53335&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:36&quot;},{&quot;para_id&quot;:&quot;1969.53202&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:36&quot;}]" data-refcode-old="KJV — John 1:36"><strong>36</strong> And looking upon Jesus as he walked, he saith, Behold the Lamb of God!</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53206" data-para-id="196
+5.53206" data-refcode="KJV — John 1:37">
+<span class="egw_content" data-refcode="196
+5.53206" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52933&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:37&quot;},{&quot;para_id&quot;:&quot;196
+7.53344&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:37&quot;},{&quot;para_id&quot;:&quot;11139.53206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;11140.53332&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;1114
+2.53206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;1114
+3.53338&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;1114
+4.53206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;1114
+5.53206&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:37&quot;},{&quot;para_id&quot;:&quot;196
+8.53252&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:37&quot;},{&quot;para_id&quot;:&quot;202
+1.53206&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:37&quot;},{&quot;para_id&quot;:&quot;196
+6.53206&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:37&quot;},{&quot;para_id&quot;:&quot;1970.53206&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:37&quot;},{&quot;para_id&quot;:&quot;197
+1.53210&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:37&quot;},{&quot;para_id&quot;:&quot;1116
+5.53206&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:37&quot;},{&quot;para_id&quot;:&quot;197
+3.53206&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:37&quot;},{&quot;para_id&quot;:&quot;197
+2.53713&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:37&quot;},{&quot;para_id&quot;:&quot;1231
+8.53337&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:37&quot;},{&quot;para_id&quot;:&quot;1969.53204&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:37&quot;}]" data-refcode-old="KJV — John 1:37"><strong>37</strong> And the two disciples heard him speak, and they followed Jesus.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53208" data-para-id="196
+5.53208" data-refcode="KJV — John 1:38">
+<span class="egw_content" data-refcode="196
+5.53208" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52935&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:38&quot;},{&quot;para_id&quot;:&quot;196
+7.53346&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:38&quot;},{&quot;para_id&quot;:&quot;11139.53208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;11140.53334&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;1114
+2.53208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;1114
+3.53340&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;1114
+4.53208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;1114
+5.53208&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:38&quot;},{&quot;para_id&quot;:&quot;196
+8.53254&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:38&quot;},{&quot;para_id&quot;:&quot;202
+1.53208&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:38&quot;},{&quot;para_id&quot;:&quot;196
+6.53208&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:38&quot;},{&quot;para_id&quot;:&quot;1970.53208&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:38&quot;},{&quot;para_id&quot;:&quot;197
+1.53212&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:38&quot;},{&quot;para_id&quot;:&quot;1116
+5.53208&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:38&quot;},{&quot;para_id&quot;:&quot;197
+3.53208&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:38&quot;},{&quot;para_id&quot;:&quot;197
+2.53715&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:38&quot;},{&quot;para_id&quot;:&quot;1231
+8.53339&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:38&quot;},{&quot;para_id&quot;:&quot;1969.53206&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:38&quot;}]" data-refcode-old="KJV — John 1:38"><strong>38</strong> Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53210" data-para-id="196
+5.53210" data-refcode="KJV — John 1:39">
+<span class="egw_content" data-refcode="196
+5.53210" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52937&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:39&quot;},{&quot;para_id&quot;:&quot;196
+7.53348&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:39&quot;},{&quot;para_id&quot;:&quot;11139.53210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;11140.53336&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;1114
+2.53210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;1114
+3.53342&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;1114
+4.53210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;1114
+5.53210&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:39&quot;},{&quot;para_id&quot;:&quot;196
+8.53256&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:39&quot;},{&quot;para_id&quot;:&quot;202
+1.53210&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:39&quot;},{&quot;para_id&quot;:&quot;196
+6.53210&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:39&quot;},{&quot;para_id&quot;:&quot;1970.53210&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:39&quot;},{&quot;para_id&quot;:&quot;197
+1.53214&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:39&quot;},{&quot;para_id&quot;:&quot;1116
+5.53210&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:39&quot;},{&quot;para_id&quot;:&quot;197
+3.53210&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:39&quot;},{&quot;para_id&quot;:&quot;197
+2.53717&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:39&quot;},{&quot;para_id&quot;:&quot;1231
+8.53341&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:39&quot;},{&quot;para_id&quot;:&quot;1969.53208&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:39&quot;}]" data-refcode-old="KJV — John 1:39"><strong>39</strong> He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53212" data-para-id="196
+5.53212" data-refcode="KJV — John 1:40">
+<span class="egw_content" data-refcode="196
+5.53212" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52939&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:40&quot;},{&quot;para_id&quot;:&quot;196
+7.53350&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:40&quot;},{&quot;para_id&quot;:&quot;11139.53212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;11140.53338&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;1114
+2.53212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;1114
+3.53344&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;1114
+4.53212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;1114
+5.53212&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:40&quot;},{&quot;para_id&quot;:&quot;196
+8.53258&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:40&quot;},{&quot;para_id&quot;:&quot;202
+1.53212&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:40&quot;},{&quot;para_id&quot;:&quot;196
+6.53212&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:40&quot;},{&quot;para_id&quot;:&quot;1970.53212&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:40&quot;},{&quot;para_id&quot;:&quot;197
+1.53216&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:40&quot;},{&quot;para_id&quot;:&quot;1116
+5.53212&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:40&quot;},{&quot;para_id&quot;:&quot;197
+3.53212&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:40&quot;},{&quot;para_id&quot;:&quot;197
+2.53719&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:40&quot;},{&quot;para_id&quot;:&quot;1231
+8.53343&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:40&quot;},{&quot;para_id&quot;:&quot;1969.53210&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:40&quot;}]" data-refcode-old="KJV — John 1:40"><strong>40</strong> One of the two which heard John speak, and followed him, was Andrew, Simon Peter's brother.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53214" data-para-id="196
+5.53214" data-refcode="KJV — John 1:41">
+<span class="egw_content" data-refcode="196
+5.53214" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52941&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:41&quot;},{&quot;para_id&quot;:&quot;196
+7.53352&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:41&quot;},{&quot;para_id&quot;:&quot;11139.53214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;11140.53340&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;1114
+2.53214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;1114
+3.53346&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;1114
+4.53214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;1114
+5.53214&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:41&quot;},{&quot;para_id&quot;:&quot;196
+8.53260&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:41&quot;},{&quot;para_id&quot;:&quot;202
+1.53214&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:41&quot;},{&quot;para_id&quot;:&quot;196
+6.53214&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:41&quot;},{&quot;para_id&quot;:&quot;1970.53214&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:41&quot;},{&quot;para_id&quot;:&quot;197
+1.53218&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:41&quot;},{&quot;para_id&quot;:&quot;1116
+5.53214&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:41&quot;},{&quot;para_id&quot;:&quot;197
+3.53214&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:41&quot;},{&quot;para_id&quot;:&quot;197
+2.53721&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:41&quot;},{&quot;para_id&quot;:&quot;1231
+8.53345&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:41&quot;},{&quot;para_id&quot;:&quot;1969.53212&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:41&quot;}]" data-refcode-old="KJV — John 1:41"><strong>41</strong> He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53216" data-para-id="196
+5.53216" data-refcode="KJV — John 1:42">
+<span class="egw_content" data-refcode="196
+5.53216" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52943&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:42&quot;},{&quot;para_id&quot;:&quot;196
+7.53354&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:42&quot;},{&quot;para_id&quot;:&quot;11139.53216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;11140.53342&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;1114
+2.53216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;1114
+3.53348&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;1114
+4.53216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;1114
+5.53216&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:42&quot;},{&quot;para_id&quot;:&quot;196
+8.53262&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:42&quot;},{&quot;para_id&quot;:&quot;202
+1.53216&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:42&quot;},{&quot;para_id&quot;:&quot;196
+6.53216&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:42&quot;},{&quot;para_id&quot;:&quot;1970.53216&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:42&quot;},{&quot;para_id&quot;:&quot;197
+1.53220&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:42&quot;},{&quot;para_id&quot;:&quot;1116
+5.53216&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:42&quot;},{&quot;para_id&quot;:&quot;197
+3.53216&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:42&quot;},{&quot;para_id&quot;:&quot;197
+2.53723&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:42&quot;},{&quot;para_id&quot;:&quot;1231
+8.53347&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:42&quot;},{&quot;para_id&quot;:&quot;1969.53214&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:42&quot;}]" data-refcode-old="KJV — John 1:42"><strong>42</strong> And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53218" data-para-id="196
+5.53218" data-refcode="KJV — John 1:43">
+<span class="egw_content" data-refcode="196
+5.53218" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52945&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:43&quot;},{&quot;para_id&quot;:&quot;196
+7.53356&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:43&quot;},{&quot;para_id&quot;:&quot;11139.53218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;11140.53344&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;1114
+2.53218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;1114
+3.53350&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;1114
+4.53218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;1114
+5.53218&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:43&quot;},{&quot;para_id&quot;:&quot;196
+8.53264&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:43&quot;},{&quot;para_id&quot;:&quot;202
+1.53218&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:43&quot;},{&quot;para_id&quot;:&quot;196
+6.53218&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:43&quot;},{&quot;para_id&quot;:&quot;1970.53218&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:43&quot;},{&quot;para_id&quot;:&quot;197
+1.53222&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:43&quot;},{&quot;para_id&quot;:&quot;1116
+5.53218&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:43&quot;},{&quot;para_id&quot;:&quot;197
+3.53218&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:43&quot;},{&quot;para_id&quot;:&quot;197
+2.53725&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:43&quot;},{&quot;para_id&quot;:&quot;1231
+8.53349&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:43&quot;},{&quot;para_id&quot;:&quot;1969.53216&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:43&quot;}]" data-refcode-old="KJV — John 1:43"><strong>43</strong> The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53220" data-para-id="196
+5.53220" data-refcode="KJV — John 1:44">
+<span class="egw_content" data-refcode="196
+5.53220" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52947&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:44&quot;},{&quot;para_id&quot;:&quot;196
+7.53358&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:44&quot;},{&quot;para_id&quot;:&quot;11139.53220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;11140.53346&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;1114
+2.53220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;1114
+3.53352&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;1114
+4.53220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;1114
+5.53220&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:44&quot;},{&quot;para_id&quot;:&quot;196
+8.53266&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:44&quot;},{&quot;para_id&quot;:&quot;202
+1.53220&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:44&quot;},{&quot;para_id&quot;:&quot;196
+6.53220&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:44&quot;},{&quot;para_id&quot;:&quot;1970.53220&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:44&quot;},{&quot;para_id&quot;:&quot;197
+1.53224&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:44&quot;},{&quot;para_id&quot;:&quot;1116
+5.53220&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:44&quot;},{&quot;para_id&quot;:&quot;197
+3.53220&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:44&quot;},{&quot;para_id&quot;:&quot;197
+2.53727&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:44&quot;},{&quot;para_id&quot;:&quot;1231
+8.53351&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:44&quot;},{&quot;para_id&quot;:&quot;1969.53218&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:44&quot;}]" data-refcode-old="KJV — John 1:44"><strong>44</strong> Now Philip was of Bethsaida, the city of Andrew and Peter.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53222" data-para-id="196
+5.53222" data-refcode="KJV — John 1:45">
+<span class="egw_content" data-refcode="196
+5.53222" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52949&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:45&quot;},{&quot;para_id&quot;:&quot;196
+7.53360&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:45&quot;},{&quot;para_id&quot;:&quot;11139.53222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;11140.53348&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;1114
+2.53222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;1114
+3.53354&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;1114
+4.53222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;1114
+5.53222&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:45&quot;},{&quot;para_id&quot;:&quot;196
+8.53268&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:45&quot;},{&quot;para_id&quot;:&quot;202
+1.53222&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:45&quot;},{&quot;para_id&quot;:&quot;196
+6.53222&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:45&quot;},{&quot;para_id&quot;:&quot;1970.53222&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:45&quot;},{&quot;para_id&quot;:&quot;197
+1.53226&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:45&quot;},{&quot;para_id&quot;:&quot;1116
+5.53222&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:45&quot;},{&quot;para_id&quot;:&quot;197
+3.53222&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:45&quot;},{&quot;para_id&quot;:&quot;197
+2.53729&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:45&quot;},{&quot;para_id&quot;:&quot;1231
+8.53353&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:45&quot;},{&quot;para_id&quot;:&quot;1969.53220&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:45&quot;}]" data-refcode-old="KJV — John 1:45"><strong>45</strong> Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53224" data-para-id="196
+5.53224" data-refcode="KJV — John 1:46">
+<span class="egw_content" data-refcode="196
+5.53224" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52951&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:46&quot;},{&quot;para_id&quot;:&quot;196
+7.53362&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:46&quot;},{&quot;para_id&quot;:&quot;11139.53224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;11140.53350&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;1114
+2.53224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;1114
+3.53356&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;1114
+4.53224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;1114
+5.53224&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:46&quot;},{&quot;para_id&quot;:&quot;196
+8.53270&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:46&quot;},{&quot;para_id&quot;:&quot;202
+1.53224&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:46&quot;},{&quot;para_id&quot;:&quot;196
+6.53224&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:46&quot;},{&quot;para_id&quot;:&quot;1970.53224&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:46&quot;},{&quot;para_id&quot;:&quot;197
+1.53228&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:46&quot;},{&quot;para_id&quot;:&quot;1116
+5.53224&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:46&quot;},{&quot;para_id&quot;:&quot;197
+3.53224&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:46&quot;},{&quot;para_id&quot;:&quot;197
+2.53731&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:46&quot;},{&quot;para_id&quot;:&quot;1231
+8.53355&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:46&quot;},{&quot;para_id&quot;:&quot;1969.53222&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:46&quot;}]" data-refcode-old="KJV — John 1:46"><strong>46</strong> And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53226" data-para-id="196
+5.53226" data-refcode="KJV — John 1:47">
+<span class="egw_content" data-refcode="196
+5.53226" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52953&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:47&quot;},{&quot;para_id&quot;:&quot;196
+7.53364&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:47&quot;},{&quot;para_id&quot;:&quot;11139.53226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;11140.53352&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;1114
+2.53226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;1114
+3.53358&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;1114
+4.53226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;1114
+5.53226&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:47&quot;},{&quot;para_id&quot;:&quot;196
+8.53272&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:47&quot;},{&quot;para_id&quot;:&quot;202
+1.53226&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:47&quot;},{&quot;para_id&quot;:&quot;196
+6.53226&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:47&quot;},{&quot;para_id&quot;:&quot;1970.53226&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:47&quot;},{&quot;para_id&quot;:&quot;197
+1.53230&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:47&quot;},{&quot;para_id&quot;:&quot;1116
+5.53226&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:47&quot;},{&quot;para_id&quot;:&quot;197
+3.53226&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:47&quot;},{&quot;para_id&quot;:&quot;197
+2.53733&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:47&quot;},{&quot;para_id&quot;:&quot;1231
+8.53357&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:47&quot;},{&quot;para_id&quot;:&quot;1969.53224&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:47&quot;}]" data-refcode-old="KJV — John 1:47"><strong>47</strong> Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53228" data-para-id="196
+5.53228" data-refcode="KJV — John 1:48">
+<span class="egw_content" data-refcode="196
+5.53228" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52955&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:48&quot;},{&quot;para_id&quot;:&quot;196
+7.53366&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:48&quot;},{&quot;para_id&quot;:&quot;11139.53228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;11140.53354&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;1114
+2.53228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;1114
+3.53360&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;1114
+4.53228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;1114
+5.53228&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:48&quot;},{&quot;para_id&quot;:&quot;196
+8.53274&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:48&quot;},{&quot;para_id&quot;:&quot;202
+1.53228&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:48&quot;},{&quot;para_id&quot;:&quot;196
+6.53228&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:48&quot;},{&quot;para_id&quot;:&quot;1970.53228&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:48&quot;},{&quot;para_id&quot;:&quot;197
+1.53232&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:48&quot;},{&quot;para_id&quot;:&quot;1116
+5.53228&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:48&quot;},{&quot;para_id&quot;:&quot;197
+3.53228&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:48&quot;},{&quot;para_id&quot;:&quot;197
+2.53735&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:48&quot;},{&quot;para_id&quot;:&quot;1231
+8.53359&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:48&quot;},{&quot;para_id&quot;:&quot;1969.53226&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:48&quot;}]" data-refcode-old="KJV — John 1:48"><strong>48</strong> Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53230" data-para-id="196
+5.53230" data-refcode="KJV — John 1:49">
+<span class="egw_content" data-refcode="196
+5.53230" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52957&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:49&quot;},{&quot;para_id&quot;:&quot;196
+7.53368&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:49&quot;},{&quot;para_id&quot;:&quot;11139.53230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;11140.53356&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;1114
+2.53230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;1114
+3.53362&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;1114
+4.53230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;1114
+5.53230&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:49&quot;},{&quot;para_id&quot;:&quot;196
+8.53276&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:49&quot;},{&quot;para_id&quot;:&quot;202
+1.53230&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:49&quot;},{&quot;para_id&quot;:&quot;196
+6.53230&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:49&quot;},{&quot;para_id&quot;:&quot;1970.53230&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:49&quot;},{&quot;para_id&quot;:&quot;197
+1.53234&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:49&quot;},{&quot;para_id&quot;:&quot;1116
+5.53230&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:49&quot;},{&quot;para_id&quot;:&quot;197
+3.53230&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:49&quot;},{&quot;para_id&quot;:&quot;197
+2.53737&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:49&quot;},{&quot;para_id&quot;:&quot;1231
+8.53361&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:49&quot;},{&quot;para_id&quot;:&quot;1969.53228&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:49&quot;}]" data-refcode-old="KJV — John 1:49"><strong>49</strong> Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53232" data-para-id="196
+5.53232" data-refcode="KJV — John 1:50">
+<span class="egw_content" data-refcode="196
+5.53232" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52959&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:50&quot;},{&quot;para_id&quot;:&quot;196
+7.53370&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:50&quot;},{&quot;para_id&quot;:&quot;11139.53232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;11140.53358&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;1114
+2.53232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;1114
+3.53364&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;1114
+4.53232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;1114
+5.53232&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:50&quot;},{&quot;para_id&quot;:&quot;196
+8.53278&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:50&quot;},{&quot;para_id&quot;:&quot;202
+1.53232&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:50&quot;},{&quot;para_id&quot;:&quot;196
+6.53232&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:50&quot;},{&quot;para_id&quot;:&quot;1970.53232&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:50&quot;},{&quot;para_id&quot;:&quot;197
+1.53236&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:50&quot;},{&quot;para_id&quot;:&quot;1116
+5.53232&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:50&quot;},{&quot;para_id&quot;:&quot;197
+3.53232&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:50&quot;},{&quot;para_id&quot;:&quot;197
+2.53739&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:50&quot;},{&quot;para_id&quot;:&quot;1231
+8.53363&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:50&quot;},{&quot;para_id&quot;:&quot;1969.53230&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:50&quot;}]" data-refcode-old="KJV — John 1:50"><strong>50</strong> Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="53234" data-para-id="196
+5.53234" data-refcode="KJV — John 1:51">
+<span class="egw_content" data-refcode="196
+5.53234" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.52961&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Jan 1:51&quot;},{&quot;para_id&quot;:&quot;196
+7.53372&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Johannes 1:51&quot;},{&quot;para_id&quot;:&quot;11139.53234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;11140.53360&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;1114
+2.53234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;1114
+3.53366&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;1114
+4.53234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;1114
+5.53234&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 John 1:51&quot;},{&quot;para_id&quot;:&quot;196
+8.53280&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Juan 1:51&quot;},{&quot;para_id&quot;:&quot;202
+1.53234&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Jean 1:51&quot;},{&quot;para_id&quot;:&quot;196
+6.53234&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Giovanni 1:51&quot;},{&quot;para_id&quot;:&quot;1970.53234&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Jana 1:51&quot;},{&quot;para_id&quot;:&quot;197
+1.53238&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Jo\u00e3o 1:51&quot;},{&quot;para_id&quot;:&quot;1116
+5.53234&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Ioan 1:51&quot;},{&quot;para_id&quot;:&quot;197
+3.53234&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Ioan 1:51&quot;},{&quot;para_id&quot;:&quot;197
+2.53741&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0418\u043e\u0430\u043d\u043d\u0430 1:51&quot;},{&quot;para_id&quot;:&quot;1231
+8.53365&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0406\u0432\u0430\u043d\u0430 1:51&quot;},{&quot;para_id&quot;:&quot;1969.53232&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7d04\u7ff0\u798f\u97f3 1:51&quot;}]" data-refcode-old="KJV — John 1:51"><strong>51</strong> And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.53024">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.53235">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="93702b93b02222999dcbc80f-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="93702b93b02222999dcbc80f-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="93702b93b02222999dcbc80f-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="93702b93b02222999dcbc80f-" defer=""></script></body>
+</html>

@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="Millennial Musings" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/no_cover_m.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Millennial Musings">
+<meta name="twitter:description" content="">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/no_cover_m.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>Millennial Musings &mdash; Ellen G. White Writings</title>
+<script type="69c622fc0964582abee01a78-text/javascript">var _isLogged=false;</script>
+<script type="69c622fc0964582abee01a78-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="69c622fc0964582abee01a78-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>Millennial Musings</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/15">Adventist Pioneer Library</a></li><li><a href="/en/folders/190">Misc Titles</a></li><li><a href="/en/folders/198">Joshua V. Himes and Josiah Litch, Compilers</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_940" data-toggle="dropdown" href="#">Millennial Musings<b class="caret"></b></a><ul id="breadcrumb_book_940-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/940/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/940/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:3
+3.3%">
+53/159
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/940.346">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/940.355">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="940" data-type="book">
+<h4 class="egw_content_wrapper " book_id="940" id="349" data-para-id="940.349" data-refcode="MIM 59">
+<span class="egw_content" data-refcode="940.349" data-translate="[]" data-refcode-old="MIM 59">HYMN 4
+7. S. M</span>
+</h4>
+<p class="egw_content_wrapper poem-noindent" book_id="940" id="350" data-para-id="940.350" data-refcode="MIM 59.3">
+<span class="egw_content" data-refcode="940.350" data-translate="[]" data-refcode-old="MIM 59.3">1 Welcome, sweet day of rest, 
+That saw the Lord arise! 
+Welcome to this reviving breast, 
+And these rejoicing eyes!</span>
+<span class="egw_refcode" title="Millennial Musings, p. 59.3 (Joshua V. Himes)">MIM 59.3</span>
+</p>
+<p class="egw_content_wrapper poem-noindent" book_id="940" id="351" data-para-id="940.351" data-refcode="MIM 59.4">
+<span class="egw_content" data-refcode="940.351" data-translate="[]" data-refcode-old="MIM 59.4">2 The King himself comes near, 
+And feasts his saints to-day; 
+Here we may sit and see him here, 
+And love, and praise, and pray.</span>
+<span class="egw_refcode" title="Millennial Musings, p. 59.4 (Joshua V. Himes)">MIM 59.4</span>
+</p>
+<p class="egw_content_wrapper poem-noindent" book_id="940" id="352" data-para-id="940.352" data-refcode="MIM 59.5">
+<span class="egw_content" data-refcode="940.352" data-translate="[]" data-refcode-old="MIM 59.5">3 One day in such a place, 
+Where thou, my God, art seen, 
+Is sweeter than ten thousand days 
+Of pleasurable sin.</span>
+<span class="egw_refcode" title="Millennial Musings, p. 59.5 (Joshua V. Himes)">MIM 59.5</span>
+</p>
+<p class="egw_content_wrapper poem-noindent" book_id="940" id="354" data-para-id="940.354" data-refcode="MIM 60.1">
+<span class="egw_content" data-refcode="940.354" data-translate="[]" data-refcode-old="MIM 60.1">4 My willing soul would stay 
+In such a frame as this, 
+And sit and sing herself away 
+To everlasting bliss.</span>
+<span class="egw_refcode" title="Millennial Musings, p. 60.1 (Joshua V. Himes)">MIM 60.1</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+ <a class="btn-large" href="/en/book/940.346">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/940.355">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="69c622fc0964582abee01a78-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="69c622fc0964582abee01a78-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+ </div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="69c622fc0964582abee01a78-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="69c622fc0964582abee01a78-" defer=""></script></body>
+</html>

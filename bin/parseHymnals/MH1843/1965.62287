@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript">var _isLogged=false;</script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="bb302d83ef3ac245535fb8bd-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:9
+7.5%">
+1159/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.62222">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.62304">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="62267" data-para-id="196
+5.62267" data-refcode="KJV — 2Peter 3">
+<span class="egw_content" data-refcode="196
+5.62267" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.61990&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3&quot;},{&quot;para_id&quot;:&quot;196
+7.62401&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3&quot;},{&quot;para_id&quot;:&quot;11139.62267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;11140.62393&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;1114
+2.62267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;1114
+3.62395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;1114
+4.62267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;1114
+5.62267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3&quot;},{&quot;para_id&quot;:&quot;196
+8.62317&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3&quot;},{&quot;para_id&quot;:&quot;202
+1.62267&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3&quot;},{&quot;para_id&quot;:&quot;196
+6.62267&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3&quot;},{&quot;para_id&quot;:&quot;1970.62259&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3&quot;},{&quot;para_id&quot;:&quot;197
+1.62271&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3&quot;},{&quot;para_id&quot;:&quot;1116
+5.62267&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3&quot;},{&quot;para_id&quot;:&quot;197
+3.62081&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3&quot;},{&quot;para_id&quot;:&quot;197
+2.62770&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3&quot;},{&quot;para_id&quot;:&quot;1231
+8.62394&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3&quot;},{&quot;para_id&quot;:&quot;1969.62263&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3&quot;}]" data-refcode-old="KJV — 2Peter 3">2Peter 3</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62269" data-para-id="196
+5.62269" data-refcode="KJV — 2Peter 3:1">
+<span class="egw_content" data-refcode="196
+5.62269" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.61992&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:1&quot;},{&quot;para_id&quot;:&quot;196
+7.62403&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:1&quot;},{&quot;para_id&quot;:&quot;11139.62269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;11140.62395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.62269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.62397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.62269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.62269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:1&quot;},{&quot;para_id&quot;:&quot;196
+8.62319&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:1&quot;},{&quot;para_id&quot;:&quot;202
+1.62269&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:1&quot;},{&quot;para_id&quot;:&quot;196
+6.62269&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:1&quot;},{&quot;para_id&quot;:&quot;1970.62261&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:1&quot;},{&quot;para_id&quot;:&quot;197
+1.62273&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.62269&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:1&quot;},{&quot;para_id&quot;:&quot;197
+3.62083&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:1&quot;},{&quot;para_id&quot;:&quot;197
+2.62772&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.62396&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:1&quot;},{&quot;para_id&quot;:&quot;1969.62265&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:1&quot;}]" data-refcode-old="KJV — 2Peter 3:1"><strong>1</strong> This second epistle, beloved, I now write unto you; in both which I stir up your pure minds by way of remembrance:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62271" data-para-id="196
+5.62271" data-refcode="KJV — 2Peter 3:2">
+<span class="egw_content" data-refcode="196
+5.62271" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.61994&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:2&quot;},{&quot;para_id&quot;:&quot;196
+7.62405&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:2&quot;},{&quot;para_id&quot;:&quot;11139.62271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;11140.62397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.62271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.62399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.62271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.62271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:2&quot;},{&quot;para_id&quot;:&quot;196
+8.62321&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:2&quot;},{&quot;para_id&quot;:&quot;202
+1.62271&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:2&quot;},{&quot;para_id&quot;:&quot;196
+6.62271&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:2&quot;},{&quot;para_id&quot;:&quot;1970.62263&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:2&quot;},{&quot;para_id&quot;:&quot;197
+1.62275&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.62271&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:2&quot;},{&quot;para_id&quot;:&quot;197
+3.62085&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:2&quot;},{&quot;para_id&quot;:&quot;197
+2.62774&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.62398&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:2&quot;},{&quot;para_id&quot;:&quot;1969.62267&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:2&quot;}]" data-refcode-old="KJV — 2Peter 3:2"><strong>2</strong> That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62273" data-para-id="196
+5.62273" data-refcode="KJV — 2Peter 3:3">
+<span class="egw_content" data-refcode="196
+5.62273" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.61996&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:3&quot;},{&quot;para_id&quot;:&quot;196
+7.62407&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:3&quot;},{&quot;para_id&quot;:&quot;11139.62273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;11140.62399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.62273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.62401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.62273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.62273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:3&quot;},{&quot;para_id&quot;:&quot;196
+8.62323&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:3&quot;},{&quot;para_id&quot;:&quot;202
+1.62273&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:3&quot;},{&quot;para_id&quot;:&quot;196
+6.62273&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:3&quot;},{&quot;para_id&quot;:&quot;1970.62265&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:3&quot;},{&quot;para_id&quot;:&quot;197
+1.62277&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.62273&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:3&quot;},{&quot;para_id&quot;:&quot;197
+3.62087&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:3&quot;},{&quot;para_id&quot;:&quot;197
+2.62776&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.62400&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:3&quot;},{&quot;para_id&quot;:&quot;1969.62269&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:3&quot;}]" data-refcode-old="KJV — 2Peter 3:3"><strong>3</strong> Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62275" data-para-id="196
+5.62275" data-refcode="KJV — 2Peter 3:4">
+<span class="egw_content" data-refcode="196
+5.62275" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.61998&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:4&quot;},{&quot;para_id&quot;:&quot;196
+7.62409&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:4&quot;},{&quot;para_id&quot;:&quot;11139.62275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;11140.62401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.62275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.62403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.62275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.62275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:4&quot;},{&quot;para_id&quot;:&quot;196
+8.62325&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:4&quot;},{&quot;para_id&quot;:&quot;202
+1.62275&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:4&quot;},{&quot;para_id&quot;:&quot;196
+6.62275&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:4&quot;},{&quot;para_id&quot;:&quot;1970.62267&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:4&quot;},{&quot;para_id&quot;:&quot;197
+1.62279&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.62275&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:4&quot;},{&quot;para_id&quot;:&quot;197
+3.62089&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:4&quot;},{&quot;para_id&quot;:&quot;197
+2.62778&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.62402&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:4&quot;},{&quot;para_id&quot;:&quot;1969.62271&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:4&quot;}]" data-refcode-old="KJV — 2Peter 3:4"><strong>4</strong> And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62277" data-para-id="196
+5.62277" data-refcode="KJV — 2Peter 3:5">
+<span class="egw_content" data-refcode="196
+5.62277" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62000&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:5&quot;},{&quot;para_id&quot;:&quot;196
+7.62411&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:5&quot;},{&quot;para_id&quot;:&quot;11139.62277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;11140.62403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.62277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.62405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.62277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.62277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:5&quot;},{&quot;para_id&quot;:&quot;196
+8.62327&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:5&quot;},{&quot;para_id&quot;:&quot;202
+1.62277&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:5&quot;},{&quot;para_id&quot;:&quot;196
+6.62277&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:5&quot;},{&quot;para_id&quot;:&quot;1970.62269&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:5&quot;},{&quot;para_id&quot;:&quot;197
+1.62281&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.62277&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:5&quot;},{&quot;para_id&quot;:&quot;197
+3.62091&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:5&quot;},{&quot;para_id&quot;:&quot;197
+2.62780&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.62404&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:5&quot;},{&quot;para_id&quot;:&quot;1969.62273&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:5&quot;}]" data-refcode-old="KJV — 2Peter 3:5"><strong>5</strong> For this they willingly are ignorant of, that by the word of God the heavens were of old, and the earth standing out of the water and in the water:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62279" data-para-id="196
+5.62279" data-refcode="KJV — 2Peter 3:6">
+<span class="egw_content" data-refcode="196
+5.62279" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62002&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:6&quot;},{&quot;para_id&quot;:&quot;196
+7.62413&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:6&quot;},{&quot;para_id&quot;:&quot;11139.62279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;11140.62405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.62279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.62407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.62279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.62279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:6&quot;},{&quot;para_id&quot;:&quot;196
+8.62329&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:6&quot;},{&quot;para_id&quot;:&quot;202
+1.62279&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:6&quot;},{&quot;para_id&quot;:&quot;196
+6.62279&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:6&quot;},{&quot;para_id&quot;:&quot;1970.62271&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:6&quot;},{&quot;para_id&quot;:&quot;197
+1.62283&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.62279&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:6&quot;},{&quot;para_id&quot;:&quot;197
+3.62093&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:6&quot;},{&quot;para_id&quot;:&quot;197
+2.62782&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.62406&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:6&quot;},{&quot;para_id&quot;:&quot;1969.62275&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:6&quot;}]" data-refcode-old="KJV — 2Peter 3:6"><strong>6</strong> Whereby the world that then was, being overflowed with water, perished:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62281" data-para-id="196
+5.62281" data-refcode="KJV — 2Peter 3:7">
+<span class="egw_content" data-refcode="196
+5.62281" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62004&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:7&quot;},{&quot;para_id&quot;:&quot;196
+7.62415&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:7&quot;},{&quot;para_id&quot;:&quot;11139.62281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;11140.62407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.62281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.62409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.62281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.62281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:7&quot;},{&quot;para_id&quot;:&quot;196
+8.62331&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:7&quot;},{&quot;para_id&quot;:&quot;202
+1.62281&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:7&quot;},{&quot;para_id&quot;:&quot;196
+6.62281&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:7&quot;},{&quot;para_id&quot;:&quot;1970.62273&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:7&quot;},{&quot;para_id&quot;:&quot;197
+1.62285&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.62281&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:7&quot;},{&quot;para_id&quot;:&quot;197
+3.62095&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:7&quot;},{&quot;para_id&quot;:&quot;197
+2.62784&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.62408&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:7&quot;},{&quot;para_id&quot;:&quot;1969.62277&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:7&quot;}]" data-refcode-old="KJV — 2Peter 3:7"><strong>7</strong> But the heavens and the earth, which are now, by the same word are kept in store, reserved unto fire against the day of judgment and perdition of ungodly men.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62283" data-para-id="196
+5.62283" data-refcode="KJV — 2Peter 3:8">
+<span class="egw_content" data-refcode="196
+5.62283" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62006&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:8&quot;},{&quot;para_id&quot;:&quot;196
+7.62417&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:8&quot;},{&quot;para_id&quot;:&quot;11139.62283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;11140.62409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.62283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.62411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.62283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.62283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:8&quot;},{&quot;para_id&quot;:&quot;196
+8.62333&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:8&quot;},{&quot;para_id&quot;:&quot;202
+1.62283&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:8&quot;},{&quot;para_id&quot;:&quot;196
+6.62283&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:8&quot;},{&quot;para_id&quot;:&quot;1970.62275&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:8&quot;},{&quot;para_id&quot;:&quot;197
+1.62287&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.62283&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:8&quot;},{&quot;para_id&quot;:&quot;197
+3.62097&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:8&quot;},{&quot;para_id&quot;:&quot;197
+2.62786&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.62410&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:8&quot;},{&quot;para_id&quot;:&quot;1969.62279&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:8&quot;}]" data-refcode-old="KJV — 2Peter 3:8"><strong>8</strong> But, beloved, be not ignorant of this one thing, that one day is with the Lord as a thousand years, and a thousand years as one day.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62285" data-para-id="196
+5.62285" data-refcode="KJV — 2Peter 3:9">
+<span class="egw_content" data-refcode="196
+5.62285" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62008&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:9&quot;},{&quot;para_id&quot;:&quot;196
+7.62419&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:9&quot;},{&quot;para_id&quot;:&quot;11139.62285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;11140.62411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.62285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.62413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.62285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.62285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:9&quot;},{&quot;para_id&quot;:&quot;196
+8.62335&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:9&quot;},{&quot;para_id&quot;:&quot;202
+1.62285&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:9&quot;},{&quot;para_id&quot;:&quot;196
+6.62285&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:9&quot;},{&quot;para_id&quot;:&quot;1970.62277&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:9&quot;},{&quot;para_id&quot;:&quot;197
+1.62289&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.62285&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:9&quot;},{&quot;para_id&quot;:&quot;197
+3.62099&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:9&quot;},{&quot;para_id&quot;:&quot;197
+2.62788&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.62412&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:9&quot;},{&quot;para_id&quot;:&quot;1969.62281&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:9&quot;}]" data-refcode-old="KJV — 2Peter 3:9"><strong>9</strong> The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62287" data-para-id="196
+5.62287" data-refcode="KJV — 2Peter 3:10">
+<span class="egw_content" data-refcode="196
+5.62287" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62010&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:10&quot;},{&quot;para_id&quot;:&quot;196
+7.62421&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:10&quot;},{&quot;para_id&quot;:&quot;11139.62287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;11140.62413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.62287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.62415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.62287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.62287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:10&quot;},{&quot;para_id&quot;:&quot;196
+8.62337&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:10&quot;},{&quot;para_id&quot;:&quot;202
+1.62287&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:10&quot;},{&quot;para_id&quot;:&quot;196
+6.62287&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:10&quot;},{&quot;para_id&quot;:&quot;1970.62279&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:10&quot;},{&quot;para_id&quot;:&quot;197
+1.62291&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.62287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:10&quot;},{&quot;para_id&quot;:&quot;197
+3.62101&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:10&quot;},{&quot;para_id&quot;:&quot;197
+2.62790&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.62414&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:10&quot;},{&quot;para_id&quot;:&quot;1969.62283&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:10&quot;}]" data-refcode-old="KJV — 2Peter 3:10"><strong>10</strong> But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62289" data-para-id="196
+5.62289" data-refcode="KJV — 2Peter 3:11">
+<span class="egw_content" data-refcode="196
+5.62289" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62012&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:11&quot;},{&quot;para_id&quot;:&quot;196
+7.62423&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:11&quot;},{&quot;para_id&quot;:&quot;11139.62289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;11140.62415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.62289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.62417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.62289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.62289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:11&quot;},{&quot;para_id&quot;:&quot;196
+8.62339&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:11&quot;},{&quot;para_id&quot;:&quot;202
+1.62289&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:11&quot;},{&quot;para_id&quot;:&quot;196
+6.62289&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:11&quot;},{&quot;para_id&quot;:&quot;1970.62281&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:11&quot;},{&quot;para_id&quot;:&quot;197
+1.62293&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.62289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:11&quot;},{&quot;para_id&quot;:&quot;197
+3.62103&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:11&quot;},{&quot;para_id&quot;:&quot;197
+2.62792&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.62416&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:11&quot;},{&quot;para_id&quot;:&quot;1969.62285&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:11&quot;}]" data-refcode-old="KJV — 2Peter 3:11"><strong>11</strong> Seeing then that all these things shall be dissolved, what manner of persons ought ye to be in all holy conversation and godliness,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62291" data-para-id="196
+5.62291" data-refcode="KJV — 2Peter 3:12">
+<span class="egw_content" data-refcode="196
+5.62291" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62014&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:12&quot;},{&quot;para_id&quot;:&quot;196
+7.62425&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:12&quot;},{&quot;para_id&quot;:&quot;11139.62291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;11140.62417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.62291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.62419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.62291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.62291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:12&quot;},{&quot;para_id&quot;:&quot;196
+8.62341&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:12&quot;},{&quot;para_id&quot;:&quot;202
+1.62291&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:12&quot;},{&quot;para_id&quot;:&quot;196
+6.62291&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:12&quot;},{&quot;para_id&quot;:&quot;1970.62283&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:12&quot;},{&quot;para_id&quot;:&quot;197
+1.62295&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.62291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:12&quot;},{&quot;para_id&quot;:&quot;197
+3.62105&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:12&quot;},{&quot;para_id&quot;:&quot;197
+2.62794&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.62418&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:12&quot;},{&quot;para_id&quot;:&quot;1969.62287&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:12&quot;}]" data-refcode-old="KJV — 2Peter 3:12"><strong>12</strong> Looking for and hasting unto the coming of the day of God, wherein the heavens being on fire shall be dissolved, and the elements shall melt with fervent heat?</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62293" data-para-id="196
+5.62293" data-refcode="KJV — 2Peter 3:13">
+<span class="egw_content" data-refcode="196
+5.62293" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62016&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:13&quot;},{&quot;para_id&quot;:&quot;196
+7.62427&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:13&quot;},{&quot;para_id&quot;:&quot;11139.62293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;11140.62419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.62293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.62421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.62293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.62293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:13&quot;},{&quot;para_id&quot;:&quot;196
+8.62343&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:13&quot;},{&quot;para_id&quot;:&quot;202
+1.62293&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:13&quot;},{&quot;para_id&quot;:&quot;196
+6.62293&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:13&quot;},{&quot;para_id&quot;:&quot;1970.62285&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:13&quot;},{&quot;para_id&quot;:&quot;197
+1.62297&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.62293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:13&quot;},{&quot;para_id&quot;:&quot;197
+3.62107&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:13&quot;},{&quot;para_id&quot;:&quot;197
+2.62796&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.62420&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:13&quot;},{&quot;para_id&quot;:&quot;1969.62289&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:13&quot;}]" data-refcode-old="KJV — 2Peter 3:13"><strong>13</strong> Nevertheless we, according to his promise, look for new heavens and a new earth, wherein dwelleth righteousness.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62295" data-para-id="196
+5.62295" data-refcode="KJV — 2Peter 3:14">
+<span class="egw_content" data-refcode="196
+5.62295" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62018&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:14&quot;},{&quot;para_id&quot;:&quot;196
+7.62429&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:14&quot;},{&quot;para_id&quot;:&quot;11139.62295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;11140.62421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.62295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.62423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.62295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.62295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:14&quot;},{&quot;para_id&quot;:&quot;196
+8.62345&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:14&quot;},{&quot;para_id&quot;:&quot;202
+1.62295&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:14&quot;},{&quot;para_id&quot;:&quot;196
+6.62295&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:14&quot;},{&quot;para_id&quot;:&quot;1970.62287&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:14&quot;},{&quot;para_id&quot;:&quot;197
+1.62299&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.62295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:14&quot;},{&quot;para_id&quot;:&quot;197
+3.62109&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:14&quot;},{&quot;para_id&quot;:&quot;197
+2.62798&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.62422&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:14&quot;},{&quot;para_id&quot;:&quot;1969.62291&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:14&quot;}]" data-refcode-old="KJV — 2Peter 3:14"><strong>14</strong> Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62297" data-para-id="196
+5.62297" data-refcode="KJV — 2Peter 3:15">
+<span class="egw_content" data-refcode="196
+5.62297" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62020&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:15&quot;},{&quot;para_id&quot;:&quot;196
+7.62431&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:15&quot;},{&quot;para_id&quot;:&quot;11139.62297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;11140.62423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.62297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.62425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.62297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.62297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:15&quot;},{&quot;para_id&quot;:&quot;196
+8.62347&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:15&quot;},{&quot;para_id&quot;:&quot;202
+1.62297&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:15&quot;},{&quot;para_id&quot;:&quot;196
+6.62297&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:15&quot;},{&quot;para_id&quot;:&quot;1970.62289&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:15&quot;},{&quot;para_id&quot;:&quot;197
+1.62301&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.62297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:15&quot;},{&quot;para_id&quot;:&quot;197
+3.62111&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:15&quot;},{&quot;para_id&quot;:&quot;197
+2.62800&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.62424&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:15&quot;},{&quot;para_id&quot;:&quot;1969.62293&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:15&quot;}]" data-refcode-old="KJV — 2Peter 3:15"><strong>15</strong> And account that the longsuffering of our Lord is salvation; even as our beloved brother Paul also according to the wisdom given unto him hath written unto you;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62299" data-para-id="196
+5.62299" data-refcode="KJV — 2Peter 3:16">
+<span class="egw_content" data-refcode="196
+5.62299" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62022&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:16&quot;},{&quot;para_id&quot;:&quot;196
+7.62433&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:16&quot;},{&quot;para_id&quot;:&quot;11139.62299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;11140.62425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.62299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.62427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.62299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.62299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:16&quot;},{&quot;para_id&quot;:&quot;196
+8.62349&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:16&quot;},{&quot;para_id&quot;:&quot;202
+1.62299&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:16&quot;},{&quot;para_id&quot;:&quot;196
+6.62299&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:16&quot;},{&quot;para_id&quot;:&quot;1970.62291&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:16&quot;},{&quot;para_id&quot;:&quot;197
+1.62303&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.62299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:16&quot;},{&quot;para_id&quot;:&quot;197
+3.62113&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:16&quot;},{&quot;para_id&quot;:&quot;197
+2.62802&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.62426&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:16&quot;},{&quot;para_id&quot;:&quot;1969.62295&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:16&quot;}]" data-refcode-old="KJV — 2Peter 3:16"><strong>16</strong> As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62301" data-para-id="196
+5.62301" data-refcode="KJV — 2Peter 3:17">
+<span class="egw_content" data-refcode="196
+5.62301" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62024&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:17&quot;},{&quot;para_id&quot;:&quot;196
+7.62435&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:17&quot;},{&quot;para_id&quot;:&quot;11139.62301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;11140.62427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.62301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.62429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.62301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.62301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:17&quot;},{&quot;para_id&quot;:&quot;196
+8.62351&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:17&quot;},{&quot;para_id&quot;:&quot;202
+1.62301&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:17&quot;},{&quot;para_id&quot;:&quot;196
+6.62301&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:17&quot;},{&quot;para_id&quot;:&quot;1970.62293&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:17&quot;},{&quot;para_id&quot;:&quot;197
+1.62305&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.62301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:17&quot;},{&quot;para_id&quot;:&quot;197
+3.62115&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:17&quot;},{&quot;para_id&quot;:&quot;197
+2.62804&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.62428&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:17&quot;},{&quot;para_id&quot;:&quot;1969.62297&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:17&quot;}]" data-refcode-old="KJV — 2Peter 3:17"><strong>17</strong> Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="62303" data-para-id="196
+5.62303" data-refcode="KJV — 2Peter 3:18">
+<span class="egw_content" data-refcode="196
+5.62303" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.62026&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 2Petr\u016fv 3:18&quot;},{&quot;para_id&quot;:&quot;196
+7.62437&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 2Petrus 3:18&quot;},{&quot;para_id&quot;:&quot;11139.62303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;11140.62429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.62303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.62431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.62303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.62303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 2Peter 3:18&quot;},{&quot;para_id&quot;:&quot;196
+8.62353&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 2Pedro 3:18&quot;},{&quot;para_id&quot;:&quot;202
+1.62303&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 2Pierre 3:18&quot;},{&quot;para_id&quot;:&quot;196
+6.62303&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 2Pietro 3:18&quot;},{&quot;para_id&quot;:&quot;1970.62295&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 2Piotra 3:18&quot;},{&quot;para_id&quot;:&quot;197
+1.62307&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 2Pedro 3:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.62303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 2Petru 3:18&quot;},{&quot;para_id&quot;:&quot;197
+3.62117&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 2Petru 3:18&quot;},{&quot;para_id&quot;:&quot;197
+2.62806&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 2\u041f\u0435\u0442\u0440\u0430 3:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.62430&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 2\u041f\u0435\u0442\u0440\u0430 3:18&quot;},{&quot;para_id&quot;:&quot;1969.62299&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5f7c\u5f97\u5f8c\u66f8 3:18&quot;}]" data-refcode-old="KJV — 2Peter 3:18"><strong>18</strong> But grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ. To him be glory both now and for ever. Amen.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.62222">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.62304">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="bb302d83ef3ac245535fb8bd-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="bb302d83ef3ac245535fb8bd-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="bb302d83ef3ac245535fb8bd-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="bb302d83ef3ac245535fb8bd-" defer=""></script></body>
+</html>

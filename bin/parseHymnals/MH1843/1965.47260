@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript">var _isLogged=false;</script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="9331c8a6eb1eea824a1627f6-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:7
+8.2%">
+930/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.47247">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.47312">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="47260" data-para-id="196
+5.47260" data-refcode="KJV — Matthew">
+<span class="egw_content" data-refcode="196
+5.47260" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46987&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161&quot;},{&quot;para_id&quot;:&quot;196
+7.47398&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us&quot;},{&quot;para_id&quot;:&quot;11139.47260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;11140.47386&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;1114
+2.47260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;1114
+3.47392&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;1114
+4.47260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;1114
+5.47260&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew&quot;},{&quot;para_id&quot;:&quot;196
+8.47306&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo&quot;},{&quot;para_id&quot;:&quot;202
+1.47260&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu&quot;},{&quot;para_id&quot;:&quot;196
+6.47260&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo&quot;},{&quot;para_id&quot;:&quot;1970.47260&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza&quot;},{&quot;para_id&quot;:&quot;197
+1.47264&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus&quot;},{&quot;para_id&quot;:&quot;1116
+5.47260&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei&quot;},{&quot;para_id&quot;:&quot;197
+3.47260&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei&quot;},{&quot;para_id&quot;:&quot;197
+2.47767&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f&quot;},{&quot;para_id&quot;:&quot;1231
+8.47393&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f&quot;},{&quot;para_id&quot;:&quot;1969.47258&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3&quot;}]" data-refcode-old="KJV — Matthew">Matthew</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="47261" data-para-id="196
+5.47261" data-refcode="KJV — Matthew 1">
+<span class="egw_content" data-refcode="196
+5.47261" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46988&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1&quot;},{&quot;para_id&quot;:&quot;196
+7.47399&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1&quot;},{&quot;para_id&quot;:&quot;11139.47261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;11140.47387&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.47261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.47393&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.47261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.47261&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1&quot;},{&quot;para_id&quot;:&quot;196
+8.47933&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1&quot;},{&quot;para_id&quot;:&quot;202
+1.47261&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1&quot;},{&quot;para_id&quot;:&quot;196
+6.47261&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1&quot;},{&quot;para_id&quot;:&quot;1970.47261&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1&quot;},{&quot;para_id&quot;:&quot;197
+1.47265&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.47261&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1&quot;},{&quot;para_id&quot;:&quot;197
+3.47261&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1&quot;},{&quot;para_id&quot;:&quot;197
+2.47768&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.47394&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1&quot;},{&quot;para_id&quot;:&quot;1969.47259&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1&quot;}]" data-refcode-old="KJV — Matthew 1">Matthew 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47263" data-para-id="196
+5.47263" data-refcode="KJV — Matthew 1:1">
+<span class="egw_content" data-refcode="196
+5.47263" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46990&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.47401&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:1&quot;},{&quot;para_id&quot;:&quot;11139.47263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;11140.47389&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.47263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.47395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.47263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.47263&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.47935&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.47263&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.47263&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:1&quot;},{&quot;para_id&quot;:&quot;1970.47263&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.47267&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.47263&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.47263&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.47770&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.47396&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:1&quot;},{&quot;para_id&quot;:&quot;1969.47261&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:1&quot;}]" data-refcode-old="KJV — Matthew 1:1"><strong>1</strong> The book of the generation of Jesus Christ, the son of David, the son of Abraham.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47265" data-para-id="196
+5.47265" data-refcode="KJV — Matthew 1:2">
+<span class="egw_content" data-refcode="196
+5.47265" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46992&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.47403&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:2&quot;},{&quot;para_id&quot;:&quot;11139.47265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;11140.47391&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.47265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.47397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.47265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.47265&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.47937&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.47265&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.47265&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:2&quot;},{&quot;para_id&quot;:&quot;1970.47265&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.47269&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.47265&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.47265&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.47772&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.47398&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:2&quot;},{&quot;para_id&quot;:&quot;1969.47263&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:2&quot;}]" data-refcode-old="KJV — Matthew 1:2"><strong>2</strong> Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47267" data-para-id="196
+5.47267" data-refcode="KJV — Matthew 1:3">
+<span class="egw_content" data-refcode="196
+5.47267" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46994&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.47405&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:3&quot;},{&quot;para_id&quot;:&quot;11139.47267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;11140.47393&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.47267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.47399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.47267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.47267&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.47939&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.47267&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.47267&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:3&quot;},{&quot;para_id&quot;:&quot;1970.47267&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.47271&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.47267&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.47267&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.47774&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.47400&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:3&quot;},{&quot;para_id&quot;:&quot;1969.47265&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:3&quot;}]" data-refcode-old="KJV — Matthew 1:3"><strong>3</strong> And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47269" data-para-id="196
+5.47269" data-refcode="KJV — Matthew 1:4">
+<span class="egw_content" data-refcode="196
+5.47269" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46996&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.47407&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:4&quot;},{&quot;para_id&quot;:&quot;11139.47269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;11140.47395&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.47269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.47401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.47269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.47269&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.47941&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.47269&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.47269&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:4&quot;},{&quot;para_id&quot;:&quot;1970.47269&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.47273&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.47269&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.47269&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.47776&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.47402&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:4&quot;},{&quot;para_id&quot;:&quot;1969.47267&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:4&quot;}]" data-refcode-old="KJV — Matthew 1:4"><strong>4</strong> And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47271" data-para-id="196
+5.47271" data-refcode="KJV — Matthew 1:5">
+<span class="egw_content" data-refcode="196
+5.47271" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.46998&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.47409&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:5&quot;},{&quot;para_id&quot;:&quot;11139.47271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;11140.47397&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.47271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.47403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.47271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.47271&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.47943&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.47271&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.47271&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:5&quot;},{&quot;para_id&quot;:&quot;1970.47271&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.47275&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.47271&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.47271&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.47778&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.47404&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:5&quot;},{&quot;para_id&quot;:&quot;1969.47269&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:5&quot;}]" data-refcode-old="KJV — Matthew 1:5"><strong>5</strong> And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47273" data-para-id="196
+5.47273" data-refcode="KJV — Matthew 1:6">
+<span class="egw_content" data-refcode="196
+5.47273" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47000&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.47411&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:6&quot;},{&quot;para_id&quot;:&quot;11139.47273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;11140.47399&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.47273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.47405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.47273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.47273&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.47945&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.47273&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.47273&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:6&quot;},{&quot;para_id&quot;:&quot;1970.47273&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.47277&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.47273&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.47273&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.47780&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.47406&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:6&quot;},{&quot;para_id&quot;:&quot;1969.47271&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:6&quot;}]" data-refcode-old="KJV — Matthew 1:6"><strong>6</strong> And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47275" data-para-id="196
+5.47275" data-refcode="KJV — Matthew 1:7">
+<span class="egw_content" data-refcode="196
+5.47275" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47002&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.47413&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:7&quot;},{&quot;para_id&quot;:&quot;11139.47275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;11140.47401&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.47275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.47407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.47275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.47275&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.47947&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.47275&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.47275&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:7&quot;},{&quot;para_id&quot;:&quot;1970.47275&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.47279&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.47275&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.47275&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.47782&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.47408&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:7&quot;},{&quot;para_id&quot;:&quot;1969.47273&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:7&quot;}]" data-refcode-old="KJV — Matthew 1:7"><strong>7</strong> And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47277" data-para-id="196
+5.47277" data-refcode="KJV — Matthew 1:8">
+<span class="egw_content" data-refcode="196
+5.47277" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47004&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.47415&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:8&quot;},{&quot;para_id&quot;:&quot;11139.47277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;11140.47403&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.47277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.47409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.47277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.47277&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.47949&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.47277&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.47277&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:8&quot;},{&quot;para_id&quot;:&quot;1970.47277&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.47281&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.47277&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.47277&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.47784&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.47410&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:8&quot;},{&quot;para_id&quot;:&quot;1969.47275&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:8&quot;}]" data-refcode-old="KJV — Matthew 1:8"><strong>8</strong> And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47279" data-para-id="196
+5.47279" data-refcode="KJV — Matthew 1:9">
+<span class="egw_content" data-refcode="196
+5.47279" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47006&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.47417&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:9&quot;},{&quot;para_id&quot;:&quot;11139.47279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;11140.47405&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.47279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.47411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.47279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.47279&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.47951&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.47279&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.47279&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:9&quot;},{&quot;para_id&quot;:&quot;1970.47279&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.47283&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.47279&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.47279&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.47786&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.47412&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:9&quot;},{&quot;para_id&quot;:&quot;1969.47277&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:9&quot;}]" data-refcode-old="KJV — Matthew 1:9"><strong>9</strong> And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47281" data-para-id="196
+5.47281" data-refcode="KJV — Matthew 1:10">
+<span class="egw_content" data-refcode="196
+5.47281" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47008&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.47419&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:10&quot;},{&quot;para_id&quot;:&quot;11139.47281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;11140.47407&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.47281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.47413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.47281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.47281&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.47953&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.47281&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.47281&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:10&quot;},{&quot;para_id&quot;:&quot;1970.47281&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.47285&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.47281&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.47281&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.47788&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.47414&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:10&quot;},{&quot;para_id&quot;:&quot;1969.47279&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:10&quot;}]" data-refcode-old="KJV — Matthew 1:10"><strong>10</strong> And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47283" data-para-id="196
+5.47283" data-refcode="KJV — Matthew 1:11">
+<span class="egw_content" data-refcode="196
+5.47283" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47010&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.47421&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:11&quot;},{&quot;para_id&quot;:&quot;11139.47283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;11140.47409&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.47283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.47415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.47283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.47283&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.47955&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.47283&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.47283&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:11&quot;},{&quot;para_id&quot;:&quot;1970.47283&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.47287&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.47283&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.47283&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.47790&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.47416&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:11&quot;},{&quot;para_id&quot;:&quot;1969.47281&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:11&quot;}]" data-refcode-old="KJV — Matthew 1:11"><strong>11</strong> And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47285" data-para-id="196
+5.47285" data-refcode="KJV — Matthew 1:12">
+<span class="egw_content" data-refcode="196
+5.47285" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47012&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.47423&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:12&quot;},{&quot;para_id&quot;:&quot;11139.47285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;11140.47411&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.47285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.47417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.47285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.47285&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.47957&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.47285&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.47285&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:12&quot;},{&quot;para_id&quot;:&quot;1970.47285&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.47289&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.47285&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.47285&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.47792&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.47418&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:12&quot;},{&quot;para_id&quot;:&quot;1969.47283&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:12&quot;}]" data-refcode-old="KJV — Matthew 1:12"><strong>12</strong> And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47287" data-para-id="196
+5.47287" data-refcode="KJV — Matthew 1:13">
+<span class="egw_content" data-refcode="196
+5.47287" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47014&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.47425&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:13&quot;},{&quot;para_id&quot;:&quot;11139.47287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;11140.47413&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.47287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.47419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.47287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.47287&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.47959&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.47287&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.47287&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:13&quot;},{&quot;para_id&quot;:&quot;1970.47287&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.47291&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.47287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.47287&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.47794&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.47420&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:13&quot;},{&quot;para_id&quot;:&quot;1969.47285&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:13&quot;}]" data-refcode-old="KJV — Matthew 1:13"><strong>13</strong> And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47289" data-para-id="196
+5.47289" data-refcode="KJV — Matthew 1:14">
+<span class="egw_content" data-refcode="196
+5.47289" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47016&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.47427&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:14&quot;},{&quot;para_id&quot;:&quot;11139.47289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;11140.47415&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.47289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.47421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.47289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.47289&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.47961&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.47289&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.47289&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:14&quot;},{&quot;para_id&quot;:&quot;1970.47289&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.47293&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.47289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.47289&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.47796&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.47422&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:14&quot;},{&quot;para_id&quot;:&quot;1969.47287&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:14&quot;}]" data-refcode-old="KJV — Matthew 1:14"><strong>14</strong> And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47291" data-para-id="196
+5.47291" data-refcode="KJV — Matthew 1:15">
+<span class="egw_content" data-refcode="196
+5.47291" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47018&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.47429&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:15&quot;},{&quot;para_id&quot;:&quot;11139.47291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;11140.47417&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.47291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.47423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.47291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.47291&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.47963&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.47291&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.47291&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:15&quot;},{&quot;para_id&quot;:&quot;1970.47291&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.47295&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.47291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.47291&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.47798&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.47424&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:15&quot;},{&quot;para_id&quot;:&quot;1969.47289&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:15&quot;}]" data-refcode-old="KJV — Matthew 1:15"><strong>15</strong> And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47293" data-para-id="196
+5.47293" data-refcode="KJV — Matthew 1:16">
+<span class="egw_content" data-refcode="196
+5.47293" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47020&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.47431&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:16&quot;},{&quot;para_id&quot;:&quot;11139.47293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;11140.47419&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.47293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.47425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.47293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.47293&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.47965&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.47293&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.47293&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:16&quot;},{&quot;para_id&quot;:&quot;1970.47293&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.47297&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.47293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.47293&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.47800&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.47426&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:16&quot;},{&quot;para_id&quot;:&quot;1969.47291&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:16&quot;}]" data-refcode-old="KJV — Matthew 1:16"><strong>16</strong> And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47295" data-para-id="196
+5.47295" data-refcode="KJV — Matthew 1:17">
+<span class="egw_content" data-refcode="196
+5.47295" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47022&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.47433&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:17&quot;},{&quot;para_id&quot;:&quot;11139.47295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;11140.47421&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.47295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.47427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.47295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.47295&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.47967&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.47295&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.47295&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:17&quot;},{&quot;para_id&quot;:&quot;1970.47295&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.47299&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.47295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.47295&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.47802&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.47428&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:17&quot;},{&quot;para_id&quot;:&quot;1969.47293&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:17&quot;}]" data-refcode-old="KJV — Matthew 1:17"><strong>17</strong> So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47297" data-para-id="196
+5.47297" data-refcode="KJV — Matthew 1:18">
+<span class="egw_content" data-refcode="196
+5.47297" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47024&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.47435&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:18&quot;},{&quot;para_id&quot;:&quot;11139.47297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;11140.47423&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.47297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.47429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.47297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.47297&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.47969&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.47297&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.47297&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:18&quot;},{&quot;para_id&quot;:&quot;1970.47297&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.47301&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.47297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.47297&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.47804&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.47430&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:18&quot;},{&quot;para_id&quot;:&quot;1969.47295&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:18&quot;}]" data-refcode-old="KJV — Matthew 1:18"><strong>18</strong> Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47299" data-para-id="196
+5.47299" data-refcode="KJV — Matthew 1:19">
+<span class="egw_content" data-refcode="196
+5.47299" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47026&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.47437&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:19&quot;},{&quot;para_id&quot;:&quot;11139.47299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;11140.47425&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.47299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.47431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.47299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.47299&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.47971&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.47299&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.47299&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:19&quot;},{&quot;para_id&quot;:&quot;1970.47299&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.47303&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.47299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.47299&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.47806&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.47432&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:19&quot;},{&quot;para_id&quot;:&quot;1969.47297&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:19&quot;}]" data-refcode-old="KJV — Matthew 1:19"><strong>19</strong> Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47301" data-para-id="196
+5.47301" data-refcode="KJV — Matthew 1:20">
+<span class="egw_content" data-refcode="196
+5.47301" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47028&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.47439&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:20&quot;},{&quot;para_id&quot;:&quot;11139.47301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;11140.47427&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.47301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.47433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.47301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.47301&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.47973&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.47301&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.47301&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:20&quot;},{&quot;para_id&quot;:&quot;1970.47301&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.47305&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.47301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.47301&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.47808&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.47434&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:20&quot;},{&quot;para_id&quot;:&quot;1969.47299&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:20&quot;}]" data-refcode-old="KJV — Matthew 1:20"><strong>20</strong> But while he thought on these things, behold, the angel of the Lord appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47303" data-para-id="196
+5.47303" data-refcode="KJV — Matthew 1:21">
+<span class="egw_content" data-refcode="196
+5.47303" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47030&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.47441&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:21&quot;},{&quot;para_id&quot;:&quot;11139.47303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;11140.47429&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.47303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.47435&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.47303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.47303&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.47975&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.47303&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.47303&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:21&quot;},{&quot;para_id&quot;:&quot;1970.47303&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.47307&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.47303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.47303&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.47810&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.47436&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:21&quot;},{&quot;para_id&quot;:&quot;1969.47301&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:21&quot;}]" data-refcode-old="KJV — Matthew 1:21"><strong>21</strong> And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47305" data-para-id="196
+5.47305" data-refcode="KJV — Matthew 1:22">
+<span class="egw_content" data-refcode="196
+5.47305" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47032&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.47443&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:22&quot;},{&quot;para_id&quot;:&quot;11139.47305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;11140.47431&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.47305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.47437&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.47305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.47305&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.47977&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.47305&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.47305&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:22&quot;},{&quot;para_id&quot;:&quot;1970.47305&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.47309&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.47305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.47305&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.47812&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.47438&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:22&quot;},{&quot;para_id&quot;:&quot;1969.47303&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:22&quot;}]" data-refcode-old="KJV — Matthew 1:22"><strong>22</strong> Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47307" data-para-id="196
+5.47307" data-refcode="KJV — Matthew 1:23">
+<span class="egw_content" data-refcode="196
+5.47307" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47034&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.47445&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:23&quot;},{&quot;para_id&quot;:&quot;11139.47307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;11140.47433&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.47307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.47439&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.47307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.47307&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.47979&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.47307&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.47307&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:23&quot;},{&quot;para_id&quot;:&quot;1970.47307&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.47311&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.47307&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.47307&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.47814&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.47440&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:23&quot;},{&quot;para_id&quot;:&quot;1969.47305&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:23&quot;}]" data-refcode-old="KJV — Matthew 1:23"><strong>23</strong> Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47309" data-para-id="196
+5.47309" data-refcode="KJV — Matthew 1:24">
+<span class="egw_content" data-refcode="196
+5.47309" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47036&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.47447&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:24&quot;},{&quot;para_id&quot;:&quot;11139.47309&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;11140.47435&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.47309&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.47441&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.47309&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.47309&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.47981&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.47309&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.47309&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:24&quot;},{&quot;para_id&quot;:&quot;1970.47309&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.47313&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.47309&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.47309&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.47816&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.47442&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:24&quot;},{&quot;para_id&quot;:&quot;1969.47307&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:24&quot;}]" data-refcode-old="KJV — Matthew 1:24"><strong>24</strong> Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="47311" data-para-id="196
+5.47311" data-refcode="KJV — Matthew 1:25">
+<span class="egw_content" data-refcode="196
+5.47311" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.47038&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 Matou\u0161 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.47449&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 Matth\u00e4us 1:25&quot;},{&quot;para_id&quot;:&quot;11139.47311&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;11140.47437&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.47311&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.47443&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.47311&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.47311&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Matthew 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.47983&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Mateo 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.47311&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Matthieu 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.47311&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Matteo 1:25&quot;},{&quot;para_id&quot;:&quot;1970.47311&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Mateusza 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.47315&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Mateus 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.47311&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Matei 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.47311&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Matei 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.47818&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041c\u0430\u0442\u0444\u0435\u044f 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.47444&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041c\u0430\u0442\u0432\u0456\u044f 1:25&quot;},{&quot;para_id&quot;:&quot;1969.47309&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u99ac\u592a\u798f\u97f3 1:25&quot;}]" data-refcode-old="KJV — Matthew 1:25"><strong>25</strong> And knew her not till she had brought forth her firstborn son: and he called his name JESUS.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.47247">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.47312">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="9331c8a6eb1eea824a1627f6-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="9331c8a6eb1eea824a1627f6-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+ <div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+ </div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="9331c8a6eb1eea824a1627f6-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="9331c8a6eb1eea824a1627f6-" defer=""></script></body>
+</html>

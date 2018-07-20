@@ -1,0 +1,985 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript">var _isLogged=false;</script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="c0719f6e4123a6bdcf60a33b-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:8
+8.1%">
+1047/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.56891">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.57020">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="56954" data-para-id="196
+5.56954" data-refcode="KJV — Romans">
+<span class="egw_content" data-refcode="196
+5.56954" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56679&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm&quot;},{&quot;para_id&quot;:&quot;196
+7.57090&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer&quot;},{&quot;para_id&quot;:&quot;11139.56954&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;11140.57080&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;1114
+2.56954&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;1114
+3.57084&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;1114
+4.56954&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;1114
+5.56954&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans&quot;},{&quot;para_id&quot;:&quot;196
+8.57002&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos&quot;},{&quot;para_id&quot;:&quot;202
+1.56954&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains&quot;},{&quot;para_id&quot;:&quot;196
+6.56954&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani&quot;},{&quot;para_id&quot;:&quot;1970.56952&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian&quot;},{&quot;para_id&quot;:&quot;197
+1.56958&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos&quot;},{&quot;para_id&quot;:&quot;1116
+5.56954&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani&quot;},{&quot;para_id&quot;:&quot;197
+3.56954&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani&quot;},{&quot;para_id&quot;:&quot;197
+2.57459&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1231
+8.57083&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c&quot;},{&quot;para_id&quot;:&quot;1969.56950&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8&quot;}]" data-refcode-old="KJV — Romans">Romans</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="56955" data-para-id="196
+5.56955" data-refcode="KJV — Romans 1">
+<span class="egw_content" data-refcode="196
+5.56955" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56680&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1&quot;},{&quot;para_id&quot;:&quot;196
+7.57091&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1&quot;},{&quot;para_id&quot;:&quot;11139.56955&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;11140.57081&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.56955&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.57085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.56955&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.56955&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1&quot;},{&quot;para_id&quot;:&quot;196
+8.57003&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1&quot;},{&quot;para_id&quot;:&quot;202
+1.56955&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1&quot;},{&quot;para_id&quot;:&quot;196
+6.56955&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1&quot;},{&quot;para_id&quot;:&quot;1970.56953&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1&quot;},{&quot;para_id&quot;:&quot;197
+1.56959&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.56955&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1&quot;},{&quot;para_id&quot;:&quot;197
+3.56955&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1&quot;},{&quot;para_id&quot;:&quot;197
+2.57460&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.57084&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1&quot;},{&quot;para_id&quot;:&quot;1969.56951&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1&quot;}]" data-refcode-old="KJV — Romans 1">Romans 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56957" data-para-id="196
+5.56957" data-refcode="KJV — Romans 1:1">
+<span class="egw_content" data-refcode="196
+5.56957" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56682&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.57093&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:1&quot;},{&quot;para_id&quot;:&quot;11139.56957&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;11140.57083&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.56957&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.57087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.56957&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.56957&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.57005&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.56957&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.56957&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:1&quot;},{&quot;para_id&quot;:&quot;1970.56955&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.56961&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.56957&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.56957&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.57462&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.57086&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:1&quot;},{&quot;para_id&quot;:&quot;1969.56953&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:1&quot;}]" data-refcode-old="KJV — Romans 1:1"><strong>1</strong> Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56959" data-para-id="196
+5.56959" data-refcode="KJV — Romans 1:2">
+<span class="egw_content" data-refcode="196
+5.56959" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56684&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.57095&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:2&quot;},{&quot;para_id&quot;:&quot;11139.56959&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;11140.57085&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.56959&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.57089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.56959&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.56959&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.57007&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.56959&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.56959&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:2&quot;},{&quot;para_id&quot;:&quot;1970.56957&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.56963&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.56959&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.56959&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.57464&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.57088&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:2&quot;},{&quot;para_id&quot;:&quot;1969.56955&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:2&quot;}]" data-refcode-old="KJV — Romans 1:2"><strong>2</strong> Which he had promised afore by his prophets in the holy scriptures,)</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56961" data-para-id="196
+5.56961" data-refcode="KJV — Romans 1:3">
+<span class="egw_content" data-refcode="196
+5.56961" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56686&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.57097&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:3&quot;},{&quot;para_id&quot;:&quot;11139.56961&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;11140.57087&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.56961&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.57091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.56961&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.56961&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.57009&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.56961&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.56961&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:3&quot;},{&quot;para_id&quot;:&quot;1970.56959&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.56965&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.56961&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.56961&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.57466&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.57090&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:3&quot;},{&quot;para_id&quot;:&quot;1969.56957&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:3&quot;}]" data-refcode-old="KJV — Romans 1:3"><strong>3</strong> Concerning his Son Jesus Christ our Lord, which was made of the seed of David according to the flesh;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56963" data-para-id="196
+5.56963" data-refcode="KJV — Romans 1:4">
+<span class="egw_content" data-refcode="196
+5.56963" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56688&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.57099&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:4&quot;},{&quot;para_id&quot;:&quot;11139.56963&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;11140.57089&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.56963&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.57093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.56963&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.56963&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.57011&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.56963&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.56963&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:4&quot;},{&quot;para_id&quot;:&quot;1970.56961&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.56967&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.56963&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.56963&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.57468&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.57092&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:4&quot;},{&quot;para_id&quot;:&quot;1969.56959&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:4&quot;}]" data-refcode-old="KJV — Romans 1:4"><strong>4</strong> And declared to be the Son of God with power, according to the spirit of holiness, by the resurrection from the dead:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56965" data-para-id="196
+5.56965" data-refcode="KJV — Romans 1:5">
+<span class="egw_content" data-refcode="196
+5.56965" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56690&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.57101&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:5&quot;},{&quot;para_id&quot;:&quot;11139.56965&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;11140.57091&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.56965&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.57095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.56965&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.56965&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.57013&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.56965&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.56965&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:5&quot;},{&quot;para_id&quot;:&quot;1970.56963&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.56969&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.56965&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.56965&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.57470&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.57094&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:5&quot;},{&quot;para_id&quot;:&quot;1969.56961&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:5&quot;}]" data-refcode-old="KJV — Romans 1:5"><strong>5</strong> By whom we have received grace and apostleship, for obedience to the faith among all nations, for his name:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56967" data-para-id="196
+5.56967" data-refcode="KJV — Romans 1:6">
+<span class="egw_content" data-refcode="196
+5.56967" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56692&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.57103&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:6&quot;},{&quot;para_id&quot;:&quot;11139.56967&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;11140.57093&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.56967&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.57097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.56967&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.56967&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.57015&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.56967&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.56967&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:6&quot;},{&quot;para_id&quot;:&quot;1970.56965&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.56971&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.56967&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.56967&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.57472&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.57096&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:6&quot;},{&quot;para_id&quot;:&quot;1969.56963&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:6&quot;}]" data-refcode-old="KJV — Romans 1:6"><strong>6</strong> Among whom are ye also the called of Jesus Christ:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56969" data-para-id="196
+5.56969" data-refcode="KJV — Romans 1:7">
+<span class="egw_content" data-refcode="196
+5.56969" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56694&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.57105&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:7&quot;},{&quot;para_id&quot;:&quot;11139.56969&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;11140.57095&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.56969&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.57099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.56969&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.56969&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.57017&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.56969&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.56969&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:7&quot;},{&quot;para_id&quot;:&quot;1970.56967&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.56973&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.56969&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.56969&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.57474&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.57098&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:7&quot;},{&quot;para_id&quot;:&quot;1969.56965&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:7&quot;}]" data-refcode-old="KJV — Romans 1:7"><strong>7</strong> To all that be in Rome, beloved of God, called to be saints: Grace to you and peace from God our Father, and the Lord Jesus Christ.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56971" data-para-id="196
+5.56971" data-refcode="KJV — Romans 1:8">
+<span class="egw_content" data-refcode="196
+5.56971" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56696&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.57107&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:8&quot;},{&quot;para_id&quot;:&quot;11139.56971&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;11140.57097&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.56971&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.57101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.56971&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.56971&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.57019&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.56971&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.56971&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:8&quot;},{&quot;para_id&quot;:&quot;1970.56969&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.56975&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.56971&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.56971&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.57476&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.57100&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:8&quot;},{&quot;para_id&quot;:&quot;1969.56967&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:8&quot;}]" data-refcode-old="KJV — Romans 1:8"><strong>8</strong> First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56973" data-para-id="196
+5.56973" data-refcode="KJV — Romans 1:9">
+<span class="egw_content" data-refcode="196
+5.56973" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56698&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.57109&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:9&quot;},{&quot;para_id&quot;:&quot;11139.56973&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;11140.57099&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.56973&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.57103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.56973&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.56973&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.57021&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.56973&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.56973&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:9&quot;},{&quot;para_id&quot;:&quot;1970.56971&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.56977&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.56973&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.56973&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.57478&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.57102&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:9&quot;},{&quot;para_id&quot;:&quot;1969.56969&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:9&quot;}]" data-refcode-old="KJV — Romans 1:9"><strong>9</strong> For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I make mention of you always in my prayers;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56975" data-para-id="196
+5.56975" data-refcode="KJV — Romans 1:10">
+<span class="egw_content" data-refcode="196
+5.56975" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56700&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.57111&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:10&quot;},{&quot;para_id&quot;:&quot;11139.56975&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;11140.57101&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.56975&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.57105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.56975&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.56975&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.57023&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.56975&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.56975&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:10&quot;},{&quot;para_id&quot;:&quot;1970.56973&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.56979&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.56975&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.56975&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.57480&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.57104&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:10&quot;},{&quot;para_id&quot;:&quot;1969.56971&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:10&quot;}]" data-refcode-old="KJV — Romans 1:10"><strong>10</strong> Making request, if by any means now at length I might have a prosperous journey by the will of God to come unto you.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56977" data-para-id="196
+5.56977" data-refcode="KJV — Romans 1:11">
+<span class="egw_content" data-refcode="196
+5.56977" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56702&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.57113&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:11&quot;},{&quot;para_id&quot;:&quot;11139.56977&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;11140.57103&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.56977&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.57107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.56977&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.56977&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.57025&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.56977&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.56977&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:11&quot;},{&quot;para_id&quot;:&quot;1970.56975&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.56981&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.56977&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.56977&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.57482&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.57106&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:11&quot;},{&quot;para_id&quot;:&quot;1969.56973&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:11&quot;}]" data-refcode-old="KJV — Romans 1:11"><strong>11</strong> For I long to see you, that I may impart unto you some spiritual gift, to the end ye may be established;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56979" data-para-id="196
+5.56979" data-refcode="KJV — Romans 1:12">
+<span class="egw_content" data-refcode="196
+5.56979" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56704&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.57115&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:12&quot;},{&quot;para_id&quot;:&quot;11139.56979&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;11140.57105&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.56979&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.57109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.56979&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.56979&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.57027&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.56979&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.56979&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:12&quot;},{&quot;para_id&quot;:&quot;1970.56977&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.56983&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.56979&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.56979&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.57484&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.57108&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:12&quot;},{&quot;para_id&quot;:&quot;1969.56975&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:12&quot;}]" data-refcode-old="KJV — Romans 1:12"><strong>12</strong> That is, that I may be comforted together with you by the mutual faith both of you and me.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56981" data-para-id="196
+5.56981" data-refcode="KJV — Romans 1:13">
+<span class="egw_content" data-refcode="196
+5.56981" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56706&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.57117&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:13&quot;},{&quot;para_id&quot;:&quot;11139.56981&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;11140.57107&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.56981&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.57111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.56981&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.56981&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.57029&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.56981&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.56981&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:13&quot;},{&quot;para_id&quot;:&quot;1970.56979&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.56985&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.56981&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.56981&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.57486&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.57110&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:13&quot;},{&quot;para_id&quot;:&quot;1969.56977&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:13&quot;}]" data-refcode-old="KJV — Romans 1:13"><strong>13</strong> Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56983" data-para-id="196
+5.56983" data-refcode="KJV — Romans 1:14">
+<span class="egw_content" data-refcode="196
+5.56983" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56708&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.57119&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:14&quot;},{&quot;para_id&quot;:&quot;11139.56983&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;11140.57109&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.56983&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.57113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.56983&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.56983&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.57031&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.56983&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.56983&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:14&quot;},{&quot;para_id&quot;:&quot;1970.56981&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.56987&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.56983&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.56983&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.57488&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.57112&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:14&quot;},{&quot;para_id&quot;:&quot;1969.56979&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:14&quot;}]" data-refcode-old="KJV — Romans 1:14"><strong>14</strong> I am debtor both to the Greeks, and to the Barbarians; both to the wise, and to the unwise.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56985" data-para-id="196
+5.56985" data-refcode="KJV — Romans 1:15">
+<span class="egw_content" data-refcode="196
+5.56985" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56710&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.57121&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:15&quot;},{&quot;para_id&quot;:&quot;11139.56985&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;11140.57111&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.56985&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.57115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.56985&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.56985&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.57033&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.56985&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.56985&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:15&quot;},{&quot;para_id&quot;:&quot;1970.56983&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.56989&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.56985&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.56985&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.57490&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.57114&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:15&quot;},{&quot;para_id&quot;:&quot;1969.56981&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:15&quot;}]" data-refcode-old="KJV — Romans 1:15"><strong>15</strong> So, as much as in me is, I am ready to preach the gospel to you that are at Rome also.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56987" data-para-id="196
+5.56987" data-refcode="KJV — Romans 1:16">
+<span class="egw_content" data-refcode="196
+5.56987" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56712&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.57123&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:16&quot;},{&quot;para_id&quot;:&quot;11139.56987&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;11140.57113&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.56987&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.57117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.56987&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.56987&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.57035&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.56987&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.56987&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:16&quot;},{&quot;para_id&quot;:&quot;1970.56985&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.56991&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.56987&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.56987&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.57492&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.57116&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:16&quot;},{&quot;para_id&quot;:&quot;1969.56983&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:16&quot;}]" data-refcode-old="KJV — Romans 1:16"><strong>16</strong> For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56989" data-para-id="196
+5.56989" data-refcode="KJV — Romans 1:17">
+<span class="egw_content" data-refcode="196
+5.56989" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56714&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.57125&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:17&quot;},{&quot;para_id&quot;:&quot;11139.56989&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;11140.57115&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.56989&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.57119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.56989&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.56989&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.57037&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.56989&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.56989&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:17&quot;},{&quot;para_id&quot;:&quot;1970.56987&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.56993&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.56989&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.56989&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.57494&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.57118&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:17&quot;},{&quot;para_id&quot;:&quot;1969.56985&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:17&quot;}]" data-refcode-old="KJV — Romans 1:17"><strong>17</strong> For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56991" data-para-id="196
+5.56991" data-refcode="KJV — Romans 1:18">
+<span class="egw_content" data-refcode="196
+5.56991" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56716&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:18&quot;},{&quot;para_id&quot;:&quot;196
+7.57127&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:18&quot;},{&quot;para_id&quot;:&quot;11139.56991&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;11140.57117&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+2.56991&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+3.57121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+4.56991&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;1114
+5.56991&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:18&quot;},{&quot;para_id&quot;:&quot;196
+8.57039&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:18&quot;},{&quot;para_id&quot;:&quot;202
+1.56991&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:18&quot;},{&quot;para_id&quot;:&quot;196
+6.56991&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:18&quot;},{&quot;para_id&quot;:&quot;1970.56989&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:18&quot;},{&quot;para_id&quot;:&quot;197
+1.56995&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:18&quot;},{&quot;para_id&quot;:&quot;1116
+5.56991&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:18&quot;},{&quot;para_id&quot;:&quot;197
+3.56991&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:18&quot;},{&quot;para_id&quot;:&quot;197
+2.57496&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1231
+8.57120&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:18&quot;},{&quot;para_id&quot;:&quot;1969.56987&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:18&quot;}]" data-refcode-old="KJV — Romans 1:18"><strong>18</strong> For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who hold the truth in unrighteousness;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56993" data-para-id="196
+5.56993" data-refcode="KJV — Romans 1:19">
+<span class="egw_content" data-refcode="196
+5.56993" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56718&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:19&quot;},{&quot;para_id&quot;:&quot;196
+7.57129&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:19&quot;},{&quot;para_id&quot;:&quot;11139.56993&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;11140.57119&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+2.56993&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+3.57123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+4.56993&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;1114
+5.56993&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:19&quot;},{&quot;para_id&quot;:&quot;196
+8.57041&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:19&quot;},{&quot;para_id&quot;:&quot;202
+1.56993&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:19&quot;},{&quot;para_id&quot;:&quot;196
+6.56993&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:19&quot;},{&quot;para_id&quot;:&quot;1970.56991&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:19&quot;},{&quot;para_id&quot;:&quot;197
+1.56997&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:19&quot;},{&quot;para_id&quot;:&quot;1116
+5.56993&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:19&quot;},{&quot;para_id&quot;:&quot;197
+3.56993&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:19&quot;},{&quot;para_id&quot;:&quot;197
+2.57498&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1231
+8.57122&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:19&quot;},{&quot;para_id&quot;:&quot;1969.56989&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:19&quot;}]" data-refcode-old="KJV — Romans 1:19"><strong>19</strong> Because that which may be known of God is manifest in them; for God hath shewed it unto them.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56995" data-para-id="196
+5.56995" data-refcode="KJV — Romans 1:20">
+<span class="egw_content" data-refcode="196
+5.56995" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56720&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:20&quot;},{&quot;para_id&quot;:&quot;196
+7.57131&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:20&quot;},{&quot;para_id&quot;:&quot;11139.56995&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;11140.57121&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+2.56995&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+3.57125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+4.56995&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;1114
+5.56995&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:20&quot;},{&quot;para_id&quot;:&quot;196
+8.57043&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:20&quot;},{&quot;para_id&quot;:&quot;202
+1.56995&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:20&quot;},{&quot;para_id&quot;:&quot;196
+6.56995&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:20&quot;},{&quot;para_id&quot;:&quot;1970.56993&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:20&quot;},{&quot;para_id&quot;:&quot;197
+1.56999&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:20&quot;},{&quot;para_id&quot;:&quot;1116
+5.56995&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:20&quot;},{&quot;para_id&quot;:&quot;197
+3.56995&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:20&quot;},{&quot;para_id&quot;:&quot;197
+2.57500&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1231
+8.57124&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:20&quot;},{&quot;para_id&quot;:&quot;1969.56991&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:20&quot;}]" data-refcode-old="KJV — Romans 1:20"><strong>20</strong> For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56997" data-para-id="196
+5.56997" data-refcode="KJV — Romans 1:21">
+<span class="egw_content" data-refcode="196
+5.56997" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56722&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:21&quot;},{&quot;para_id&quot;:&quot;196
+7.57133&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:21&quot;},{&quot;para_id&quot;:&quot;11139.56997&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;11140.57123&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+2.56997&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+3.57127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+4.56997&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;1114
+5.56997&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:21&quot;},{&quot;para_id&quot;:&quot;196
+8.57045&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:21&quot;},{&quot;para_id&quot;:&quot;202
+1.56997&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:21&quot;},{&quot;para_id&quot;:&quot;196
+6.56997&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:21&quot;},{&quot;para_id&quot;:&quot;1970.56995&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:21&quot;},{&quot;para_id&quot;:&quot;197
+1.57001&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:21&quot;},{&quot;para_id&quot;:&quot;1116
+5.56997&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:21&quot;},{&quot;para_id&quot;:&quot;197
+3.56997&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:21&quot;},{&quot;para_id&quot;:&quot;197
+2.57502&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1231
+8.57126&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:21&quot;},{&quot;para_id&quot;:&quot;1969.56993&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:21&quot;}]" data-refcode-old="KJV — Romans 1:21"><strong>21</strong> Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="56999" data-para-id="196
+5.56999" data-refcode="KJV — Romans 1:22">
+<span class="egw_content" data-refcode="196
+5.56999" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56724&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:22&quot;},{&quot;para_id&quot;:&quot;196
+7.57135&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:22&quot;},{&quot;para_id&quot;:&quot;11139.56999&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;11140.57125&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+2.56999&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+3.57129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+4.56999&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;1114
+5.56999&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:22&quot;},{&quot;para_id&quot;:&quot;196
+8.57047&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:22&quot;},{&quot;para_id&quot;:&quot;202
+1.56999&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:22&quot;},{&quot;para_id&quot;:&quot;196
+6.56999&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:22&quot;},{&quot;para_id&quot;:&quot;1970.56997&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:22&quot;},{&quot;para_id&quot;:&quot;197
+1.57003&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:22&quot;},{&quot;para_id&quot;:&quot;1116
+5.56999&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:22&quot;},{&quot;para_id&quot;:&quot;197
+3.56999&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:22&quot;},{&quot;para_id&quot;:&quot;197
+2.57504&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1231
+8.57128&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:22&quot;},{&quot;para_id&quot;:&quot;1969.56995&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:22&quot;}]" data-refcode-old="KJV — Romans 1:22"><strong>22</strong> Professing themselves to be wise, they became fools,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57001" data-para-id="196
+5.57001" data-refcode="KJV — Romans 1:23">
+<span class="egw_content" data-refcode="196
+5.57001" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56726&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:23&quot;},{&quot;para_id&quot;:&quot;196
+7.57137&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:23&quot;},{&quot;para_id&quot;:&quot;11139.57001&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;11140.57127&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+2.57001&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+3.57131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+4.57001&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;1114
+5.57001&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:23&quot;},{&quot;para_id&quot;:&quot;196
+8.57049&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:23&quot;},{&quot;para_id&quot;:&quot;202
+1.57001&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:23&quot;},{&quot;para_id&quot;:&quot;196
+6.57001&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:23&quot;},{&quot;para_id&quot;:&quot;1970.56999&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:23&quot;},{&quot;para_id&quot;:&quot;197
+1.57005&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:23&quot;},{&quot;para_id&quot;:&quot;1116
+5.57001&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:23&quot;},{&quot;para_id&quot;:&quot;197
+3.57001&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:23&quot;},{&quot;para_id&quot;:&quot;197
+2.57506&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1231
+8.57130&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:23&quot;},{&quot;para_id&quot;:&quot;1969.56997&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:23&quot;}]" data-refcode-old="KJV — Romans 1:23"><strong>23</strong> And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57003" data-para-id="196
+5.57003" data-refcode="KJV — Romans 1:24">
+<span class="egw_content" data-refcode="196
+5.57003" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56728&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:24&quot;},{&quot;para_id&quot;:&quot;196
+7.57139&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:24&quot;},{&quot;para_id&quot;:&quot;11139.57003&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;11140.57129&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+2.57003&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+3.57133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+4.57003&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;1114
+5.57003&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:24&quot;},{&quot;para_id&quot;:&quot;196
+8.57051&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:24&quot;},{&quot;para_id&quot;:&quot;202
+1.57003&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:24&quot;},{&quot;para_id&quot;:&quot;196
+6.57003&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:24&quot;},{&quot;para_id&quot;:&quot;1970.57001&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:24&quot;},{&quot;para_id&quot;:&quot;197
+1.57007&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:24&quot;},{&quot;para_id&quot;:&quot;1116
+5.57003&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:24&quot;},{&quot;para_id&quot;:&quot;197
+3.57003&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:24&quot;},{&quot;para_id&quot;:&quot;197
+2.57508&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1231
+8.57132&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:24&quot;},{&quot;para_id&quot;:&quot;1969.56999&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:24&quot;}]" data-refcode-old="KJV — Romans 1:24"><strong>24</strong> Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57005" data-para-id="196
+5.57005" data-refcode="KJV — Romans 1:25">
+<span class="egw_content" data-refcode="196
+5.57005" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56730&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:25&quot;},{&quot;para_id&quot;:&quot;196
+7.57141&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:25&quot;},{&quot;para_id&quot;:&quot;11139.57005&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;11140.57131&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+2.57005&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+3.57135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+4.57005&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;1114
+5.57005&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:25&quot;},{&quot;para_id&quot;:&quot;196
+8.57053&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:25&quot;},{&quot;para_id&quot;:&quot;202
+1.57005&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:25&quot;},{&quot;para_id&quot;:&quot;196
+6.57005&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:25&quot;},{&quot;para_id&quot;:&quot;1970.57003&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:25&quot;},{&quot;para_id&quot;:&quot;197
+1.57009&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:25&quot;},{&quot;para_id&quot;:&quot;1116
+5.57005&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:25&quot;},{&quot;para_id&quot;:&quot;197
+3.57005&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:25&quot;},{&quot;para_id&quot;:&quot;197
+2.57510&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:25&quot;},{&quot;para_id&quot;:&quot;1231
+8.57134&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:25&quot;},{&quot;para_id&quot;:&quot;1969.57001&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:25&quot;}]" data-refcode-old="KJV — Romans 1:25"><strong>25</strong> Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57007" data-para-id="196
+5.57007" data-refcode="KJV — Romans 1:26">
+<span class="egw_content" data-refcode="196
+5.57007" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56732&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:26&quot;},{&quot;para_id&quot;:&quot;196
+7.57143&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:26&quot;},{&quot;para_id&quot;:&quot;11139.57007&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;11140.57133&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+2.57007&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+3.57137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+4.57007&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;1114
+5.57007&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:26&quot;},{&quot;para_id&quot;:&quot;196
+8.57055&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:26&quot;},{&quot;para_id&quot;:&quot;202
+1.57007&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:26&quot;},{&quot;para_id&quot;:&quot;196
+6.57007&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:26&quot;},{&quot;para_id&quot;:&quot;1970.57005&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:26&quot;},{&quot;para_id&quot;:&quot;197
+1.57011&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:26&quot;},{&quot;para_id&quot;:&quot;1116
+5.57007&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:26&quot;},{&quot;para_id&quot;:&quot;197
+3.57007&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:26&quot;},{&quot;para_id&quot;:&quot;197
+2.57512&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:26&quot;},{&quot;para_id&quot;:&quot;1231
+8.57136&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:26&quot;},{&quot;para_id&quot;:&quot;1969.57003&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:26&quot;}]" data-refcode-old="KJV — Romans 1:26"><strong>26</strong> For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57009" data-para-id="196
+5.57009" data-refcode="KJV — Romans 1:27">
+<span class="egw_content" data-refcode="196
+5.57009" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56734&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:27&quot;},{&quot;para_id&quot;:&quot;196
+7.57145&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:27&quot;},{&quot;para_id&quot;:&quot;11139.57009&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;11140.57135&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+2.57009&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+3.57139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+4.57009&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;1114
+5.57009&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:27&quot;},{&quot;para_id&quot;:&quot;196
+8.57057&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:27&quot;},{&quot;para_id&quot;:&quot;202
+1.57009&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:27&quot;},{&quot;para_id&quot;:&quot;196
+6.57009&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:27&quot;},{&quot;para_id&quot;:&quot;1970.57007&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:27&quot;},{&quot;para_id&quot;:&quot;197
+1.57013&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:27&quot;},{&quot;para_id&quot;:&quot;1116
+5.57009&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:27&quot;},{&quot;para_id&quot;:&quot;197
+3.57009&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:27&quot;},{&quot;para_id&quot;:&quot;197
+2.57514&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:27&quot;},{&quot;para_id&quot;:&quot;1231
+8.57138&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:27&quot;},{&quot;para_id&quot;:&quot;1969.57005&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:27&quot;}]" data-refcode-old="KJV — Romans 1:27"><strong>27</strong> And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57011" data-para-id="196
+5.57011" data-refcode="KJV — Romans 1:28">
+<span class="egw_content" data-refcode="196
+5.57011" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56736&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:28&quot;},{&quot;para_id&quot;:&quot;196
+7.57147&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:28&quot;},{&quot;para_id&quot;:&quot;11139.57011&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;11140.57137&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+2.57011&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+3.57141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+4.57011&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;1114
+5.57011&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:28&quot;},{&quot;para_id&quot;:&quot;196
+8.57059&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:28&quot;},{&quot;para_id&quot;:&quot;202
+1.57011&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:28&quot;},{&quot;para_id&quot;:&quot;196
+6.57011&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:28&quot;},{&quot;para_id&quot;:&quot;1970.57009&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:28&quot;},{&quot;para_id&quot;:&quot;197
+1.57015&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:28&quot;},{&quot;para_id&quot;:&quot;1116
+5.57011&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:28&quot;},{&quot;para_id&quot;:&quot;197
+3.57011&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:28&quot;},{&quot;para_id&quot;:&quot;197
+2.57516&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:28&quot;},{&quot;para_id&quot;:&quot;1231
+8.57140&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:28&quot;},{&quot;para_id&quot;:&quot;1969.57007&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:28&quot;}]" data-refcode-old="KJV — Romans 1:28"><strong>28</strong> And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57013" data-para-id="196
+5.57013" data-refcode="KJV — Romans 1:29">
+<span class="egw_content" data-refcode="196
+5.57013" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56738&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:29&quot;},{&quot;para_id&quot;:&quot;196
+7.57149&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:29&quot;},{&quot;para_id&quot;:&quot;11139.57013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;11140.57139&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+2.57013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+3.57143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+4.57013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;1114
+5.57013&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:29&quot;},{&quot;para_id&quot;:&quot;196
+8.57061&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:29&quot;},{&quot;para_id&quot;:&quot;202
+1.57013&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:29&quot;},{&quot;para_id&quot;:&quot;196
+6.57013&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:29&quot;},{&quot;para_id&quot;:&quot;1970.57011&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:29&quot;},{&quot;para_id&quot;:&quot;197
+1.57017&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:29&quot;},{&quot;para_id&quot;:&quot;1116
+5.57013&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:29&quot;},{&quot;para_id&quot;:&quot;197
+3.57013&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:29&quot;},{&quot;para_id&quot;:&quot;197
+2.57518&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:29&quot;},{&quot;para_id&quot;:&quot;1231
+8.57142&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:29&quot;},{&quot;para_id&quot;:&quot;1969.57009&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:29&quot;}]" data-refcode-old="KJV — Romans 1:29"><strong>29</strong> Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57015" data-para-id="196
+5.57015" data-refcode="KJV — Romans 1:30">
+<span class="egw_content" data-refcode="196
+5.57015" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56740&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:30&quot;},{&quot;para_id&quot;:&quot;196
+7.57151&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:30&quot;},{&quot;para_id&quot;:&quot;11139.57015&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;11140.57141&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+2.57015&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+3.57145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+4.57015&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;1114
+5.57015&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:30&quot;},{&quot;para_id&quot;:&quot;196
+8.57063&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:30&quot;},{&quot;para_id&quot;:&quot;202
+1.57015&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:30&quot;},{&quot;para_id&quot;:&quot;196
+6.57015&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:30&quot;},{&quot;para_id&quot;:&quot;1970.57013&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:30&quot;},{&quot;para_id&quot;:&quot;197
+1.57019&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:30&quot;},{&quot;para_id&quot;:&quot;1116
+5.57015&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:30&quot;},{&quot;para_id&quot;:&quot;197
+3.57015&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:30&quot;},{&quot;para_id&quot;:&quot;197
+2.57520&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:30&quot;},{&quot;para_id&quot;:&quot;1231
+8.57144&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:30&quot;},{&quot;para_id&quot;:&quot;1969.57011&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:30&quot;}]" data-refcode-old="KJV — Romans 1:30"><strong>30</strong> Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57017" data-para-id="196
+5.57017" data-refcode="KJV — Romans 1:31">
+<span class="egw_content" data-refcode="196
+5.57017" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56742&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:31&quot;},{&quot;para_id&quot;:&quot;196
+7.57153&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:31&quot;},{&quot;para_id&quot;:&quot;11139.57017&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;11140.57143&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+2.57017&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+3.57147&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+4.57017&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;1114
+5.57017&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:31&quot;},{&quot;para_id&quot;:&quot;196
+8.57065&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:31&quot;},{&quot;para_id&quot;:&quot;202
+1.57017&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:31&quot;},{&quot;para_id&quot;:&quot;196
+6.57017&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:31&quot;},{&quot;para_id&quot;:&quot;1970.57015&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:31&quot;},{&quot;para_id&quot;:&quot;197
+1.57021&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:31&quot;},{&quot;para_id&quot;:&quot;1116
+5.57017&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:31&quot;},{&quot;para_id&quot;:&quot;197
+3.57017&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:31&quot;},{&quot;para_id&quot;:&quot;197
+2.57522&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:31&quot;},{&quot;para_id&quot;:&quot;1231
+8.57146&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:31&quot;},{&quot;para_id&quot;:&quot;1969.57013&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:31&quot;}]" data-refcode-old="KJV — Romans 1:31"><strong>31</strong> Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="57019" data-para-id="196
+5.57019" data-refcode="KJV — Romans 1:32">
+<span class="egw_content" data-refcode="196
+5.57019" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.56744&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 \u0158\u00edman\u016fm 1:32&quot;},{&quot;para_id&quot;:&quot;196
+7.57155&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 R\u00f6mer 1:32&quot;},{&quot;para_id&quot;:&quot;11139.57019&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;11140.57145&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+2.57019&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+3.57149&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+4.57019&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;1114
+5.57019&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Romans 1:32&quot;},{&quot;para_id&quot;:&quot;196
+8.57067&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Romanos 1:32&quot;},{&quot;para_id&quot;:&quot;202
+1.57019&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 Romains 1:32&quot;},{&quot;para_id&quot;:&quot;196
+6.57019&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Romani 1:32&quot;},{&quot;para_id&quot;:&quot;1970.57017&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 Rzymian 1:32&quot;},{&quot;para_id&quot;:&quot;197
+1.57023&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Romanos 1:32&quot;},{&quot;para_id&quot;:&quot;1116
+5.57019&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Romani 1:32&quot;},{&quot;para_id&quot;:&quot;197
+3.57019&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Romani 1:32&quot;},{&quot;para_id&quot;:&quot;197
+2.57524&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:32&quot;},{&quot;para_id&quot;:&quot;1231
+8.57148&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u0420\u0438\u043c\u043b\u044f\u043d\u0430\u043c 1:32&quot;},{&quot;para_id&quot;:&quot;1969.57015&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u7f85\u99ac\u66f8 1:32&quot;}]" data-refcode-old="KJV — Romans 1:32"><strong>32</strong> Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.56891">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.57020">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c0719f6e4123a6bdcf60a33b-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="c0719f6e4123a6bdcf60a33b-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="c0719f6e4123a6bdcf60a33b-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="c0719f6e4123a6bdcf60a33b-" defer=""></script></body>
+</html>

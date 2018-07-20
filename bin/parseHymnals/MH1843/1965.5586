@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon" />
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="King James Version" />
+<meta property="og:image" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg" />
+<meta name="twitter:site" content="">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="King James Version">
+<meta name="twitter:description" content="The third official English translation of the Bible, the King James Version was first published in 1611 and has remained the standard for many theologians and Bible scholars to this day. It has also been the basis for many other English Bibles, forming the foundation of their text. Commissioned under King James of England, the seven-year-long translation was performed from Hebrew (Old Testament) and Greek (New Testament) by 47 scholars, based at Westminster, and the Universities at Cambridge and Oxford.">
+<meta name="twitter:image:src" content="https://egwwritings-a.akamaihd.net/covers/1965_l.jpg">
+<link rel="stylesheet" type="text/css" href="/assets/b9908141/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/10390753/css/bootstrap-datepicker.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/3ea7dc80/css/zabuto_calendar.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1d0f9702/bootstrap-table.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6449d05/css/bootstrap-slider.min.css" />
+<link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Raleway:400,500|Roboto+Condensed:300,400&amp;subset=cyrillic-ext,latin" />
+<link rel="stylesheet" type="text/css" href="/assets/acc3cca/css/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/assets/f6d1f3ee/skin/blue.monday/css/jplayer.blue.monday.css" />
+<link rel="stylesheet" type="text/css" href="/assets/1882661a/css/select
+2.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/style.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/custom.css" />
+<link rel="stylesheet" type="text/css" href="/assets/4e3ff3a8/extend.css" />
+<title>King James Version &mdash; Ellen G. White Writings</title>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript">var _isLogged=false;</script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript">
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create','UA-79364468-1', 'auto');
+        ga('send', 'pageview');
+    </script>
+</head>
+<body class="dark-theme egw-page-lang">
+<ul class="dropdown-menu custom-dropdown-menu sc-new-dropdown-menu" id="sc-dropdown-2">
+<li id="add_highlight_new" class="disabled"><a title="Add Highlight"><span class="glyphicon glyphicon-fire"></span></a></li>
+<li id="add_bookmark_new" class="disabled"><a title="Add Bookmark"><span class="glyphicon glyphicon-bookmark"></span></a></li>
+<li id="add_note_new" class="disabled"><a title="Add Note"><span class="glyphicon glyphicon-edit"></span></a></li>
+<li id="add_tag_new" class="disabled"><a title="Add Tag"><span class="glyphicon glyphicon-tag"></span></a></li>
+</ul>
+<header class="site_header">
+<section class="egw-notifications">
+<div class="egw-loader"><span></span>&nbsp;Loading&hellip;</div>
+</section>
+<div class="header-top">
+<div class="container">
+<div class="clearfix">
+<a class="site-logo pull-left" href="/en">
+<img src="/images/logo.svg" width="86" alt="Ellen G. White" title="Ellen G. White Writings" />
+<span class="logo-name">Writings</span>
+</a>
+<div class="pull-right">
+<nav class="main-nav">
+<li><a href="http://ellenwhite.org" target="_blank" class="noajax">ellenwhite.org</a></li>
+<li class="egw-only-lang"><a class="noajax" href="/languages">Select language</a></li>
+<input type="hidden" id="userLogin" value="0">
+<li><a href="/auth/login" class="noajax egw-login-button">Login</a></li>
+<li><a href="/auth/registration" class="noajax">Registration</a></li>
+</nav>
+<form class="navbar-search search-form" method="get" action="/search">
+<input type="hidden" name="lang" value="en">
+<div class="search-field">
+<input type="text" id="id_query" name="query" class="typeahead search-query" value="" placeholder="Search…">
+<div class="suggestions-list" style="display:none;">
+<div class="suggestions-list-data">
+</div>
+<div class="suggestions-list-close"><a href="#">Close</a></div>
+</div>
+</div>
+<input type="hidden" name="suggestion" value="0">
+<div class="search-form-btns">
+<button type="submit" class="search-form-btn submit"></button>
+<a href="/advsearch" class="search-form-btn advanced-search noajax"></a>
+</div>
+</form>
+<a href="/index/Theme/theme/light" class="theme-switcher-container noajax"><input id="theme-switcher" data-on="Dark" data-off="Light" type="checkbox" checked="checked" /></a>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div id="pager-fixed" class="pager-fixed">
+<div class="container">
+</div>
+</div>
+<script language="JavaScript" type="a158ec22c49ff0b9ce54861c-">
+    var _app_lang = 'en';
+</script>
+<div id="toolbar" class="toolbar text-right">
+<div class="container">
+<div class="dropdown translate-dropdown" style="display: none;">
+<a title="Turn translation off " href="#" id="translate-off" style="display: none" class="toolbar-icons active"><i class="icon-translate"></i></a>
+<a title="Translate paragraph" href="#" id="translate" class="dropdown-toggle toolbar-icons" data-toggle="dropdown"><i class="icon-translate"></i></a>
+<ul class="dropdown-menu custom-dropdown-menu" id="translate-dropdown" aria-labelledby="translate">
+<li class="disabled"><a href="#">No translate</a></li>
+</ul>
+</div>
+<a title="Increase Text Size" href="#" id="increaseFontSize" class="toolbar-icons font-change"><i class="icon-font-increase"></i></a>
+<a title="Decrease Text Size" href="#" id="decreaseFontSize" class="toolbar-icons font-change font-change-decr"><i class="icon-font-decrease"></i></a>
+<div class="delimiter player-delimiter"></div>
+<div class="btn-group player-btn-group">
+<button type="button" class="btn-player-ctrl btn btn-main btn-default" disabled>
+<i class="player-icon icon-play"></i>
+</button>
+<button type="button" class="btn-open-player btn btn-main btn-default" disabled>
+<div><span class="fa fa-external-link"></span><div>
+<span class="player-text open-player">--</span>
+</button>
+<button type="button" class="btn-play-current btn btn-main btn-default" disabled>
+<div><img src="/images/play_btn
+1.png" width="16" height="16"></div>
+<span class="player-text play-current">--</span>
+</button>
+</div>
+</div>
+</div>
+<main data-font-size="" class="main_content " id="main_content">
+<div class="container  text-ltr  " id="content">
+<h1>King James Version</h1>
+<ul class="breadcrumb"><li><a href="/en">Home</a></li><li><a href="/en/folders/22">Bible</a></li><li class="dropdown active"><a class="dropdown-toggle" id="breadcrumb_book_1965" data-toggle="dropdown" href="#">King James Version<b class="caret"></b></a><ul id="breadcrumb_book_1965-dropdown" class="dropdown-menu"><li class="disabled"><a href="#">Read</a></li><li><a id="BreadcrumbsContent_toc" href="/en/book/1965/toc">Contents</a></li><li><a id="BreadcrumbsContent_details" href="/en/book/1965/info">Details</a></li></ul></li></ul>
+<div class="book-content">
+<div class="pager top pager-fixed-src">
+<div class="progress">
+<div class="progress-bar" role="progressbar" style="width:
+7.7%">
+91/1189
+</div>
+</div>
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.5509">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.5622">Next</a>
+</li>
+</ul>
+</div>
+<div class="egw_content_container" data-lang="en" data-pubnr="1965" data-type="bible">
+<h2 class="egw_content_wrapper " book_id="1965" id="5586" data-para-id="196
+5.5586" data-refcode="KJV — Leviticus">
+<span class="egw_content" data-refcode="196
+5.5586" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5574&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova&quot;},{&quot;para_id&quot;:&quot;196
+7.5586&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose&quot;},{&quot;para_id&quot;:&quot;11139.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;11140.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;1114
+2.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;1114
+3.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;1114
+4.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;1114
+5.5586&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus&quot;},{&quot;para_id&quot;:&quot;196
+8.5592&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico&quot;},{&quot;para_id&quot;:&quot;202
+1.5586&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique&quot;},{&quot;para_id&quot;:&quot;196
+6.5586&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico&quot;},{&quot;para_id&quot;:&quot;1970.5586&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa&quot;},{&quot;para_id&quot;:&quot;197
+1.5586&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico&quot;},{&quot;para_id&quot;:&quot;1116
+5.5586&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul&quot;},{&quot;para_id&quot;:&quot;197
+3.5586&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic&quot;},{&quot;para_id&quot;:&quot;197
+2.5586&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442&quot;},{&quot;para_id&quot;:&quot;1231
+8.5586&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442&quot;},{&quot;para_id&quot;:&quot;1969.5586&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18&quot;}]" data-refcode-old="KJV — Leviticus">Leviticus</span>
+</h2>
+<h3 class="egw_content_wrapper chapter" book_id="1965" id="5587" data-para-id="196
+5.5587" data-refcode="KJV — Leviticus 1">
+<span class="egw_content" data-refcode="196
+5.5587" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5575&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1&quot;},{&quot;para_id&quot;:&quot;196
+7.5587&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1&quot;},{&quot;para_id&quot;:&quot;11139.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;11140.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;1114
+2.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;1114
+3.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;1114
+4.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;1114
+5.5587&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1&quot;},{&quot;para_id&quot;:&quot;196
+8.6100&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1&quot;},{&quot;para_id&quot;:&quot;202
+1.5587&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1&quot;},{&quot;para_id&quot;:&quot;196
+6.5587&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1&quot;},{&quot;para_id&quot;:&quot;1970.5587&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1&quot;},{&quot;para_id&quot;:&quot;197
+1.5587&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1&quot;},{&quot;para_id&quot;:&quot;1116
+5.5587&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1&quot;},{&quot;para_id&quot;:&quot;197
+3.5587&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1&quot;},{&quot;para_id&quot;:&quot;197
+2.5587&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1&quot;},{&quot;para_id&quot;:&quot;1231
+8.5587&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1&quot;},{&quot;para_id&quot;:&quot;1969.5587&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1&quot;}]" data-refcode-old="KJV — Leviticus 1">Leviticus 1</span>
+</h3>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5589" data-para-id="196
+5.5589" data-refcode="KJV — Leviticus 1:1">
+<span class="egw_content" data-refcode="196
+5.5589" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5577&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:1&quot;},{&quot;para_id&quot;:&quot;196
+7.5589&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:1&quot;},{&quot;para_id&quot;:&quot;11139.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;11140.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+2.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+3.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+4.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;1114
+5.5589&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:1&quot;},{&quot;para_id&quot;:&quot;196
+8.6102&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:1&quot;},{&quot;para_id&quot;:&quot;202
+1.5589&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:1&quot;},{&quot;para_id&quot;:&quot;196
+6.5589&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:1&quot;},{&quot;para_id&quot;:&quot;1970.5589&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:1&quot;},{&quot;para_id&quot;:&quot;197
+1.5589&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:1&quot;},{&quot;para_id&quot;:&quot;1116
+5.5589&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:1&quot;},{&quot;para_id&quot;:&quot;197
+3.5589&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:1&quot;},{&quot;para_id&quot;:&quot;197
+2.5589&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:1&quot;},{&quot;para_id&quot;:&quot;1231
+8.5589&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:1&quot;},{&quot;para_id&quot;:&quot;1969.5589&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:1&quot;}]" data-refcode-old="KJV — Leviticus 1:1"><strong>1</strong> And the LORD called unto Moses, and spake unto him out of the tabernacle of the congregation, saying,</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5591" data-para-id="196
+5.5591" data-refcode="KJV — Leviticus 1:2">
+<span class="egw_content" data-refcode="196
+5.5591" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5579&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:2&quot;},{&quot;para_id&quot;:&quot;196
+7.5591&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:2&quot;},{&quot;para_id&quot;:&quot;11139.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;11140.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+2.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+3.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+4.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;1114
+5.5591&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:2&quot;},{&quot;para_id&quot;:&quot;196
+8.6104&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:2&quot;},{&quot;para_id&quot;:&quot;202
+1.5591&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:2&quot;},{&quot;para_id&quot;:&quot;196
+6.5591&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:2&quot;},{&quot;para_id&quot;:&quot;1970.5591&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:2&quot;},{&quot;para_id&quot;:&quot;197
+1.5591&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:2&quot;},{&quot;para_id&quot;:&quot;1116
+5.5591&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:2&quot;},{&quot;para_id&quot;:&quot;197
+3.5591&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:2&quot;},{&quot;para_id&quot;:&quot;197
+2.5591&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:2&quot;},{&quot;para_id&quot;:&quot;1231
+8.5591&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:2&quot;},{&quot;para_id&quot;:&quot;1969.5591&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:2&quot;}]" data-refcode-old="KJV — Leviticus 1:2"><strong>2</strong> Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the LORD, ye shall bring your offering of the cattle, even of the herd, and of the flock.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5593" data-para-id="196
+5.5593" data-refcode="KJV — Leviticus 1:3">
+<span class="egw_content" data-refcode="196
+5.5593" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5581&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:3&quot;},{&quot;para_id&quot;:&quot;196
+7.5593&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:3&quot;},{&quot;para_id&quot;:&quot;11139.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;11140.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+2.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+3.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+4.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;1114
+5.5593&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:3&quot;},{&quot;para_id&quot;:&quot;196
+8.6106&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:3&quot;},{&quot;para_id&quot;:&quot;202
+1.5593&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:3&quot;},{&quot;para_id&quot;:&quot;196
+6.5593&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:3&quot;},{&quot;para_id&quot;:&quot;1970.5593&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:3&quot;},{&quot;para_id&quot;:&quot;197
+1.5593&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:3&quot;},{&quot;para_id&quot;:&quot;1116
+5.5593&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:3&quot;},{&quot;para_id&quot;:&quot;197
+3.5593&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:3&quot;},{&quot;para_id&quot;:&quot;197
+2.5593&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:3&quot;},{&quot;para_id&quot;:&quot;1231
+8.5593&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:3&quot;},{&quot;para_id&quot;:&quot;1969.5593&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:3&quot;}]" data-refcode-old="KJV — Leviticus 1:3"><strong>3</strong> If his offering be a burnt sacrifice of the herd, let him offer a male without blemish: he shall offer it of his own voluntary will at the door of the tabernacle of the congregation before the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5595" data-para-id="196
+5.5595" data-refcode="KJV — Leviticus 1:4">
+<span class="egw_content" data-refcode="196
+5.5595" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5583&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:4&quot;},{&quot;para_id&quot;:&quot;196
+7.5595&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:4&quot;},{&quot;para_id&quot;:&quot;11139.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;11140.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+2.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+3.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+4.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;1114
+5.5595&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:4&quot;},{&quot;para_id&quot;:&quot;196
+8.6108&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:4&quot;},{&quot;para_id&quot;:&quot;202
+1.5595&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:4&quot;},{&quot;para_id&quot;:&quot;196
+6.5595&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:4&quot;},{&quot;para_id&quot;:&quot;1970.5595&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:4&quot;},{&quot;para_id&quot;:&quot;197
+1.5595&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:4&quot;},{&quot;para_id&quot;:&quot;1116
+5.5595&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:4&quot;},{&quot;para_id&quot;:&quot;197
+3.5595&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:4&quot;},{&quot;para_id&quot;:&quot;197
+2.5595&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:4&quot;},{&quot;para_id&quot;:&quot;1231
+8.5595&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:4&quot;},{&quot;para_id&quot;:&quot;1969.5595&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:4&quot;}]" data-refcode-old="KJV — Leviticus 1:4"><strong>4</strong> And he shall put his hand upon the head of the burnt offering; and it shall be accepted for him to make atonement for him.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5597" data-para-id="196
+5.5597" data-refcode="KJV — Leviticus 1:5">
+<span class="egw_content" data-refcode="196
+5.5597" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5585&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:5&quot;},{&quot;para_id&quot;:&quot;196
+7.5597&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:5&quot;},{&quot;para_id&quot;:&quot;11139.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;11140.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+2.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+3.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+4.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;1114
+5.5597&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:5&quot;},{&quot;para_id&quot;:&quot;196
+8.6110&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:5&quot;},{&quot;para_id&quot;:&quot;202
+1.5597&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:5&quot;},{&quot;para_id&quot;:&quot;196
+6.5597&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:5&quot;},{&quot;para_id&quot;:&quot;1970.5597&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:5&quot;},{&quot;para_id&quot;:&quot;197
+1.5597&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:5&quot;},{&quot;para_id&quot;:&quot;1116
+5.5597&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:5&quot;},{&quot;para_id&quot;:&quot;197
+3.5597&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:5&quot;},{&quot;para_id&quot;:&quot;197
+2.5597&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:5&quot;},{&quot;para_id&quot;:&quot;1231
+8.5597&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:5&quot;},{&quot;para_id&quot;:&quot;1969.5597&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:5&quot;}]" data-refcode-old="KJV — Leviticus 1:5"><strong>5</strong> And he shall kill the bullock before the LORD: and the priests, Aaron's sons, shall bring the blood, and sprinkle the blood round about upon the altar that is by the door of the tabernacle of the congregation.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5599" data-para-id="196
+5.5599" data-refcode="KJV — Leviticus 1:6">
+<span class="egw_content" data-refcode="196
+5.5599" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5587&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:6&quot;},{&quot;para_id&quot;:&quot;196
+7.5599&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:6&quot;},{&quot;para_id&quot;:&quot;11139.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;11140.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+2.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+3.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+4.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;1114
+5.5599&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:6&quot;},{&quot;para_id&quot;:&quot;196
+8.6112&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:6&quot;},{&quot;para_id&quot;:&quot;202
+1.5599&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:6&quot;},{&quot;para_id&quot;:&quot;196
+6.5599&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:6&quot;},{&quot;para_id&quot;:&quot;1970.5599&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:6&quot;},{&quot;para_id&quot;:&quot;197
+1.5599&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:6&quot;},{&quot;para_id&quot;:&quot;1116
+5.5599&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:6&quot;},{&quot;para_id&quot;:&quot;197
+3.5599&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:6&quot;},{&quot;para_id&quot;:&quot;197
+2.5599&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:6&quot;},{&quot;para_id&quot;:&quot;1231
+8.5599&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:6&quot;},{&quot;para_id&quot;:&quot;1969.5599&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:6&quot;}]" data-refcode-old="KJV — Leviticus 1:6"><strong>6</strong> And he shall flay the burnt offering, and cut it into his pieces.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5601" data-para-id="196
+5.5601" data-refcode="KJV — Leviticus 1:7">
+<span class="egw_content" data-refcode="196
+5.5601" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5589&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:7&quot;},{&quot;para_id&quot;:&quot;196
+7.5601&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:7&quot;},{&quot;para_id&quot;:&quot;11139.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;11140.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+2.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+3.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+4.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;1114
+5.5601&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:7&quot;},{&quot;para_id&quot;:&quot;196
+8.6114&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:7&quot;},{&quot;para_id&quot;:&quot;202
+1.5601&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:7&quot;},{&quot;para_id&quot;:&quot;196
+6.5601&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:7&quot;},{&quot;para_id&quot;:&quot;1970.5601&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:7&quot;},{&quot;para_id&quot;:&quot;197
+1.5601&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:7&quot;},{&quot;para_id&quot;:&quot;1116
+5.5601&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:7&quot;},{&quot;para_id&quot;:&quot;197
+3.5601&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:7&quot;},{&quot;para_id&quot;:&quot;197
+2.5601&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:7&quot;},{&quot;para_id&quot;:&quot;1231
+8.5601&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:7&quot;},{&quot;para_id&quot;:&quot;1969.5601&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:7&quot;}]" data-refcode-old="KJV — Leviticus 1:7"><strong>7</strong> And the sons of Aaron the priest shall put fire upon the altar, and lay the wood in order upon the fire:</span>
+</p>
+ <p class="egw_content_wrapper standard-noindent" book_id="1965" id="5603" data-para-id="196
+5.5603" data-refcode="KJV — Leviticus 1:8">
+<span class="egw_content" data-refcode="196
+5.5603" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5591&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:8&quot;},{&quot;para_id&quot;:&quot;196
+7.5603&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:8&quot;},{&quot;para_id&quot;:&quot;11139.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;11140.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+2.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+3.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+4.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;1114
+5.5603&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:8&quot;},{&quot;para_id&quot;:&quot;196
+8.6116&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:8&quot;},{&quot;para_id&quot;:&quot;202
+1.5603&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:8&quot;},{&quot;para_id&quot;:&quot;196
+6.5603&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:8&quot;},{&quot;para_id&quot;:&quot;1970.5603&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:8&quot;},{&quot;para_id&quot;:&quot;197
+1.5603&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:8&quot;},{&quot;para_id&quot;:&quot;1116
+5.5603&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:8&quot;},{&quot;para_id&quot;:&quot;197
+3.5603&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:8&quot;},{&quot;para_id&quot;:&quot;197
+2.5603&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:8&quot;},{&quot;para_id&quot;:&quot;1231
+8.5603&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:8&quot;},{&quot;para_id&quot;:&quot;1969.5603&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:8&quot;}]" data-refcode-old="KJV — Leviticus 1:8"><strong>8</strong> And the priests, Aaron's sons, shall lay the parts, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5605" data-para-id="196
+5.5605" data-refcode="KJV — Leviticus 1:9">
+<span class="egw_content" data-refcode="196
+5.5605" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5593&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:9&quot;},{&quot;para_id&quot;:&quot;196
+7.5605&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:9&quot;},{&quot;para_id&quot;:&quot;11139.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;11140.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+2.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+3.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+4.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;1114
+5.5605&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:9&quot;},{&quot;para_id&quot;:&quot;196
+8.6118&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:9&quot;},{&quot;para_id&quot;:&quot;202
+1.5605&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:9&quot;},{&quot;para_id&quot;:&quot;196
+6.5605&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:9&quot;},{&quot;para_id&quot;:&quot;1970.5605&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:9&quot;},{&quot;para_id&quot;:&quot;197
+1.5605&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:9&quot;},{&quot;para_id&quot;:&quot;1116
+5.5605&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:9&quot;},{&quot;para_id&quot;:&quot;197
+3.5605&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:9&quot;},{&quot;para_id&quot;:&quot;197
+2.5605&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:9&quot;},{&quot;para_id&quot;:&quot;1231
+8.5605&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:9&quot;},{&quot;para_id&quot;:&quot;1969.5605&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:9&quot;}]" data-refcode-old="KJV — Leviticus 1:9"><strong>9</strong> But his inwards and his legs shall he wash in water: and the priest shall burn all on the altar, to be a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5607" data-para-id="196
+5.5607" data-refcode="KJV — Leviticus 1:10">
+<span class="egw_content" data-refcode="196
+5.5607" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5595&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:10&quot;},{&quot;para_id&quot;:&quot;196
+7.5607&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:10&quot;},{&quot;para_id&quot;:&quot;11139.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;11140.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+2.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+3.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+4.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;1114
+5.5607&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:10&quot;},{&quot;para_id&quot;:&quot;196
+8.6120&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:10&quot;},{&quot;para_id&quot;:&quot;202
+1.5607&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:10&quot;},{&quot;para_id&quot;:&quot;196
+6.5607&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:10&quot;},{&quot;para_id&quot;:&quot;1970.5607&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:10&quot;},{&quot;para_id&quot;:&quot;197
+1.5607&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:10&quot;},{&quot;para_id&quot;:&quot;1116
+5.5607&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:10&quot;},{&quot;para_id&quot;:&quot;197
+3.5607&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:10&quot;},{&quot;para_id&quot;:&quot;197
+2.5607&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:10&quot;},{&quot;para_id&quot;:&quot;1231
+8.5607&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:10&quot;},{&quot;para_id&quot;:&quot;1969.5607&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:10&quot;}]" data-refcode-old="KJV — Leviticus 1:10"><strong>10</strong> And if his offering be of the flocks, namely, of the sheep, or of the goats, for a burnt sacrifice; he shall bring it a male without blemish.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5609" data-para-id="196
+5.5609" data-refcode="KJV — Leviticus 1:11">
+<span class="egw_content" data-refcode="196
+5.5609" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5597&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:11&quot;},{&quot;para_id&quot;:&quot;196
+7.5609&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:11&quot;},{&quot;para_id&quot;:&quot;11139.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;11140.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+2.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+3.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+4.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;1114
+5.5609&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:11&quot;},{&quot;para_id&quot;:&quot;196
+8.6122&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:11&quot;},{&quot;para_id&quot;:&quot;202
+1.5609&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:11&quot;},{&quot;para_id&quot;:&quot;196
+6.5609&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:11&quot;},{&quot;para_id&quot;:&quot;1970.5609&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:11&quot;},{&quot;para_id&quot;:&quot;197
+1.5609&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:11&quot;},{&quot;para_id&quot;:&quot;1116
+5.5609&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:11&quot;},{&quot;para_id&quot;:&quot;197
+3.5609&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:11&quot;},{&quot;para_id&quot;:&quot;197
+2.5609&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:11&quot;},{&quot;para_id&quot;:&quot;1231
+8.5609&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:11&quot;},{&quot;para_id&quot;:&quot;1969.5609&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:11&quot;}]" data-refcode-old="KJV — Leviticus 1:11"><strong>11</strong> And he shall kill it on the side of the altar northward before the LORD: and the priests, Aaron's sons, shall sprinkle his blood round about upon the altar.</span>
+</p>
+ <p class="egw_content_wrapper standard-noindent" book_id="1965" id="5611" data-para-id="196
+5.5611" data-refcode="KJV — Leviticus 1:12">
+<span class="egw_content" data-refcode="196
+5.5611" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5599&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:12&quot;},{&quot;para_id&quot;:&quot;196
+7.5611&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:12&quot;},{&quot;para_id&quot;:&quot;11139.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;11140.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+2.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+3.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+4.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;1114
+5.5611&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:12&quot;},{&quot;para_id&quot;:&quot;196
+8.6124&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:12&quot;},{&quot;para_id&quot;:&quot;202
+1.5611&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:12&quot;},{&quot;para_id&quot;:&quot;196
+6.5611&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:12&quot;},{&quot;para_id&quot;:&quot;1970.5611&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:12&quot;},{&quot;para_id&quot;:&quot;197
+1.5611&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:12&quot;},{&quot;para_id&quot;:&quot;1116
+5.5611&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:12&quot;},{&quot;para_id&quot;:&quot;197
+3.5611&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:12&quot;},{&quot;para_id&quot;:&quot;197
+2.5611&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:12&quot;},{&quot;para_id&quot;:&quot;1231
+8.5611&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:12&quot;},{&quot;para_id&quot;:&quot;1969.5611&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:12&quot;}]" data-refcode-old="KJV — Leviticus 1:12"><strong>12</strong> And he shall cut it into his pieces, with his head and his fat: and the priest shall lay them in order on the wood that is on the fire which is upon the altar:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5613" data-para-id="196
+5.5613" data-refcode="KJV — Leviticus 1:13">
+<span class="egw_content" data-refcode="196
+5.5613" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5601&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:13&quot;},{&quot;para_id&quot;:&quot;196
+7.5613&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:13&quot;},{&quot;para_id&quot;:&quot;11139.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;11140.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+2.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+3.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+4.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;1114
+5.5613&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:13&quot;},{&quot;para_id&quot;:&quot;196
+8.6126&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:13&quot;},{&quot;para_id&quot;:&quot;202
+1.5613&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:13&quot;},{&quot;para_id&quot;:&quot;196
+6.5613&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:13&quot;},{&quot;para_id&quot;:&quot;1970.5613&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:13&quot;},{&quot;para_id&quot;:&quot;197
+1.5613&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:13&quot;},{&quot;para_id&quot;:&quot;1116
+5.5613&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:13&quot;},{&quot;para_id&quot;:&quot;197
+3.5613&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:13&quot;},{&quot;para_id&quot;:&quot;197
+2.5613&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:13&quot;},{&quot;para_id&quot;:&quot;1231
+8.5613&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:13&quot;},{&quot;para_id&quot;:&quot;1969.5613&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:13&quot;}]" data-refcode-old="KJV — Leviticus 1:13"><strong>13</strong> But he shall wash the inwards and the legs with water: and the priest shall bring it all, and burn it upon the altar: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5615" data-para-id="196
+5.5615" data-refcode="KJV — Leviticus 1:14">
+<span class="egw_content" data-refcode="196
+5.5615" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5603&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:14&quot;},{&quot;para_id&quot;:&quot;196
+7.5615&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:14&quot;},{&quot;para_id&quot;:&quot;11139.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;11140.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+2.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+3.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+4.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;1114
+5.5615&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:14&quot;},{&quot;para_id&quot;:&quot;196
+8.6128&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:14&quot;},{&quot;para_id&quot;:&quot;202
+1.5615&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:14&quot;},{&quot;para_id&quot;:&quot;196
+6.5615&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:14&quot;},{&quot;para_id&quot;:&quot;1970.5615&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:14&quot;},{&quot;para_id&quot;:&quot;197
+1.5615&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:14&quot;},{&quot;para_id&quot;:&quot;1116
+5.5615&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:14&quot;},{&quot;para_id&quot;:&quot;197
+3.5615&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:14&quot;},{&quot;para_id&quot;:&quot;197
+2.5615&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:14&quot;},{&quot;para_id&quot;:&quot;1231
+8.5615&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:14&quot;},{&quot;para_id&quot;:&quot;1969.5615&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:14&quot;}]" data-refcode-old="KJV — Leviticus 1:14"><strong>14</strong> And if the burnt sacrifice for his offering to the LORD be of fowls, then he shall bring his offering of turtledoves, or of young pigeons.</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5617" data-para-id="196
+5.5617" data-refcode="KJV — Leviticus 1:15">
+<span class="egw_content" data-refcode="196
+5.5617" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5605&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:15&quot;},{&quot;para_id&quot;:&quot;196
+7.5617&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:15&quot;},{&quot;para_id&quot;:&quot;11139.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;11140.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+2.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+3.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+4.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;1114
+5.5617&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:15&quot;},{&quot;para_id&quot;:&quot;196
+8.6130&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:15&quot;},{&quot;para_id&quot;:&quot;202
+1.5617&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:15&quot;},{&quot;para_id&quot;:&quot;196
+6.5617&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:15&quot;},{&quot;para_id&quot;:&quot;1970.5617&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:15&quot;},{&quot;para_id&quot;:&quot;197
+1.5617&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:15&quot;},{&quot;para_id&quot;:&quot;1116
+5.5617&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:15&quot;},{&quot;para_id&quot;:&quot;197
+3.5617&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:15&quot;},{&quot;para_id&quot;:&quot;197
+2.5617&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:15&quot;},{&quot;para_id&quot;:&quot;1231
+8.5617&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:15&quot;},{&quot;para_id&quot;:&quot;1969.5617&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:15&quot;}]" data-refcode-old="KJV — Leviticus 1:15"><strong>15</strong> And the priest shall bring it unto the altar, and wring off his head, and burn it on the altar; and the blood thereof shall be wrung out at the side of the altar:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5619" data-para-id="196
+5.5619" data-refcode="KJV — Leviticus 1:16">
+<span class="egw_content" data-refcode="196
+5.5619" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5607&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:16&quot;},{&quot;para_id&quot;:&quot;196
+7.5619&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:16&quot;},{&quot;para_id&quot;:&quot;11139.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;11140.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+2.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+3.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+4.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;1114
+5.5619&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:16&quot;},{&quot;para_id&quot;:&quot;196
+8.6132&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:16&quot;},{&quot;para_id&quot;:&quot;202
+1.5619&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:16&quot;},{&quot;para_id&quot;:&quot;196
+6.5619&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:16&quot;},{&quot;para_id&quot;:&quot;1970.5619&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:16&quot;},{&quot;para_id&quot;:&quot;197
+1.5619&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:16&quot;},{&quot;para_id&quot;:&quot;1116
+5.5619&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:16&quot;},{&quot;para_id&quot;:&quot;197
+3.5619&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:16&quot;},{&quot;para_id&quot;:&quot;197
+2.5619&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:16&quot;},{&quot;para_id&quot;:&quot;1231
+8.5619&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:16&quot;},{&quot;para_id&quot;:&quot;1969.5619&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:16&quot;}]" data-refcode-old="KJV — Leviticus 1:16"><strong>16</strong> And he shall pluck away his crop with his feathers, and cast it beside the altar on the east part, by the place of the ashes:</span>
+</p>
+<p class="egw_content_wrapper standard-noindent" book_id="1965" id="5621" data-para-id="196
+5.5621" data-refcode="KJV — Leviticus 1:17">
+<span class="egw_content" data-refcode="196
+5.5621" data-translate="[{&quot;para_id&quot;:&quot;1125
+8.5609&quot;,&quot;lang&quot;:&quot;ces&quot;,&quot;refcode&quot;:&quot;CzeCEP \u2014 3Moj\u017e\u00ed\u0161ova 1:17&quot;},{&quot;para_id&quot;:&quot;196
+7.5621&quot;,&quot;lang&quot;:&quot;de&quot;,&quot;refcode&quot;:&quot;Lut \u2014 3Mose 1:17&quot;},{&quot;para_id&quot;:&quot;11139.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;ASV \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;11140.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;DBY \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+2.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WEB \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+3.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;WBS \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+4.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;YLT \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;1114
+5.5621&quot;,&quot;lang&quot;:&quot;en&quot;,&quot;refcode&quot;:&quot;AKJV \u2014 Leviticus 1:17&quot;},{&quot;para_id&quot;:&quot;196
+8.6134&quot;,&quot;lang&quot;:&quot;es&quot;,&quot;refcode&quot;:&quot;RVa \u2014 Lev\u00edtico 1:17&quot;},{&quot;para_id&quot;:&quot;202
+1.5621&quot;,&quot;lang&quot;:&quot;fr&quot;,&quot;refcode&quot;:&quot;Fren \u2014 L\u00e9vitique 1:17&quot;},{&quot;para_id&quot;:&quot;196
+6.5621&quot;,&quot;lang&quot;:&quot;it&quot;,&quot;refcode&quot;:&quot;LND \u2014 Levitico 1:17&quot;},{&quot;para_id&quot;:&quot;1970.5621&quot;,&quot;lang&quot;:&quot;pl&quot;,&quot;refcode&quot;:&quot;PB \u2014 3Moj\u017ceszowa 1:17&quot;},{&quot;para_id&quot;:&quot;197
+1.5621&quot;,&quot;lang&quot;:&quot;pt&quot;,&quot;refcode&quot;:&quot;PCF \u2014 Lev\u00edtico 1:17&quot;},{&quot;para_id&quot;:&quot;1116
+5.5621&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;RCCV \u2014 Leviticul 1:17&quot;},{&quot;para_id&quot;:&quot;197
+3.5621&quot;,&quot;lang&quot;:&quot;ro&quot;,&quot;refcode&quot;:&quot;Rom \u2014 Levitic 1:17&quot;},{&quot;para_id&quot;:&quot;197
+2.5621&quot;,&quot;lang&quot;:&quot;ru&quot;,&quot;refcode&quot;:&quot;\u0420\u0421\u041f \u2014 \u041b\u0435\u0432\u0438\u0442 1:17&quot;},{&quot;para_id&quot;:&quot;1231
+8.5621&quot;,&quot;lang&quot;:&quot;uk&quot;,&quot;refcode&quot;:&quot;\u0423\u041f\u041e \u2014 \u041b\u0435\u0432\u0438\u0442 1:17&quot;},{&quot;para_id&quot;:&quot;1969.5621&quot;,&quot;lang&quot;:&quot;zh&quot;,&quot;refcode&quot;:&quot;CHIUS \u2014 \u5229\u672a\u8a18 1:17&quot;}]" data-refcode-old="KJV — Leviticus 1:17"><strong>17</strong> And he shall cleave it with the wings thereof, but shall not divide it asunder: and the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt sacrifice, an offering made by fire, of a sweet savour unto the LORD.</span>
+</p>
+</div>
+<div class="pager bottom">
+<ul>
+<li class="previous">
+<a class="btn-large" href="/en/book/196
+5.5509">Previous</a>
+</li>
+<li class="next">
+<a class="btn-large" href="/en/book/196
+5.5622">Next</a>
+</li>
+</ul>
+</div> </div>
+<div class="hidden">
+</div>
+</div>
+</main>
+
+<footer class="site_footer">
+<div class="container">
+<div id="backToTop" class="back-to-top transition"></div>
+<form action="/index/Lang" method="GET" class="language-selector">
+<label for="app_language">Interface Language</label>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="a158ec22c49ff0b9ce54861c-"></script><select name="lang" onchange="this.form.submit()" id="app_language">
+<option value="en">English</option>
+<option value="ru">Русский</option>
+</select>
+<input id="app_lang_change" type="submit" value="Send" class="btn  btn-primary" />
+<script type="a158ec22c49ff0b9ce54861c-">
+                document.getElementById('app_lang_change').style.display = 'none';
+            </script>
+</form>
+<div class="copyright">Copyright © 2018 by Ellen G. White. All Rights Reserved.</div>
+</div>
+</footer>
+
+
+
+<div class="modal fade" id="playerModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myPlayerLabel">&nbsp;</h4>
+</div>
+<div class="modal-body">
+<div id="jquery_jplayer_1" class="jp-jplayer"></div>
+<div id="jplayer_inspector"></div>
+<div id="jp_container_1" class="jp-audio" role="application" aria-label="media player">
+<div class="jp-type-playlist">
+<div class="jp-gui jp-interface">
+<div class="jp-controls">
+<button class="jp-previous" role="button" tabindex="0">previous</button>
+<button class="jp-play" role="button" tabindex="0">play</button>
+<button class="jp-next" role="button" tabindex="0">next</button>
+<button class="jp-stop" role="button" tabindex="0">stop</button>
+</div>
+<div class="jp-progress">
+<div class="jp-seek-bar">
+<div class="jp-play-bar"></div>
+</div>
+</div>
+<div class="jp-volume-controls">
+<button class="jp-mute" role="button" tabindex="0">mute</button>
+<button class="jp-volume-max" role="button" tabindex="0">max volume</button>
+<div class="jp-volume-bar">
+<div class="jp-volume-bar-value"></div>
+</div>
+</div>
+<div class="jp-time-holder">
+<div class="jp-current-time" role="timer" aria-label="time">&nbsp;</div>
+<div class="jp-duration" role="timer" aria-label="duration">&nbsp;</div>
+</div>
+<div class="jp-toggles">
+<button class="jp-repeat" role="button" tabindex="0">repeat</button>
+<button class="jp-shuffle" role="button" tabindex="0">shuffle</button>
+</div>
+</div>
+<div class="jp-playlist">
+<ul>
+<li>&nbsp;</li>
+</ul>
+</div>
+<div class="jp-no-solution">
+<span>Update Required</span>
+To play the media you will need to either update your browser to a recent version or update your <a href="http://get.adobe.com/flashplayer/" target="_blank">Flash plugin</a>.
+</div>
+</div>
+</div>
+</div>
+<div class="modal-footer">
+<label class="pull-left"><input type="checkbox" id="bookSync" /> Switch chapters automatically</label>
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="modal fade" id="translateModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Translate</h4>
+</div>
+<div class="modal-body">
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-translate-href" data-dismiss="modal">Translate this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-login-dialog" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Login</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="egw-link-dialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Modal title</h4>
+</div>
+<div class="modal-body">
+&hellip;
+</div>
+<div class="modal-footer">
+<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+<a href="#" class="btn btn-primary egw-link-dialog-href" data-dismiss="modal">Read this book</a>
+</div>
+</div>
+</div>
+</div>
+<div class="modal fade" id="studyCenterModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header">
+<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+<h4 class="modal-title" id="myModalLabel">Study Center</h4>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+<span class="ScErrorMessage-value" data-text="Value is empty"></span>
+<span class="ScErrorMessage-color" data-text="Color was not set"></span>
+</div>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/c4ff6c3/jquery-
+1.1
+1.
+3.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/c4ff6c3/plugins/jquery.scrollintoview.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/b9908141/js/bootstrap.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/10390753/js/bootstrap-datepicker.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/10390753/locales/bootstrap-datepicker.ru.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/3ea7dc80/js/zabuto_calendar.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/1d0f9702/bootstrap-table.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/1d0f9702/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/f6449d05/bootstrap-slider.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/main.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/custom.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/history.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/auth.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/toc.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/translate.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/player.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/advancesearch.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/highlighter.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/languages.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/badc62fa/svgeezy.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/5bc2dd6/modernizr-svg-support.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/b7bd2cad/bootstrap-toggle.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/f6d1f3ee/jplayer/jquery.jplayer.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/f6d1f3ee/add-on/jplayer.playlist.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/f6d1f3ee/add-on/jquery.jplayer.inspector.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/24d5557f/typeahead.jquery.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/1882661a/js/select
+2.min.js"></script>
+<script type="a158ec22c49ff0b9ce54861c-text/javascript" src="/assets/efbf099c/studypanel.js"></script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/4f936b58/cloudflare-static/rocket-loader.min.js" data-cf-nonce="a158ec22c49ff0b9ce54861c-" defer=""></script></body>
+</html>
